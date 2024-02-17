@@ -13,5 +13,7 @@ Composantes et techniques:
 Expérience vécue: 
 Ce qui m'a plu:
 Aspects que je ferais autrement:
+<hr>
+<hr>
 
 ![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
