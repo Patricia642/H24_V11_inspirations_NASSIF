@@ -1,4 +1,4 @@
-<h1><align="center">Phase Shifting Index</h1><p align="center">Texte centré</p>
+<h1 align="center">Phase Shifting Index</h1>
 <h2>Nom de l'artiste: Jeremy Shaw</h2>
 <br>Lieu de mise en exposition: Fonderie Darling</br>
 Titre de l'oeuvre: Phase Shifting Index
