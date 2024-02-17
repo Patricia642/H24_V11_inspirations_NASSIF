@@ -14,4 +14,4 @@ Expérience vécue:
 Ce qui m'a plu:
 Aspects que je ferais autrement:
 
-![photo](media/ecran_tp1_20240202.jpg)
+![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
