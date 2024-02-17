@@ -22,6 +22,6 @@ Aspects que je ferais autrement:
 ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
-![photo](media/)
+![photo](media/Jeremy_Shaw_projecteur_20240202.jpg)
 ![photo](media/)
 ![photo](media/)
