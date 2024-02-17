@@ -17,7 +17,6 @@ Aspects que je ferais autrement:
 <hr>
 
 ![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
-![photo](media/Jeremy_Shaw_couloir_allure_20240202.jpg)
 ![photo](media/Jeremy_Shaw_croquis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
