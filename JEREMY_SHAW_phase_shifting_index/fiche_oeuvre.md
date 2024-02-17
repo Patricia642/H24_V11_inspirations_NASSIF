@@ -1,5 +1,5 @@
 <h1 align="center">Phase Shifting Index</h1>
-<p align="center">**Jeremy Shaw**</h2>
+**<align="center">Jeremy Shaw>**
 <br>Lieu de mise en exposition: Fonderie Darling</br>
 Titre de l'oeuvre: Phase Shifting Index
 Type d'exposition: Itinérante
