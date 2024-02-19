@@ -1,1 +1,1 @@
-Ce dossier est pour la présentation de mon tp1. 
+Ce dossier est pour la description de l'exposition. 
