@@ -30,7 +30,7 @@ Aspects que je ferais autrement:
 <hr>
 <hr>
 
-![photo](media/Jeremy_Shaw_cartel_20240202.jpg, media/Jeremy_Shaw_croquis_20240202.jpg)
+![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
 ![photo](media/Jeremy_Shaw_croquis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
