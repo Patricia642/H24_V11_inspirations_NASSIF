@@ -4,4 +4,4 @@ Amusant
 Change les idées
 Très épuré
 Pas trop aimé la salle de bain
-Aime beaucoup le tapis au sol
+Aime beaucoup le tapis au sol et écrans
