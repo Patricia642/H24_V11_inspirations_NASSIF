@@ -43,8 +43,7 @@ Composantes et techniques:
 
 Expérience vécue: 
 Le 2 février 2024, lors de ma visite de l'exposition de l'oeuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous demande gentiment de retirer nos souliers ou de les proteger pour ne pas salir les tapis de la salle d'exposition ce qui m'a rendu heureuse puisque j'aime quand les oeuvres et les demandes des artistes sont respectées. Ensuite, une dame est venu pour nous expliquer bien en détails l'oeuvre qui allait nous être présentée et nous parler un peu plus des intentions de l'artise dans celle-ci. Suite au visionnement de l'oeuvre, je trouve que l'expérience de cette exposition a été intrigante et différente de mes attentes puisque je m'attendais a une approche plus similaire à celle des salles de cinéma avec une histoire spécifique à la quelle s'accrocher et donc finalement j'ai découvert une façon complaitement autre pour véhiculer des émotions par l'utilisation d'écrans.
-<br>
-<br>
+***
 Aspects que je ferais autrement:
 Je ferais différament les salles de bains puisqu'ils était très proches de l'exposition et ne procuraient pas vraiment d'intimité puisqu'on entendais tirer la chasse d'eau à partir du couloir et je metterais un éclérage plus tamisé du côté de l'illustration amplifié sur les murs pour ajouter une certaine ambiance tamisé à la place d'un éclairage néon blanc.
 
