@@ -19,7 +19,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
 </br>
 <br>
-Composantes et techniques:
+<h3 align=center>Composantes et techniques</h3>
 1. Plans de l'installation
 2. Plans du matériels requis obligatoirement
 3. Sept écrans
