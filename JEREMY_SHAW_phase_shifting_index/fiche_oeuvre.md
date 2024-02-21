@@ -1,5 +1,5 @@
-<h1 align="center">Phase Shifting Index
- align="center">Jeremy Shaw</h1>
+<h1>Phase Shifting Index<br>
+Jeremy Shaw</h1>
 
 <br>Lieu de mise en exposition: Fonderie Darling</br>
 <br>Adresse : 745 Rue Ottawa, Montréal, QC H3C 1R8</br>
