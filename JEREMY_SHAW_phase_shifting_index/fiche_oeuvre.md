@@ -13,15 +13,15 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
 </br>
 Composantes et techniques:
-1.Plans de l'installation
-2.Plans du matériels requis obligatoirement
-3.Sept écrans
-4.Sept projecteurs
-5.Quatorze haut-parleurs de hautes qualités
-6.Sept plateformes
-7.Tapis
-8.La tapisserie de l'illustration amplifié
-9.Fils transparents asser forts pour soutenir les écrans
+1. Plans de l'installation
+2. Plans du matériels requis obligatoirement
+3. Sept écrans
+4. Sept projecteurs
+5. Quatorze haut-parleurs de hautes qualités
+6. Sept plateformes
+7. Tapis
+8. La tapisserie de l'illustration amplifié
+9. Fils transparents asser forts pour soutenir les écrans
 
 Éléments nécessaires à la mise en exposition:
 Cache-fil
