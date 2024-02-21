@@ -67,4 +67,4 @@ J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeu
 </h4>
 <hr>
 
-Pour plus d'information cliquer ici: [Fonderie Darling](https://fonderiedarling.org)
+<strong>Pour plus d'information cliquer ici</strong>: [Fonderie Darling](https://fonderiedarling.org)
