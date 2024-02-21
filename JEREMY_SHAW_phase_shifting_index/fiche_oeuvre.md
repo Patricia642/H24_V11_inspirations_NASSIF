@@ -3,10 +3,10 @@ Phase Shifting Index<br>
 Jeremy Shaw
 </h1>
 
-<h3>
+<p>
 Lieu de mise en exposition: Fonderie Darling<br>
 Adresse : 745 Rue Ottawa, Montréal, QC H3C 1R8
-</h3>
+</p>
 
 </br>
 Mise en espace: 
