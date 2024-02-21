@@ -10,7 +10,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 <br>
 ![photo](media/Jeremy_Shaw_croquis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg)
-![photo](media/)
+![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
 </br>
 Composantes et techniques:
 Plans de l'installation
