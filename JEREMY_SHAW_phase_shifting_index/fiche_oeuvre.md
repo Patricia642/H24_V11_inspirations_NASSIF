@@ -56,6 +56,7 @@ Je ferais différament les salles de bains puisqu'ils était très proches de l'
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeur puisqu'il n'y avais pas de fils visible ce qui a crée une très belle finition et augmenté la qualité de l'exposition. J'ai aussi adoré le tapis qui était présent partout au sol et sur les plateformes dans la salle qui a procuré du confort et une expérience sensorielle agréable. Sans oublier que je me suis beaucoup amusé à faire la sortie en groupe.
 <br>
+
 | Allure de l'écran | Le tapis | 
 | :---: | :---: | 
 | ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg) | ![photo](media/Jeremy_Shaw_tapis_20240202.jpg) |
