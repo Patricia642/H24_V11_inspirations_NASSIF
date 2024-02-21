@@ -65,10 +65,6 @@ J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeu
   
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 </h4>
-![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
-![photo](media/Jeremy_Shaw_tapis_20240202.jpg)
-![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
-
 <hr>
 
 Pour plus d'information cliquer ici: [Fonderie Darling](https://fonderiedarling.org)
