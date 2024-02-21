@@ -25,7 +25,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 <hr>
 <h3 align=center>Composantes et techniques</h3>
 
-> Plans de l'installation
+- Plans de l'installation
 2. Plans du matériels requis obligatoirement
 3. Sept écrans
 4. Sept projecteurs
