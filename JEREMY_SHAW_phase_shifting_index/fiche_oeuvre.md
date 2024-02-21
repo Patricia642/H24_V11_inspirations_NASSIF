@@ -18,10 +18,10 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 | :---: | :---: | 
 | ![photo](media/Jeremy_Shaw_croquis_20240202.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
 
-<h5 align=center>Hauteur de l'écran<br>
+<h4 align=center>Hauteur de l'écran<br>
   
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg) 
-</h5>
+</h4>
 </br>
 <br>
 
