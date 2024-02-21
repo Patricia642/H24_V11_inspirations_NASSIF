@@ -1,2 +1,2 @@
-Ce dossier est pour la description de l'exposition. 
-L'installation "Phase Shifting Index" (2020), par Jeremy Shaw, fusionne les médias pour explorer la recherche de transcendance et de communauté à travers la danse et le mouvement. Elle altère la perception du temps, défiant les normes documentaires classiques.
+Description de l'oeuvre:
+L'exposition itinérante nommé "Phase Shifting Index" (2020) est une oeuvre à installation immersive qui mélange vidéo, son et lumière pour explorer la quête de transcendance et de communauté à travers différents groupes dans des activités de danse et de mouvement. Elle brouille la perception du temps et de l'espace, offrant une expérience immersive qui remet en question les conventions documentaires traditionnelles.
