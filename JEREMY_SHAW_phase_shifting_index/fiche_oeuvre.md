@@ -4,7 +4,7 @@ Jeremy Shaw
 </h1>
 
 <p>
-Lieu de mise en exposition: Fonderie Darling<br>
+Lieu de mise en exposition: <strong> Fonderie Darling </strong><br>
 Adresse : 745 Rue Ottawa, Montréal, QC H3C 1R8<br>
 Présenté: 12.12.2023 - 25.02.2024
 </p>
