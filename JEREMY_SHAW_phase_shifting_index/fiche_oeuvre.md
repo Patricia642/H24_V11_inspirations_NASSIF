@@ -1,7 +1,8 @@
-<h1>---
+<h1>
+  ---
 Phase Shifting Index<br>
 Jeremy Shaw
----
+  ---
 </h1>
 
 <p>
