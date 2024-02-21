@@ -39,7 +39,6 @@ Le 2 février 2024, lors de ma visite de l'exposition de l'oeuvre "Phase Shiftin
 Ce qui m'a plu:
 J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeur puisqu'il n'y avais pas de fils visible ce qui a crée une très belle finition et augmenté la qualité de l'exposition. J'ai aussi adoré le tapis qui était présent partout au sol et sur les plateformes dans la salle qui a procuré du confort et une expérience sensorielle agréable. Sans oublier que je me suis beaucoup amusé à faire la sortie en groupe.
 ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
-![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
 ![photo](media/Jeremy_Shaw_tapis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 
