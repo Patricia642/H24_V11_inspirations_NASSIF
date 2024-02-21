@@ -47,5 +47,4 @@ Aspects que je ferais autrement:
 Je ferais différament les salles de bains puisqu'ils était très proches de l'exposition et ne procuraient pas vraiment d'intimité puisqu'on entendais tirer la chasse d'eau à partir du couloir et je metterais un éclérage plus tamisé du côté de l'illustration amplifié sur les murs pour ajouter une certaine ambiance tamisé à la place d'un éclairage néon blanc.
 <hr>
 
-Pour plus d'information cliquer ici: [Fonderie Darling](https://https://www.fonderiedarling.org/)
-[title](https://www.example.com)
+Pour plus d'information cliquer ici: [Fonderie Darling](https://https://fonderiedarling.org)
