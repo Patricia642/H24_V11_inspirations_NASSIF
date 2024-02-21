@@ -1,9 +1,6 @@
-<h1>
-  ---
+<h1 align=center>
 Phase Shifting Index<br>
-  ---
 Jeremy Shaw
-  ---
 </h1>
 
 <p>
