@@ -2,5 +2,7 @@
 L'exposition itinérante nommé "Phase Shifting Index" (2020) est une oeuvre à installation immersive qui mélange vidéo, son et lumière pour explorer la quête de transcendance et de communauté à travers différents groupes dans des activités de danse et de mouvement. Elle brouille la perception du temps et de l'espace, offrant une expérience immersive qui remet en question les conventions documentaires traditionnelles.
 <br>
 <br>
-
-<p align=center>![photo](media/Jeremy_Shaw_cartel_20240202.jpg)</p>
+<h4 align=center>Hauteur de l'écran<br>
+  
+![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
+</h4>
