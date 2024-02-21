@@ -13,11 +13,14 @@ Présenté: 12.12.2023 - 25.02.2024
 En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le bureau de la réception et en face des accroches manteaux. Suite à cela vers la droite un banc d'attente est placer proche de la pièce ou ce trouve l'illustration agrandi sur les murs. À partir de cette pièce, nous sommes dirigés vers des rideaux qui mènant à l'exposition qui dévoile la répétition de sept grands écrans identiques très bien distancés dans la pièce et centré plus vers l'entré qui son suivit de sept projecteurs et de sept plateformes qui son distancés de trois à quatre mètres. La salle était sombre et pourtant elle était quand même bien écléré par les grants écrans. Le son sortait directement de haut-parleurs proche des plateformes et visés vers le télespectateur pour accentuer l'immertion de l'expérience. Sans oublier qu'aucun fils ou prise électrique est montré ce qui donne l'impression que les écrans volant et que la pièces est très grandes et épurée. 
 <br>
 <br>
+
 ![photo](media/Jeremy_Shaw_croquis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg)
 ![photo](media/Jeremy_Shaw_hauteur_ecran_20240202.jpg)
+
 </br>
 <br>
+
 <h3 align=center>Composantes et techniques</h3>
 1. Plans de l'installation
 2. Plans du matériels requis obligatoirement
@@ -49,6 +52,8 @@ Je ferais différament les salles de bains puisqu'ils était très proches de l'
 
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeur puisqu'il n'y avais pas de fils visible ce qui a crée une très belle finition et augmenté la qualité de l'exposition. J'ai aussi adoré le tapis qui était présent partout au sol et sur les plateformes dans la salle qui a procuré du confort et une expérience sensorielle agréable. Sans oublier que je me suis beaucoup amusé à faire la sortie en groupe.
+<br>
+
 ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
 ![photo](media/Jeremy_Shaw_tapis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
