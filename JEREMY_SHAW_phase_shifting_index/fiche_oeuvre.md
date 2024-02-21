@@ -24,15 +24,15 @@ Composantes et techniques:
 9. Fils transparents asser forts pour soutenir les écrans
 
 Éléments nécessaires à la mise en exposition:
-Cache-fil
-Câbles
-Tapis
-Plateformes
-tapisserie
-Écrans
-Projecteurs
-Hauts-parleurs
-Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
+1. Cache-fil
+2. Câbles
+3. Tapis
+4. Plateformes
+5. tapisserie
+6. Écrans
+7. Projecteurs
+8. Hauts-parleurs
+9. Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
 
 Expérience vécue: 
 Le 2 février 2024, lors de ma visite de l'exposition de l'oeuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous demande gentiment de retirer nos souliers ou de les proteger pour ne pas salir les tapis de la salle d'exposition ce qui m'a rendu heureuse puisque j'aime quand les oeuvres et les demandes des artistes sont respectées. Ensuite, une dame est venu pour nous expliquer bien en détails l'oeuvre qui allait nous être présentée et nous parler un peu plus des intentions de l'artise dans celle-ci. Suite au visionnement de l'oeuvre, je trouve que l'expérience de cette exposition a été intrigante et différente de mes attentes puisque je m'attendais a une approche plus similaire à celle des salles de cinéma avec une histoire spécifique à la quelle s'accrocher et donc finalement j'ai découvert une façon complaitement autre pour véhiculer des émotions par l'utilisation d'écrans.
