@@ -5,8 +5,8 @@ Jeremy Shaw
 
 <p>
 Lieu de mise en exposition: <strong> Fonderie Darling </strong><br>
-Adresse : 745 Rue Ottawa, Montréal, QC H3C 1R8<br>
-Présenté: 12.12.2023 - 25.02.2024
+Adresse : <strong>745 Rue Ottawa, Montréal, QC H3C 1R8</strong><br>
+Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 </p>
 
 <h3 align=center>Mise en espace</h3>
@@ -48,7 +48,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 - Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
 <hr>
 <h3 align=center>Expérience vécue</h3>
-Le 2 février 2024, lors de ma visite de l'exposition de l'oeuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous demande gentiment de retirer nos souliers ou de les proteger pour ne pas salir les tapis de la salle d'exposition ce qui m'a rendu heureuse puisque j'aime quand les oeuvres et les demandes des artistes sont respectées. Ensuite, une dame est venu pour nous expliquer bien en détails l'oeuvre qui allait nous être présentée et nous parler un peu plus des intentions de l'artise dans celle-ci. Suite au visionnement de l'oeuvre, je trouve que l'expérience de cette exposition a été intrigante et différente de mes attentes puisque je m'attendais a une approche plus similaire à celle des salles de cinéma avec une histoire spécifique à la quelle s'accrocher et donc finalement j'ai découvert une façon complaitement autre pour véhiculer des émotions par l'utilisation d'écrans.
+Le <strong>2 février 2024</strong>, lors de ma visite de l'exposition de l'oeuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous demande gentiment de retirer nos souliers ou de les proteger pour ne pas salir les tapis de la salle d'exposition ce qui m'a rendu heureuse puisque j'aime quand les oeuvres et les demandes des artistes sont respectées. Ensuite, une dame est venu pour nous expliquer bien en détails l'oeuvre qui allait nous être présentée et nous parler un peu plus des intentions de l'artise dans celle-ci. Suite au visionnement de l'oeuvre, je trouve que l'expérience de cette exposition a été intrigante et différente de mes attentes puisque je m'attendais a une approche plus similaire à celle des salles de cinéma avec une histoire spécifique à la quelle s'accrocher et donc finalement j'ai découvert une façon complaitement autre pour véhiculer des émotions par l'utilisation d'écrans.
 <hr>
 <h3 align=center>Aspects que je ferais autrement</h3>
 Je ferais différament les salles de bains puisqu'ils était très proches de l'exposition et ne procuraient pas vraiment d'intimité puisqu'on entendais tirer la chasse d'eau à partir du couloir et je metterais un éclérage plus tamisé du côté de l'illustration amplifié sur les murs pour ajouter une certaine ambiance tamisé à la place d'un éclairage néon blanc.
