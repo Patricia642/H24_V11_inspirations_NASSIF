@@ -24,6 +24,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 </h4>
 <hr>
 <h3 align=center>Composantes et techniques</h3>
+
 1. Plans de l'installation
 2. Plans du matériels requis obligatoirement
 3. Sept écrans
@@ -35,6 +36,7 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 9. Fils transparents asser forts pour soutenir les écrans
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
+
 1. Cache-fil
 2. Câbles
 3. Tapis
@@ -54,7 +56,14 @@ Je ferais différament les salles de bains puisqu'ils était très proches de l'
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeur puisqu'il n'y avais pas de fils visible ce qui a crée une très belle finition et augmenté la qualité de l'exposition. J'ai aussi adoré le tapis qui était présent partout au sol et sur les plateformes dans la salle qui a procuré du confort et une expérience sensorielle agréable. Sans oublier que je me suis beaucoup amusé à faire la sortie en groupe.
 <br>
+| Allure de l'écran | Le tapis | 
+| :---: | :---: | 
+| ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg) | ![photo](media/Jeremy_Shaw_tapis_20240202.jpg) |
 
+<h4 align=center>En groupe<br>
+  
+![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
+</h4>
 ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg)
 ![photo](media/Jeremy_Shaw_tapis_20240202.jpg)
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
