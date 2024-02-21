@@ -1,10 +1,9 @@
-<h1 align="center">Phase Shifting Index</h1>
-
-<h2 align="center">Jeremy Shaw</h2>
+<h1 align="center">Phase Shifting Index
+ align="center">Jeremy Shaw</h21>
 
 <br>Lieu de mise en exposition: Fonderie Darling</br>
 <br>Adresse : 745 Rue Ottawa, Montréal, QC H3C 1R8</br>
-<bh>
+
 Mise en espace: 
 En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le bureau de la réception et en face des accroches manteaux. Suite à cela vers la droite un banc d'attente est placer proche de la pièce ou ce trouve l'illustration agrandi sur les murs. À partir de cette pièce, nous sommes dirigés vers des rideaux qui mènant à l'exposition qui dévoile la répétition de sept grands écrans identiques très bien distancés dans la pièce et centré plus vers l'entré qui son suivit de sept projecteurs et de sept plateformes qui son distancés de trois à quatre mètres. La salle était sombre et pourtant elle était quand même bien écléré par les grants écrans. Le son sortait directement de haut-parleurs proche des plateformes et visés vers le télespectateur pour accentuer l'immertion de l'expérience. Sans oublier qu'aucun fils ou prise électrique est montré ce qui donne l'impression que les écrans volant et que la pièces est très grandes et épurée. 
 <br>
