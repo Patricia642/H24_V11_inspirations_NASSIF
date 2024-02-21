@@ -3,7 +3,7 @@ L'exposition itinérante nommé "Phase Shifting Index" (2020) est une oeuvre à 
 <br>
 <br>
 
-<h4 align=Cartel<br>
+<h4 align=Cartel><br>
   
 ![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
 
