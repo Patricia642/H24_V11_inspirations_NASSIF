@@ -45,7 +45,7 @@ Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 - tapisserie
 - Écrans
 - Projecteurs
-- Hauts parleurs
+- Hauts-parleurs
 - Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
 <hr>
 <h3 align=center>Expérience vécue</h3>
