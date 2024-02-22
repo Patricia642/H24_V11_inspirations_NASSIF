@@ -11,7 +11,7 @@ Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 
 <h3 align=center>Mise en espace</h3>
 
-À l'entrée de la Fonderie Darling, les visiteurs sont accueillis par un bureau de réception en face des porte-manteaux. Un banc d'attente est disposé près d'une pièce couverte d'une grande illustration. De là, des rideaux conduisent à l'exposition principale où sept grands écrans identiques sont positionnés, chacun sur une plateforme individuelle, avec leur propre projecteur. Malgré l'obscurité, la salle est bien éclairée par ces écrans. Le son provient de haut-parleurs près des plateformes, dirigés vers les spectateurs pour une immersion complète. L'absence visible de fils électriques l'impression que les écrans volants et que la pièce est très grande et épurée.
+À l'entrée de la Fonderie Darling, les visiteurs sont accueillis par un bureau de réception en face des porte-manteaux. Un banc d'attente est disposé près d'une pièce couverte d'une grande illustration. De là, des rideaux conduisent à l'exposition principale où sept grands écrans identiques sont positionnés, chacun sur une plateforme individuelle, avec leur propre projecteur. Malgré l'obscurité, la salle est bien éclairée par ces écrans. Le son provient de haut-parleurs près des plateformes, dirigés vers les spectateurs pour une immersion complète. L'absence visible de fils électriques donne l'impression que les écrans volants et que la pièce est très grande et épurée.
 <br>
 <br>
 
