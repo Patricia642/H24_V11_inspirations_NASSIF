@@ -70,3 +70,5 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 <hr>
 
 <strong>Pour plus d'informations, cliquez ici</strong>: [Fonderie Darling](https://fonderiedarling.org/Phase-Shifting-Index)
+<br>
+<strong>Toutes les informations mentionnées proviennent du dépliant distribué à l'entrée de l'exposition.</strong>
