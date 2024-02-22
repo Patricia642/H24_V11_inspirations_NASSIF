@@ -68,7 +68,8 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 </h4>
 <hr>
-
-<strong>Pour plus d'informations, cliquez ici</strong>: [Fonderie Darling](https://fonderiedarling.org/Phase-Shifting-Index)
+<strong>
+Toutes les informations mentionnées proviennent soit du dépliant distribué à l'entrée de l'exposition, soit de mon opinion personnelle.</strong>
 <br>
-<strong>Toutes les informations mentionnées proviennent du dépliant distribué à l'entrée de l'exposition.</strong>
+Pour plus d'informations, cliquez ici: [Fonderie Darling](https://fonderiedarling.org/Phase-Shifting-Index)
+<br>
