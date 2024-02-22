@@ -42,7 +42,7 @@ Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 - Câbles
 - Tapis
 - Plateformes
-- tapisserie
+- Tapisserie
 - Écrans
 - Projecteurs
 - Hauts-parleurs
