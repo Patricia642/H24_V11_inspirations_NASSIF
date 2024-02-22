@@ -63,7 +63,7 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 | :---: | :---: | 
 | ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg) | ![photo](media/Jeremy_Shaw_tapis_20240202.jpg) |
 
-<h4 align=center>En groupe<br>
+<h4 align=center>En groupe<br><br>
   
 ![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
 </h4>
