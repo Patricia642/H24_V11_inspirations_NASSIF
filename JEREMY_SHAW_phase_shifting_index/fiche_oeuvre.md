@@ -10,7 +10,8 @@ Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 </p>
 
 <h3 align=center>Mise en espace</h3>
-En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le bureau de la réception et en face des accroches manteaux. Suite à cela vers la droite un banc d'attente est placer proche de la pièce ou ce trouve l'illustration agrandi sur les murs. À partir de cette pièce, nous sommes dirigés vers des rideaux qui mènant à l'exposition qui dévoile la répétition de sept grands écrans identiques très bien distancés dans la pièce et centré plus vers l'entré qui son suivit de sept projecteurs et de sept plateformes qui son distancés de trois à quatre mètres. La salle était sombre et pourtant elle était quand même bien écléré par les grants écrans. Le son sortait directement de haut-parleurs proche des plateformes et visés vers le télespectateur pour accentuer l'immertion de l'expérience. Sans oublier qu'aucun fils ou prise électrique est montré ce qui donne l'impression que les écrans volant et que la pièces est très grandes et épurée. 
+
+À l'entrée de la Fonderie Darling, les visiteurs sont accueillis par un bureau de réception en face des porte-manteaux. Un banc d'attente est disposé près d'une pièce ornée d'une grande illustration. De là, des rideaux conduisent à l'exposition principale où sept grands écrans identiques sont positionnés, chacun sur une plateforme individuelle, avec leur propre projecteur. Malgré l'obscurité, la salle est bien éclairée par ces écrans. Le son provient de haut-parleurs près des plateformes, dirigés vers les spectateurs pour une immersion complète. L'absence visible de fils électriques l'impression que les écrans volants et que la pièce est très grande et épurée.
 <br>
 <br>
 
@@ -26,14 +27,14 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 <h3 align=center>Composantes et techniques</h3>
 
 - Plans de l'installation
-- Plans du matériels requis obligatoirement
+- Plans du matériel requis obligatoirement
 - Sept écrans
 - Sept projecteurs
-- Quatorze haut-parleurs de hautes qualités
+- Quatorze haut-parleurs de haute qualité
 - Sept plateformes
 - Tapis
-- La tapisserie de l'illustration amplifié
-- Fils transparents asser forts pour soutenir les écrans
+- La tapisserie de l'illustration amplifiée
+- Fils transparents assez forts pour soutenir les écrans
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
@@ -44,11 +45,11 @@ En rentrant dans la Fonderie Darling, nous sommes acceuillis directement par le 
 - tapisserie
 - Écrans
 - Projecteurs
-- Hauts-parleurs
+- Hauts parleurs
 - Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
 <hr>
 <h3 align=center>Expérience vécue</h3>
-Le <strong>2 février 2024</strong>, lors de ma visite de l'exposition de l'oeuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous demande gentiment de retirer nos souliers ou de les proteger pour ne pas salir les tapis de la salle d'exposition ce qui m'a rendu heureuse puisque j'aime quand les oeuvres et les demandes des artistes sont respectées. Ensuite, une dame est venu pour nous expliquer bien en détails l'oeuvre qui allait nous être présentée et nous parler un peu plus des intentions de l'artise dans celle-ci. Suite au visionnement de l'oeuvre, je trouve que l'expérience de cette exposition a été intrigante et différente de mes attentes puisque je m'attendais a une approche plus similaire à celle des salles de cinéma avec une histoire spécifique à la quelle s'accrocher et donc finalement j'ai découvert une façon complaitement autre pour véhiculer des émotions par l'utilisation d'écrans.
+<strong>Le 2 février 2024</strong>, lors de ma visite de l'exposition de l'œuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous a gentiment demandé de retirer nos chaussures ou de les protéger pour préserver les tapis de la salle d'exposition, ce qui m'a agréablement surprise car j'apprécie lorsque les demandes des artistes sont respectées. Ensuite, une dame est venue nous expliquer en détail l'œuvre qui allait nous être présentée, ainsi que les intentions de l'artiste derrière celle-ci. Après avoir visionné l'œuvre, j'ai trouvé que l'expérience de cette exposition était intrigante et différente de ce à quoi je m'attendais. En effet, je pensais trouver une approche similaire à celle des salles de cinéma, avec une histoire spécifique à laquelle m'accrocher. Finalement, j'ai découvert une toute autre manière de véhiculer des émotions à travers l'utilisation d'écrans.
 <hr>
 <h3 align=center>Aspects que je ferais autrement</h3>
 Je ferais différament les salles de bains puisqu'ils était très proches de l'exposition et ne procuraient pas vraiment d'intimité puisqu'on entendais tirer la chasse d'eau à partir du couloir et je metterais un éclérage plus tamisé du côté de l'illustration amplifié sur les murs pour ajouter une certaine ambiance tamisé à la place d'un éclairage néon blanc.
