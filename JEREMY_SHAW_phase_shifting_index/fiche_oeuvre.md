@@ -52,10 +52,10 @@ Présenté: <strong>12.12.2023 - 25.02.2024</strong>
 <strong>Le 2 février 2024</strong>, lors de ma visite de l'exposition de l'œuvre "Phase Shifting Index" à la Fonderie Darling, la réceptionniste nous a gentiment demandé de retirer nos chaussures ou de les protéger pour préserver les tapis de la salle d'exposition, ce qui m'a agréablement surprise car j'apprécie lorsque les demandes des artistes sont respectées. Ensuite, une dame est venue nous expliquer en détail l'œuvre qui allait nous être présentée, ainsi que les intentions de l'artiste derrière celle-ci. Après avoir visionné l'œuvre, j'ai trouvé que l'expérience de cette exposition était intrigante et différente de ce à quoi je m'attendais. En effet, je pensais trouver une approche similaire à celle des salles de cinéma, avec une histoire spécifique à laquelle m'accrocher. Finalement, j'ai découvert une toute autre manière de véhiculer des émotions à travers l'utilisation d'écrans.
 <hr>
 <h3 align=center>Aspects que je ferais autrement</h3>
-Je ferais différament les salles de bains puisqu'ils était très proches de l'exposition et ne procuraient pas vraiment d'intimité puisqu'on entendais tirer la chasse d'eau à partir du couloir et je metterais un éclérage plus tamisé du côté de l'illustration amplifié sur les murs pour ajouter une certaine ambiance tamisé à la place d'un éclairage néon blanc.
+Si je devais revoir l'aménagement, je modifierais l'emplacement des salles de bains, car leur proximité avec l'exposition compromettait l'intimité. Il serait judicieux de les éloigner pour éviter que les bruits provenant du couloir ne perturbent les visiteurs. De plus, je privilégierais un éclairage plus tamisé du côté de l'illustration agrandie sur les murs, en remplaçant l'éclairage néon blanc actuel. Cela contribuerait à renforcer l'atmosphère immersive de l'exposition.
 
 <h3 align=center>Ce qui m'a plu</h3>
-J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeur puisqu'il n'y avais pas de fils visible ce qui a crée une très belle finition et augmenté la qualité de l'exposition. J'ai aussi adoré le tapis qui était présent partout au sol et sur les plateformes dans la salle qui a procuré du confort et une expérience sensorielle agréable. Sans oublier que je me suis beaucoup amusé à faire la sortie en groupe.
+J'ai été impressionné par la manière dont les écrans ont été installés avec précision, sans aucun fil en vue, ce qui a donné une finition soignée à l'exposition et a élevé sa qualité. De plus, l'utilisation étendue du tapis sur le sol et les plateformes dans toute la salle a procuré un confort supplémentaire et a enrichi l'expérience sensorielle. Enfin, partager cette sortie en groupe a été très divertissant et a ajouté une dimension sociale agréable à ma visite.
 <br>
 
 | Allure de l'écran | Le tapis | 
@@ -68,4 +68,4 @@ J'ai beaucoup aimée l'installation des écrans qui était exécutée avec rigeu
 </h4>
 <hr>
 
-<strong>Pour plus d'information cliquer ici</strong>: [Fonderie Darling](https://fonderiedarling.org)
+<strong>Pour plus d'informations, cliquez ici</strong>: [Fonderie Darling](https://fonderiedarling.org)
