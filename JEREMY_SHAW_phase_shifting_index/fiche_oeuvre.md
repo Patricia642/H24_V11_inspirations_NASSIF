@@ -69,4 +69,4 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 </h4>
 <hr>
 
-<strong>Pour plus d'informations, cliquez ici</strong>: [Fonderie Darling](https://fonderiedarling.org)
+<strong>Pour plus d'informations, cliquez ici</strong>: [Fonderie Darling](https://fonderiedarling.org/Phase-Shifting-Index)
