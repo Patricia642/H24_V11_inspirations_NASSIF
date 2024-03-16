@@ -3,8 +3,7 @@
 <br>
 <br>
 
-</h4>
-<h4 align=center>Cartel<br>
-  
-![photo](media/RIOPELLE_cartel_20240301.jpg)
-</h4>
+| Affiche | Cartel | 
+| :---: | :---: | 
+| ![photo](media/Jeremy_Shaw_croquis_20240202.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
+
