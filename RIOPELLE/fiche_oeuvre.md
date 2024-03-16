@@ -72,7 +72,9 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 </h4>
 <hr>
 <strong>
-Toutes les informations mentionnées proviennent soit du dépliant distribué à l'entrée de l'exposition, soit de mon opinion personnelle.</strong>
+Toutes les informations fournies ont été tirées du document disponible via le code QR à l'entrée, du site de l'exposition ou de mes propres observations personnelles.</strong>
 <br>
-Pour plus d'informations, cliquez ici: (https://fonderiedarling.org/Phase-Shifting-Index)
+Pour plus d'informations, cliquez ici: (https://tohu.ca/fr/programmation/riopelle-grandeur-nature) <br>
+ou <br>
+(https://7doigts.com/spectacles/creations/riopelle-grandeur-nature-spectacle)
 <br>
