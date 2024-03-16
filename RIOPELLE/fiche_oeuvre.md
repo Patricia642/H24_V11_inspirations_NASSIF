@@ -7,7 +7,7 @@ RIOPELLE Grandeur Nature</h1>
 Lieu de mise en exposition: <strong> Studio des 7 Doigts </strong><br>
 Adresse : <strong>2111 boulevard St-Laurent</strong><br>
 Durée : <strong>80 minutes</strong><br>
-Présenté: <strong>12.12.2023 - 25.02.2024</strong>
+Présenté: <strong></strong>
 </p>
 
 
