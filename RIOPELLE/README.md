@@ -1,5 +1,5 @@
 <h1 align=center>Description de l'oeuvre</h1>
-<strong>L'exposition itinérante</strong> nommée <strong>"Phase Shifting Index" (2020)</strong> est une oeuvre à <strong>installation immersive</strong> qui mélange vidéo, son et lumière pour explorer la quête de transcendance et de communauté à travers différents groupes dans des activités de danse et de mouvement. Elle brouille la perception du temps et de l'espace, offrant une expérience immersive qui remet en question les conventions documentaires traditionnelles.
+Le spectacle immersif "RIOPELLE Grandeur Nature" clôture en beauté les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, il offre au public une expérience captivante au cœur de l'œuvre de l'artiste et de la nature qui l'a inspiré. Des ateliers de Riopelle aux paysages grandioses qu'il affectionnait, en passant par ses œuvres monumentales et moins connues, le spectacle propose une plongée unique dans l'univers créatif foisonnant de Riopelle.
 <br>
 <br>
 
