@@ -5,5 +5,5 @@
 
 | Affiche | Cartel | 
 | :---: | :---: | 
-| ![photo](media/Jeremy_Shaw_croquis_20240202.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
+| ![photo](media/RIOPELLE_cartel_20240301.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
 
