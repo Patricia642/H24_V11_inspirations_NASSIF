@@ -1,5 +1,5 @@
 <h1 align=center>Description de l'oeuvre</h1>
-<h4 align=center>L'exposition de Samuel Tétreault à installation immersive "RIOPELLE Grandeur Nature" conclut en beauté les festivités du centenaire de Jean Paul Riopelle. Grâce à des technologies de pointe comme la projection vidéo à 360° et la spatialisation sonore, il transporte le public au cœur de l'œuvre de l'artiste et de la nature qui l'a inspiré. Du studio de Riopelle aux majestueux paysages qu'il aimait, en passant par ses œuvres emblématiques et moins connues, le spectacle offre une immersion complète dans l'univers créatif de Riopelle.</h4>
+<h4 align=center>L'exposition immersive de Samuel Tétreault, "RIOPELLE Grandeur Nature", clôture de manière remarquable les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, elle transporte les visiteurs au cœur de l'œuvre de l'artiste et des paysages qui ont nourri son inspiration. De l'atelier de Riopelle aux paysages grandioses qui l'ont inspiré, en passant par ses œuvres les plus marquantes ainsi que celles moins connues, cette exposition offre une immersion totale dans l'univers créatif de Riopelle.</h4>
 <br>
 <br>
 
