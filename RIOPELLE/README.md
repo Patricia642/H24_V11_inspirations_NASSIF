@@ -6,5 +6,5 @@
 </h4>
 <h4 align=center>Cartel<br>
   
-![photo](media/RIOPELLE_cartel_20240301.jpg)
+![photo](media/Jeremy_Shaw_cartel_20240202.jpg)
 </h4>
