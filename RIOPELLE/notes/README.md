@@ -5,3 +5,4 @@
 - L'ambiance est plutôt chic.
 - C'est vraiment magnifique.
 - Les vidéos sont plus captivantes que je ne le pensais.
+- Immersif
