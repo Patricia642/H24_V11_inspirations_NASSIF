@@ -5,7 +5,7 @@ RIOPELLE Grandeur Nature</h1>
 
 <p>
 Lieu de mise en exposition: <strong> Studio des 7 Doigts </strong><br>
-Adresse : <strong>2111 boulevard St-Laurent</strong><br>
+Adresse : <strong>2111 boulevard St-Laurent Montréal, H2X 2T5</strong><br>
 Durée : <strong>80 minutes</strong><br>
 Présenté: <strong></strong>
 </p>
