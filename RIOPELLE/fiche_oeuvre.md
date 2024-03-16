@@ -74,6 +74,7 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 <strong>
 Toutes les informations fournies ont été tirées du document disponible via le code QR à l'entrée, du site de l'exposition ou de mes propres observations personnelles.</strong>
 <br>
+<br>
 Pour plus d'informations, cliquez ici: <br>
 <h4 align=center>(https://tohu.ca/fr/programmation/riopelle-grandeur-nature) <br>
 <h4 align=center>ou <br>
