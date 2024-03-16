@@ -1,1 +1,7 @@
-
+- L'accueil n'est pas très clair.
+- L'interaction est bien moins présente que ce à quoi je m'attendais.
+- Aucune explication ne nous est donnée.
+- J'ai beaucoup apprécié la grande diversité des œuvres artistiques.
+- L'ambiance est plutôt chic.
+- C'est vraiment magnifique.
+- Les vidéos sont plus captivantes que je ne le pensais.
