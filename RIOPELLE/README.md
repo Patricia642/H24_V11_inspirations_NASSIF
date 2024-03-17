@@ -5,4 +5,4 @@
 
 
 
-![photo](/RIOPELLE_affiche_20240301.jpg)
+![photo](RIOPELLE_affiche_20240301.jpg)
