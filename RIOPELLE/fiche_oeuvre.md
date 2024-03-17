@@ -2,7 +2,7 @@
 RIOPELLE Grandeur Nature</h1>
 <h2 align=center>Une création des 7 doigts de la main <br> en coproduction avec la Fondation Jean Paul Riopelle
 </h2>
-<hr>
+
 <p>
 Lieu de mise en exposition: <strong> Studio des 7 Doigts </strong><br>
 Adresse : <strong>2111 boulevard St-Laurent Montréal, H2X 2T5</strong><br>
