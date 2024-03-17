@@ -3,8 +3,6 @@
 <br>
 <br>
 
-| Affiche | Cartel | 
-| :---: | :---: | 
 
-| ![photo](media/RIOPELLE_affiche_20240301.jpg) | ![photo](media/RIOPELLE_cartel_20240301.jpg) |
 
+![photo](media/RIOPELLE_affiche_20240301.jpg)
