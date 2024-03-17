@@ -1,6 +1,6 @@
 <h1 align=center>
 RIOPELLE Grandeur Nature</h1>
-<h2 align=center>Une création des 7 doigts de la main <br> en coproduction avec la Fondation Jean Paul Riopelle <br> par Samuel Tétreault
+<h2 align=center>Une œuvre artistique développée par Samuel Tétreault, en collaboration avec les 7 Doigts de la Main et la Fondation Jean Paul Riopelle
 </h2>
 
 <p>
