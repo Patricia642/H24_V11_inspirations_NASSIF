@@ -1,7 +1,7 @@
 <h1 align=center>
 RIOPELLE Grandeur Nature</h1>
-<h4>Une création des 7 doigts de la main <br> en coproduction avec la Fondation Jean Paul Riopelle
-</h4>
+<h2 align=center>Une création des 7 doigts de la main <br> en coproduction avec la Fondation Jean Paul Riopelle
+</h2>
 <hr>
 <p>
 Lieu de mise en exposition: <strong> Studio des 7 Doigts </strong><br>
