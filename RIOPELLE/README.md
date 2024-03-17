@@ -5,4 +5,4 @@
 
 
 
-![photo](RIOPELLE_allure_sous-sol_20240301.jpg)
+![texte_alternatif](RIOPELLE_allure_sous-sol_20240301.jpg)
