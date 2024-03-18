@@ -17,6 +17,8 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <br>
 <br>
 
+| Allure de l'écran | Le tapis | 
+| :---: | :---: | 
 <h3 align=center>
   Salle de projection
 <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=70% height=70%>
