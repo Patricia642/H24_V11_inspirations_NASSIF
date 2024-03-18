@@ -84,11 +84,11 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 
 | Allure de l'écran | Le tapis | 
 | :---: | :---: | 
-| ![photo](media/Jeremy_Shaw_ecran_allure_20240202.jpg) | ![photo](media/Jeremy_Shaw_tapis_20240202.jpg) |
+| ![photo](media/) | ![photo](media/) |
 
 <h4 align=center>En groupe<br><br>
   
-![photo](media/Jeremy_Shaw_groupe_20240202.jpg)
+![photo](media/)
 </h4>
 <hr>
 <strong>
