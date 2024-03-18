@@ -18,9 +18,9 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <br>
 
 | Salle de projection | Projecteur | 
-| :---: | :---: | 
 
-| <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=50% height=50%>  | <img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=50% height=50%>  |
+
+<img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=50% height=50%>, <img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=50% height=50%> 
 
 <h4 align=center>Hauteur de l'écran<br>
   
