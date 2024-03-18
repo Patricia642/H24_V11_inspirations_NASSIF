@@ -3,5 +3,8 @@ L'exposition <strong>temporaire et immersive de Samuel Tétreault</strong>, "RIO
 <br>
 <br>
 
+| Affiche | Cartel | 
+| :---: | :---: | 
+
 
 ![texte_alternatif](./medias/RIOPELLE_affiche_20240301.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
