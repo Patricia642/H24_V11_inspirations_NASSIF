@@ -31,21 +31,36 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 
 - Plans de l'installation
 - Plans du matériel requis obligatoirement
-- Sept écrans
-- Sept projecteurs
-- Quatorze haut-parleurs de haute qualité
-- Sept plateformes
-- Tapis
-- La tapisserie de l'illustration amplifiée cathartic
+- Six écrans
+- Six projecteurs
+- Six grands haut-parleurs
+- Six petits haut-parleurs
+- Une grande plateforme
+- Deux petites plateformes
+- Quelques oiseaux en papier
+- Plusieurs fausses plantes
+- Plusieurs branches de bois
+- Plusieurs chaises en bois
+- Deux télévisions
+- Plusieurs tableaux réalisés par Riopelle
+- Plusieurs sculptures réalisées par Riopelle
+- Quelques jeux interactifs
+- Grands rideaux noirs
 - Fils transparents assez forts pour soutenir les écrans
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Cache-fil
+- Grands rideaux noirs
 - Câbles
-- Tapis
 - Plateformes
-- Tapisserie de l'illustration cathartic
+- Oiseaux en papier
+- Fausses plantes
+- Branches en bois
+- Jeux interactifs
+- Tableaux
+- Sculptures
+- Télévisions
 - Écrans
 - Projecteurs
 - Hauts-parleurs
