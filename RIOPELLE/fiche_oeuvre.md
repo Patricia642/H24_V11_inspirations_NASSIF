@@ -47,6 +47,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Grands rideaux noirs
 - Fils transparents assez forts pour soutenir les écrans
 - Pots de peinture
+- Quelques girlandes de lumière
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 -Éclairage légèrement tamisé
