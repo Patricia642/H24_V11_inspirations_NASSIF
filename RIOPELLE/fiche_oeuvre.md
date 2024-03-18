@@ -64,7 +64,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <hr>
 <h3 align=center>Expérience vécue</h3>
 <strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai rencontré quelques difficultés pour trouver l'entrée. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été impressionné par la beauté des tableaux de Riopelle. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je suis descendu pour regarder une vidéo qui décrivait le parcours artistique de Riopelle. Cette vidéo, qui jouait en boucle toutes les 30 minutes, s'est révélée très intéressante.
-
+<br>
 | Tableau du dragon | Ligne d'oiseaux | 
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_tableau_dragon_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=100% height=120%></h4> |
