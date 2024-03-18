@@ -92,10 +92,12 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 </h4>
 <hr>
 <strong>
-Toutes les informations fournies ont été tirées du document disponible via le code QR à l'entrée, du site de l'exposition ou de mes propres observations personnelles.</strong>
+  Toutes les informations mentionnées ont été extraites du document accessible via le code QR à l'entrée, situé dans la section "Médias", ainsi que des fiches des œuvres, du site web de l'exposition, ou encore de mes propres observations personnelles.
+</strong>
 <br>
 <br>
-Pour plus d'informations, cliquez ici: <br>
+Pour obtenir plus d'informations, veuillez consulter les fiches des œuvres exposées disponibles dans la section "Médias", ou cliquez ici.
+<br>
 <h4 align=center>(https://tohu.ca/fr/programmation/riopelle-grandeur-nature) <br>
 <h4 align=center>ou <br>
 <h4 align=center>(https://7doigts.com/spectacles/creations/riopelle-grandeur-nature-spectacle)
