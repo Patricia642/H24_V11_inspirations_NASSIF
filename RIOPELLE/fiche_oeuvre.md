@@ -20,7 +20,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <h3 align=center>Salle de projection
 <h4 align=center><img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=70% height=70%></h4>
 <h3 align=center>Sous-sol
-<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=40% height=1%></h4>
+<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=30% height=1%></h4>
 <hr>
   
 <h3 align=center>Composantes et techniques</h3>
@@ -84,7 +84,7 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 
 | Sculpture | Tableau_collectif | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=100% height=100%></h4> |
+| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=80% height=80%></h4> |
 
 <h4 align=center>En groupe<br><br>
   
