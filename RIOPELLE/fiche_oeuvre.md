@@ -13,11 +13,9 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>L'exposition temporaire et immersive de Samuel Tétreault, "RIOPELLE Grandeur Nature", clôture de manière remarquable les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, elle transporte les visiteurs au cœur de l'œuvre de l'artiste et des paysages qui ont nourri son inspiration. De l'atelier de Riopelle aux paysages qui l'ont inspiré, en passant par ses œuvres les plus marquantes ainsi que celles moins connues, cette exposition offre une immersion totale dans l'univers créatif de Riopelle.</h3>
- <br>
 <h2 align=center>Cartel</h2>
  <h1 align=center><img src='./medias/RIOPELLE_cartel_20240301.jpg' width=40% height=40%></h1>
-
-
+ 
 <h3 align=center>Mise en espace</h3>
 À l'entrée, un bureau de réception accueille les visiteurs sur la gauche. Cette zone se fond avec l'exposition principale, où sont exposées les toiles, les sculptures et les interactions artistiques. Un escalier mène au sous-sol où se trouvent la section dédiée aux inuits et la salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son via des haut-parleurs près des chaises pour les spectateurs.L'absence apparente de fils électriques donne l'impression d'une pièce aérée et spacieuse. Au centre, un podium avec des oiseaux en papier et des branches, évoquant un nid. Des faux brins d'herbe bordent la salle sous les écrans pour parfaire l'atmosphère.
 <br>
