@@ -47,10 +47,13 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Grands rideaux noirs
 - Fils transparents assez forts pour soutenir les écrans
 - Pots de peinture
+- Plusieurs pinceaux
 - Quelques girlandes de lumière
+- Plusieurs petites lampes d'ambiance
+- Caissons de basses-fréquences
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
--Éclairage légèrement tamisé
+-lampes d'ambiance
 - Cache-fil
 - Grands rideaux noirs
 - Câbles
@@ -65,11 +68,11 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Écrans
 - Projecteurs
 - Hauts-parleurs
-- Isoler toute la salle pour ne plus qu'il y est de la pollution lumineuse
+- Isoler toute la salle de vidéo pour ne plus qu'il y est de la pollution lumineuse
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été impressionné par la beauté des œuvres de Riopelle. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
+<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été captivé par la beauté des œuvres de Riopelle et l'ambiance chaleureuse créée par les lumières douces. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
 <br>
 <br>
 <br>
