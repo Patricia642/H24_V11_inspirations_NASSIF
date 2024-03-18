@@ -68,7 +68,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <h3 align=center>Tableau du dragon
 <h4 align=center><img src='./medias/RIOPELLE_tableau_dragon_20240301.jpg' width=40% height=70%></h4>
 <h3 align=center>Salle de projection
-<h4 align=center><img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=70% height=40%></h4>
+<h4 align=center><img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=10% height=10%></h4>
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
