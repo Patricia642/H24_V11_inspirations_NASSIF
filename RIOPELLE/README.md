@@ -6,5 +6,5 @@ L'exposition <strong>temporaire et immersive de Samuel Tétreault</strong>, "RIO
 
 
 
-| <img src='./medias/RIOPELLE_cartel_20240301.jpg' width=70% height=70%> | <img src='' width=70% height=70%>
+| <img src='./medias/RIOPELLE_cartel_20240301.jpg' width=70% height=70%> | <img src='RIOPELLE_affiche_20240301.jpg' width=70% height=70%> |
 
