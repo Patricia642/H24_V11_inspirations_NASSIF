@@ -4,5 +4,4 @@ L'exposition <strong>temporaire et immersive de Samuel Tétreault</strong>, "RIO
 <br>
 
 
-
-![texte_alternatif](./medias/RIOPELLE_allure_sous-sol_20240301.jpg)
+![texte_alternatif](./medias/RIOPELLE_affiche_20240301.jpg)
