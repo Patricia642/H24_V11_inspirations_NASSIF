@@ -19,10 +19,10 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 
 | Salle de projection | L'installation de la salle | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=80% height=80%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=80% height=80%></h4> |
+| <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=100% height=100%></h4> |
 
 <h3 align=center>Sous-sol
-<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=30% height=1%></h4>
+<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=10% height=1%></h4>
 <hr>
   
 <h3 align=center>Composantes et techniques</h3>
