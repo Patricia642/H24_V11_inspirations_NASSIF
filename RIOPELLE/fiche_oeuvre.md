@@ -17,7 +17,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <br>
 <br>
 
-| Croquis | Projecteur | 
+| Salle de projection | Projecteur | 
 | :---: | :---: | 
 
 | ![photo](./media/RIOPELLE_allure_salle_projection_20240301.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
