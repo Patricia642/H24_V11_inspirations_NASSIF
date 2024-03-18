@@ -17,10 +17,10 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <br>
 <br>
 
-<h3 align=center>Salle de projection</h3>
+<h3 align=center>Salle de projection
 <h1 align=center><img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=70% height=70%></h1>
-<h3 align=center>Sous-sol</h3>
-<h1 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=30% height=5%></h1>
+<h3 align=center>Sous-sol
+<h1 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=30% height=5%></h1></h3>
 
 <h4 align=center>Hauteur de l'écran<br>
   
