@@ -13,7 +13,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 
 
 <h3 align=center>Mise en espace</h3>
-À l'entrée, un bureau de réception accueille les visiteurs sur la gauche. Cette zone se fond avec l'exposition principale, où sont exposées les toiles, les sculptures et les interactions artistiques. Un escalier mène au sous-sol où se trouvent la section dédiée aux inuits et la salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son via des haut-parleurs près des chaises dédier aux spectateurs.L'absence apparente de fils électriques donne l'impression d'une pièce aérée et spacieuse. Au centre, un podium avec des oiseaux en papier et des branches, évoquant un nid. Des faux brins d'herbe bordent la salle sous les écrans pour parfaire l'atmosphère.
+À l'entrée, un bureau de réception accueille les visiteurs sur la gauche. Cette zone se fond avec l'exposition principale, où sont exposées les toiles, les sculptures et les interactions artistiques. Un escalier mène au sous-sol où se trouvent la section dédiée aux inuits et la salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son via des haut-parleurs près des chaises pour les spectateurs.L'absence apparente de fils électriques donne l'impression d'une pièce aérée et spacieuse. Au centre, un podium avec des oiseaux en papier et des branches, évoquant un nid. Des faux brins d'herbe bordent la salle sous les écrans pour parfaire l'atmosphère.
 <br>
 <br>
 
