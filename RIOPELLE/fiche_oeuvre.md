@@ -82,9 +82,9 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 <br>
 <br>
 
-| Allure de l'écran | Le tapis | 
+| Sculpture | Le tapis | 
 | :---: | :---: | 
-| ![photo](media/) | ![photo](media/) |
+| ![photo](media/RIOPELLE_sculpture_arbre_20240301.jpg) | ![photo](media/) |
 
 <h4 align=center>En groupe<br><br>
   
