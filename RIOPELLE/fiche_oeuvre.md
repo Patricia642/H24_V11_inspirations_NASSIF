@@ -64,7 +64,11 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <hr>
 <h3 align=center>Expérience vécue</h3>
 <strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai rencontré quelques difficultés pour trouver l'entrée. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été impressionné par la beauté des tableaux de Riopelle. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je suis descendu pour regarder une vidéo qui décrivait le parcours artistique de Riopelle. Cette vidéo, qui jouait en boucle toutes les 30 minutes, s'est révélée très intéressante.
+
+<h3 align=center>Salle de projection
+<h4 align=center><img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=70% height=70%></h4>
 <hr>
+  
 <h3 align=center>Aspects que je ferais autrement</h3>
 Je réorganiserais certains aspects pour améliorer l'expérience globale. Tout d'abord, je mettrais en évidence l'entrée de manière plus prononcée afin de faciliter la recherche de l'emplacement et d'attirer l'attention des visiteurs. Ensuite, je prévoirais du personnel dédié pour accueillir et orienter les visiteurs à travers l'exposition, en particulier étant donné sa répartition sur deux étages distincts. Cette assistance personnalisée permettrait aux visiteurs de profiter pleinement de chaque aspect de l'exposition et de répondre à leurs questions éventuelles tout au long de leur visite.
 
