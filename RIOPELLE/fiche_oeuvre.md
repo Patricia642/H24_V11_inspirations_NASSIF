@@ -20,7 +20,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 | Croquis | Projecteur | 
 | :---: | :---: | 
 
-| ![photo](/..media/RIOPELLE_affiche_20240301.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
+| ![photo](/.media/RIOPELLE_affiche_20240301.jpg) | ![photo](media/Jeremy_Shaw_projecteur_20240202.jpg) |
 
 <h4 align=center>Hauteur de l'écran<br>
   
