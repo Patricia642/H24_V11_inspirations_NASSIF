@@ -48,7 +48,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Fils transparents assez forts pour soutenir les écrans
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
-
+-Éclairage légèrement tamisé
 - Cache-fil
 - Grands rideaux noirs
 - Câbles
@@ -67,7 +67,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai rencontré quelques difficultés pour trouver l'entrée. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été impressionné par la beauté des tableaux de Riopelle. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je suis descendu pour regarder une vidéo qui décrivait le parcours artistique de Riopelle. Cette vidéo, qui jouait en boucle toutes les 30 minutes, s'est révélée très intéressante.
+<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai rencontré quelques difficultés pour trouver l'entrée. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été impressionné par la beauté des œuvres de Riopelle. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
 <br>
 <br>
 <br>
