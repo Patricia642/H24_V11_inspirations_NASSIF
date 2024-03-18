@@ -82,9 +82,9 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 <br>
 <br>
 
-| Sculpture | Tableau_collectif | 
+| Sculpture | Tableau collectif | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=60% height=80%></h4> |
+| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=70% height=90%></h4> |
 
 <h4 align=center>Atelier<br><br>
 <img src='./medias/RIOPELLE_interaction_peinture_20240301.jpg' width=100% height=100%></h4>
