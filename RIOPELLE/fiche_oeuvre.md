@@ -72,7 +72,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_tableau_dragon_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=100% height=120%></h4> |
 <h4 align=center>Moi devant le Studio des 7 Doigts<br><br>
-<img src='./medias/RIOPELLE_moi_20240301.jpg' width=100% height=100%></h4>
+<img src='./medias/RIOPELLE_moi_20240301.jpg' width=50% height=50%></h4>
 
 <hr>
   
