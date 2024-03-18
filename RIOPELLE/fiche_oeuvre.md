@@ -88,7 +88,7 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=80% height=100%></h4> |
 
-<h4 align=center>Atelier<br><br>
+<h4 align=center>Atelier interactif<br><br>
 <img src='./medias/RIOPELLE_interaction_peinture_20240301.jpg' width=100% height=100%></h4>
 </h4>
 <hr>
