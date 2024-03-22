@@ -83,7 +83,8 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
-Je réorganiserais certains aspects pour améliorer l'expérience globale. Tout d'abord, je mettrais en évidence l'entrée de manière plus prononcée afin de faciliter la recherche de l'emplacement et d'attirer l'attention des visiteurs. Ensuite, je prévoirais du personnel dédié pour accueillir et orienter les visiteurs à travers l'exposition, en particulier étant donné sa répartition sur deux étages distincts. Cette assistance personnalisée permettrait aux visiteurs de profiter pleinement de chaque aspect de l'exposition et de répondre à leurs questions éventuelles tout au long de leur visite.
+
+Si j'avais l'opportunité de modifier quelque chose, je choisirais de protéger le code QR situé sous les figurines avec une fine couche de plastique transparent. Cette précaution s'avérerait nécessaire car ce code semble revêtir une grande importance, et son exposition à la friction lors des manipulations des figurines pourrait entraîner sa dégradation.
 
 <h3 align=center>Ce qui m'a plu</h3>
 Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres présentées, allant des sculptures aux tableaux, en passant par les vidéos à des espaces interactifs. Cette variété a contribué à maintenir un intérêt constant et à éviter toute sensation de répétition. De plus, j'ai adoré l'aspect sophistiqué de l'exposition, qui ajoutait une touche d'élégance à l'ensemble. En ce qui concerne les œuvres spécifiques, j'ai été particulièrement captivé par les tableaux de Riopelle, qui dégageaient une belle ambiance.
