@@ -13,8 +13,6 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>L'exposition temporaire et immersive de Samuel Tétreault, "RIOPELLE Grandeur Nature", clôture de manière remarquable les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, elle transporte les visiteurs au cœur de l'œuvre de l'artiste et des paysages qui ont nourri son inspiration. De l'atelier de Riopelle aux paysages qui l'ont inspiré, en passant par ses œuvres les plus marquantes ainsi que celles moins connues, cette exposition offre une immersion totale dans l'univers créatif de Riopelle.</h3>
-<h2 align=center>Cartel</h2>
- <h1 align=center><img src='./medias/RIOPELLE_cartel_20240301.jpg' width=40% height=40%></h1>
  
 <h3 align=center>Mise en espace</h3>
 
@@ -40,20 +38,11 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Plusieurs fausses plantes
 - Plusieurs branches de bois
 - Plusieurs chaises en bois
-- Deux télévisions
-- Plusieurs tableaux réalisés par Riopelle
-- Plusieurs sculptures réalisées par Riopelle
-- Quelques jeux interactifs
 - Grands rideaux noirs
 - Fils transparents assez forts pour soutenir les écrans
-- Pots de peinture
-- Plusieurs pinceaux
-- Quelques girlandes de lumière
-- Plusieurs petites lampes d'ambiance
 - Caissons de basses-fréquences
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
--lampes d'ambiance
 - Cache-fil
 - Grands rideaux noirs
 - Câbles
@@ -61,18 +50,13 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Oiseaux en papier
 - Fausses plantes
 - Branches en bois
-- Jeux interactifs
-- Tableaux
-- Sculptures
-- Télévisions
 - Écrans
-- Projecteurs
 - Hauts-parleurs
 - Isoler toute la salle de vidéo pour ne plus qu'il y est de la pollution lumineuse
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été captivé par la beauté des œuvres de Riopelle et l'ambiance chaleureuse créée par les lumières douces. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
+<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, par la suite, je me suis senti un peu désorienté car personne ne m'a guidé pour entamer ma visite et aucun cartel informatif n'était disponible. Malgré cette confusion, j'ai été captivé par la beauté des œuvres de Riopelle et l'ambiance chaleureuse créée par les lumières douces. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
 <br>
 <br>
 <br>
@@ -86,7 +70,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
-Je réorganiserais certains aspects pour améliorer l'expérience globale. Tout d'abord, je mettrais en évidence l'entrée de manière plus prononcée afin de faciliter la recherche de l'emplacement et d'attirer l'attention des visiteurs. Ensuite, je prévoirais du personnel dédié pour accueillir et orienter les visiteurs à travers l'exposition, en particulier étant donné sa répartition sur deux étages distincts. Cette assistance personnalisée permettrait aux visiteurs de profiter pleinement de chaque aspect de l'exposition et de répondre à leurs questions éventuelles tout au long de leur visite.
+Afin d'optimiser l'expérience des visiteurs, je suggérerais quelques réorganisations. Tout d'abord, je rendrais l'entrée plus visible et accueillante pour faciliter son repérage dès l'arrivée des visiteurs, attirant ainsi leur attention de manière plus efficace. Ensuite, j'assignerais du personnel spécialement dédié à l'accueil et à l'orientation des visiteurs tout au long de l'exposition, surtout compte tenu de sa répartition sur deux étages distincts. Cette assistance personnalisée garantirait aux visiteurs une exploration fluide et agréable, tout en leur offrant des réponses à leurs interrogations éventuelles. En complément, je mettrais en place un cartel général de l'œuvre au début de l'exposition. Ce cartel fournirait une vue d'ensemble de l'exposition, donnant des informations sur le thème, le contexte et les objectifs artistiques de l'ensemble de l'exposition. Cela permettrait aux visiteurs de mieux comprendre le contenu de l'exposition avant de débuter leur visite.
 
 <h3 align=center>Ce qui m'a plu</h3>
 Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres présentées, allant des sculptures aux tableaux, en passant par les vidéos à des espaces interactifs. Cette variété a contribué à maintenir un intérêt constant et à éviter toute sensation de répétition. De plus, j'ai adoré l'aspect sophistiqué de l'exposition, qui ajoutait une touche d'élégance à l'ensemble. En ce qui concerne les œuvres spécifiques, j'ai été particulièrement captivé par les tableaux de Riopelle, qui dégageaient une belle ambiance.
