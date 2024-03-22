@@ -69,7 +69,7 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Cette œuvre "Canevas Cosmique" se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
+<strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
 <br>
 <br>
 <br>
