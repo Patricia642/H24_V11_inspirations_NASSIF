@@ -13,7 +13,6 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
 Dans l'exposition temporaire "Canevas Cosmique", les participants sont invités à explorer un univers interactif où ils peuvent manipuler une statuette à l'aide de symboles pour façonner le cosmos. Par exemple, en déplaçant un symbole représentant une comète, ils peuvent déclencher des collisions célestes et remodeler les constellations. Cette expérience offre aux visiteurs un rôle actif dans la création et la transformation de l'espace.</h3>
- <h1 align=center><img src='./medias/' width=40% height=40%></h1>
  
 <h3 align=center>Mise en espace</h3>
 
