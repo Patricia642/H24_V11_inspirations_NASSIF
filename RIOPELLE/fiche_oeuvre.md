@@ -43,6 +43,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Caissons de basses-fréquences
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
+
 - Cache-fil
 - Grands rideaux noirs
 - Câbles
