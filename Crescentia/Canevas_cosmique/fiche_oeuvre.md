@@ -13,10 +13,10 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
 Dans l'exposition temporaire "Canevas Cosmique", les participants sont invités à explorer un univers interactif où ils peuvent manipuler une statuette à l'aide de symboles pour façonner le cosmos. Par exemple, en déplaçant un symbole représentant une comète, ils peuvent déclencher des collisions célestes et remodeler les constellations. Cette expérience offre aux visiteurs un rôle actif dans la création et la transformation de l'espace.</h3>
- 
+ <hr>
 <h3 align=center>Mise en espace</h3>
 
-À l'entrée, les visiteurs sont accueillis par un bureau de réception situé sur la gauche, où un code QR est disponible, fournissant diverses informations sur l'exposition, y compris le cartel. Cette zone s'intègre harmonieusement avec l'exposition principale, où sont présentées les toiles, sculptures et interactions artistiques. Un escalier conduit également au sous-sol, abritant la section consacrée aux Inuits et une salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son à travers des haut-parleurs positionnés au plafond. L'absence apparente de fils électriques crée une atmosphère aérée et spacieuse. Au centre de la salle se trouve un podium orné d'oiseaux en papier et de branches, évoquant un nid. Des brins d'herbe artificiels bordent la salle sous les écrans, ajoutant une touche finale à l'ambiance générale.
+Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table ornée de statuettes étranges. Elle est accompagnée d'une exposition colorée de l'espace, mettant en scène des planètes et divers éléments spatiaux. Au-dessus de l'œuvre, un projecteur éclaire la scène, tandis que deux haut-parleurs de chaque côté diffusent un son captivant vers l'utilisateur.
 <br>
 <br>
 
@@ -29,10 +29,9 @@ Dans l'exposition temporaire "Canevas Cosmique", les participants sont invités 
 - Plans de l'installation
 - Plans du matériel requis obligatoirement
 - Six écrans
-- Six projecteurs
-- Six grands haut-parleurs
-- Six petits haut-parleurs
-- Une grande plateforme
+- Un projecteurs
+- Deux haut-parleurs
+- Une table
 - Deux petites plateformes
 - Quelques oiseaux en papier
 - Plusieurs fausses plantes
@@ -70,7 +69,7 @@ Dans l'exposition temporaire "Canevas Cosmique", les participants sont invités 
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, je me suis senti un peu perdu par la suite, car personne ne m'a guidé pour commencer ma visite. Malgré cette confusion, j'ai été captivé par la beauté des œuvres de Riopelle et l'ambiance chaleureuse créée par les lumières douces. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique.
+<strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Cette œuvre "Canevas Cosmique" se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
 <br>
 <br>
 <br>
