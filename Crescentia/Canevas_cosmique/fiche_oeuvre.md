@@ -101,13 +101,13 @@ Ce qui m'a vraiment impressionné, c'est la façon dont cette œuvre a élargi m
 </h4>
 <hr>
 <strong>
-  Toutes les informations mentionnées ont été extraites du document accessible via le code QR à l'entrée, situé dans la section "Médias", ainsi que des fiches des œuvres, du site web de l'exposition, ou encore de mes propres observations personnelles.
+Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
 </strong>
 <br>
 <br>
-Pour obtenir plus d'informations, veuillez consulter les fiches des œuvres exposées disponibles dans la section "Médias", ou cliquez ici.
+
+Pour consulter plus de détails, veuillez cliquer sur ce lien :
 <br>
-<h4 align=center>(https://tohu.ca/fr/programmation/riopelle-grandeur-nature) <br>
-<h4 align=center>ou <br>
-<h4 align=center>(https://7doigts.com/spectacles/creations/riopelle-grandeur-nature-spectacle)
-<br>
+<h4 align=center>(https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html) <br>
+
+
