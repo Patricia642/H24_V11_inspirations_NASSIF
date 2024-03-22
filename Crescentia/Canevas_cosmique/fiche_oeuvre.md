@@ -106,8 +106,6 @@ Les informations présentées proviennent des créateurs de l'œuvre ainsi que d
 <br>
 <br>
 
-Pour consulter plus de détails, veuillez cliquer sur ce lien :
-<br>
-<h4 align=center>(https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html) <br>
+Pour consulter plus de détails, veuillez cliquer sur ce lien : (https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html) 
 
 
