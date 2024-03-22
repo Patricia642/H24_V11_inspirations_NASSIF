@@ -1,1 +1,1 @@
-Voici une documentation plus enrichie de l'oeuvre Solanux.
+Voici une documentation plus enrichie de l'oeuvre Sonalux.
