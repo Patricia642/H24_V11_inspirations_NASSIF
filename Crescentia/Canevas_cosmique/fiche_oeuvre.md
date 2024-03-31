@@ -25,48 +25,60 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 | <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=100% height=100%></h4> |
   
 <h3 align=center>Composantes et techniques</h3>
-
-- Plans de l'installation
-- Plans du matériel requis obligatoirement
-- Six écrans
-- Un projecteurs
-- Deux haut-parleurs
-- Une table
-- Deux petites plateformes
-- Quelques oiseaux en papier
-- Plusieurs fausses plantes
-- Plusieurs branches de bois
-- Plusieurs chaises en bois
-- Deux télévisions
-- Plusieurs tableaux réalisés par Riopelle
-- Plusieurs sculptures réalisées par Riopelle
-- Quelques jeux interactifs
-- Grands rideaux noirs
-- Fils transparents assez forts pour soutenir les écrans
-- Pots de peinture
-- Plusieurs pinceaux
-- Quelques girlandes de lumière
-- Plusieurs petites lampes d'ambiance
-- Caissons de basses-fréquences
+- Plans techniques
+- Schéma de branchement
+- 1 Lumière DMX
+- 2 haut-parleurs
+- 5 fils XLR 3 conducteurs de 15' (M->F)
+- 1 carte de son
+- 1 projecteur vidéo shortrow
+- 1 projo ultra short-throw
+- 3 système d'acrochage
+- 1 KinectV2
+- 2 cordon IEC (pour l'alimentation des haut-parleurs)
+- 4 Multiprises
+- Switch poe 1 port
+- Switch Ethernet 3 ports
+- 7 Cables Ethernet
+- 4 Cables HDMI
+- 2 Receivers HDMI
+- 2 Sender HDMI
+- 1 ordinateur
+- 1 laptop
+- Touch Designer
+- Unity 2022.3.8f1
+- Autodesk Maya
+- Blender
+- Reaper
+- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
+- Statuettes imprimées en 3D
+- Notepad contenant les infos pour l'opération de la table.
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
--lampes d'ambiance
-- Cache-fil
-- Grands rideaux noirs
-- Câbles
-- Plateformes
-- Oiseaux en papier
-- Fausses plantes
-- Branches en bois
-- Jeux interactifs
-- Tableaux
-- Sculptures
-- Télévisions
-- Écrans
-- Projecteurs
-- Hauts-parleurs
-- Isoler toute la salle de vidéo pour ne plus qu'il y est de la pollution lumineuse
-- Caissons de basses-fréquences
+- Plans techniques
+- Schéma de branchement
+- 1 Lumière DMX
+- 2 haut-parleurs
+- 5 fils XLR 3 conducteurs de 15' (M->F)
+- 1 carte de son
+- 1 projecteur vidéo shortrow
+- 1 projo ultra short-throw
+- 3 système d'acrochage
+- 1 KinectV2
+- 2 cordon IEC (pour l'alimentation des haut-parleurs)
+- 4 Multiprises
+- Switch poe 1 port
+- Switch Ethernet 3 ports
+- 7 Cables Ethernet
+- 4 Cables HDMI
+- 2 Receivers HDMI
+- 2 Sender HDMI
+- 1 ordinateur
+- 1 laptop
+- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
+- Statuettes imprimées en 3D
+- Notepad contenant les infos pour l'opération de la table.
+
 <hr>
 <h3 align=center>Expérience vécue</h3>
 <strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
