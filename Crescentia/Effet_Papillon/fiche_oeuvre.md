@@ -12,11 +12,11 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-Dans l'exposition temporaire "Canevas Cosmique", les participants sont invités à explorer un univers interactif où ils peuvent manipuler une statuette à l'aide de symboles pour façonner le cosmos. Par exemple, en déplaçant un symbole représentant une comète, ils peuvent déclencher des collisions célestes et remodeler les constellations. Cette expérience offre aux visiteurs un rôle actif dans la création et la transformation de l'espace.</h3>
+Une installation interactive met en lumière le cycle de vie d'un pommier et l'effet papillon. Les visiteurs explorent les étapes de la graine à la pomme tout en découvrant comment de petits choix peuvent avoir un grand impact. La maturation de la pomme révèle les conséquences des actions des visiteurs.</h3>
  <hr>
 <h3 align=center>Mise en espace</h3>
 
-Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table ornée de statuettes étranges. Elle est accompagnée d'une exposition colorée de l'espace, mettant en scène des planètes et divers éléments spatiaux. Au-dessus de l'œuvre, un projecteur éclaire la scène, tandis que deux haut-parleurs de chaque côté diffusent un son captivant vers l'utilisateur.
+Dès que vous entrez dans le petit studio, vous êtes accueilli par une installation qui monopolise tout l'espace d'enregistrement. Au centre, se dresse un arbre électronique, orné de plusieurs petits écrans et d'un bouton d'allumage, ses racines lumineuses s'étendant à travers la pièce. Autour, divers éléments, comme des ampoules équipées d'interrupteurs, sont disposés, vous incitant à les explorer et à interagir avec eux.
 <br>
 <br>
 
@@ -83,7 +83,7 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
+<strong>Le 7 mars 2024</strong>, lors de ma visite au petit studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
 <br>
 <br>
 <br>
