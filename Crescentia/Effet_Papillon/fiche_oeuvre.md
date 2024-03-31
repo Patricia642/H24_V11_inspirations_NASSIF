@@ -77,8 +77,7 @@ Dès que vous entrez dans le petit studio, vous êtes accueilli par une installa
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, 
-Le 7 mars 2024, en visitant le petit studio, l'installation "Effet Papillon" a immédiatement attiré mon attention. Au centre de la pièce se trouvait une structure ressemblant à un arbre électronique, avec plusieurs écrans et un bouton coloré. En appuyant sur ce bouton, tous les écrans se sont activés simultanément, accompagnés par des lumières au plafond. J'ai vite compris que mes interactions influençaient le son et les images diffusées, créant ainsi une expérience immersive et interactive.
+<strong>Le 7 mars 2024</strong>, en visitant le petit studio, l'installation "Effet Papillon" a immédiatement attiré mon attention. Au centre de la pièce se trouvait une structure ressemblant à un arbre électronique, avec plusieurs écrans et un bouton coloré. En appuyant sur ce bouton, tous les écrans se sont activés simultanément, accompagnés par des lumières au plafond. J'ai vite compris que mes interactions influençaient le son et les images diffusées, créant ainsi une expérience immersive et interactive.
 <br>
 <br>
 <br>
