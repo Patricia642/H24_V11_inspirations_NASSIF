@@ -25,6 +25,7 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 | <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=100% height=100%></h4> |
   
 <h3 align=center>Composantes et techniques</h3>
+
 - Plans techniques
 - Schéma de branchement
 - 1 Lumière DMX
@@ -55,6 +56,7 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 - Notepad contenant les infos pour l'opération de la table.
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
+
 - Plans techniques
 - Schéma de branchement
 - 1 Lumière DMX
