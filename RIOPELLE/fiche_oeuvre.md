@@ -52,6 +52,7 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 - Fausses plantes
 - Branches en bois
 - Écrans
+- Projecteurs
 - Hauts-parleurs
 - Isoler toute la salle de vidéo pour ne plus qu'il y est de la pollution lumineuse
 - Caissons de basses-fréquences
