@@ -12,7 +12,7 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-Une installation interactive met en lumière le cycle de vie d'un pommier et l'effet papillon. Les visiteurs explorent les étapes de la graine à la pomme tout en découvrant comment de petits choix peuvent avoir un grand impact. La maturation de la pomme révèle les conséquences des actions des visiteurs.</h3>
+L'exposition temporaire "Effet Papillon" présente une installation interactive mettant en lumière le cycle de vie d'un pommier ainsi que l'effet papillon. Les visiteurs sont invités à explorer les différentes étapes, de la graine à la pomme, tout en prenant conscience de l'impact que de petits choix peuvent avoir sur le processus. À travers cette expérience, la maturation de la pomme révèle de manière tangible les conséquences des actions des visiteurs, soulignant ainsi l'importance de chaque décision dans un système complexe.</h3>
  <hr>
 <h3 align=center>Mise en espace</h3>
 
@@ -28,62 +28,57 @@ Dès que vous entrez dans le petit studio, vous êtes accueilli par une installa
 
 - Plans techniques
 - Schéma de branchement
-- 1 Lumière DMX
-- 2 haut-parleurs
-- 5 fils XLR 3 conducteurs de 15' (M->F)
-- 1 carte de son
-- 1 projecteur vidéo shortrow
-- 1 projo ultra short-throw
-- 3 système d'acrochage
-- 1 KinectV2
-- 2 cordon IEC (pour l'alimentation des haut-parleurs)
-- 4 Multiprises
-- Switch poe 1 port
-- Switch Ethernet 3 ports
-- 7 Cables Ethernet
-- 4 Cables HDMI
-- 2 Receivers HDMI
-- 2 Sender HDMI
-- 1 ordinateur
-- 1 laptop
-- Touch Designer
-- Unity 2022.3.8f1
-- Autodesk Maya
+- 4 Projecteurs
+- 4 Haut-parleurs
+- 9 Petits écrans
+- Toile de fond
+- Fairylight adressable
+- QLC +
+--Touch Designer
+- Mad Mapper
+- Arduino
+- HyperHDR
+- FL Studio
+- Visual Code Studio
 - Blender
-- Reaper
-- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
-- Statuettes imprimées en 3D
-- Notepad contenant les infos pour l'opération de la table.
+- Houdini
+- SpeedTree
+- 3 Interrupteur
+- 3 Plaque interrupteur
+- 3 Ampoule LED
+- Atom POE
+- 2 Écran Rasberry Pi
+- Poulie
+- Pomme en plastique
+- Poids
+- TOF
+- Atom POE
+- Valve à eau
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Plans techniques
 - Schéma de branchement
-- 1 Lumière DMX
-- 2 haut-parleurs
-- 5 fils XLR 3 conducteurs de 15' (M->F)
-- 1 carte de son
-- 1 projecteur vidéo shortrow
-- 1 projo ultra short-throw
-- 3 système d'acrochage
-- 1 KinectV2
-- 2 cordon IEC (pour l'alimentation des haut-parleurs)
-- 4 Multiprises
-- Switch poe 1 port
-- Switch Ethernet 3 ports
-- 7 Cables Ethernet
-- 4 Cables HDMI
-- 2 Receivers HDMI
-- 2 Sender HDMI
-- 1 ordinateur
-- 1 laptop
-- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
-- Statuettes imprimées en 3D
-- Notepad contenant les infos pour l'opération de la table.
+- 4 Projecteurs
+- 4 Haut-parleurs
+- 9 Petits écrans
+- Toile de fond
+- 3 Interrupteur
+- 3 Plaque interrupteur
+- 3 Ampoule LED
+- Atom POE
+- 2 Écran Rasberry Pi
+- Poulie
+- Pomme en plastique
+- Poids
+- TOF
+- Atom POE
+- Valve à eau
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, lors de ma visite au petit studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
+<strong>Le 7 mars 2024</strong>, 
+Le 7 mars 2024, en visitant le petit studio, l'installation "Effet Papillon" a immédiatement attiré mon attention. Au centre de la pièce se trouvait une structure ressemblant à un arbre électronique, avec plusieurs écrans et un bouton coloré. En appuyant sur ce bouton, tous les écrans se sont activés simultanément, accompagnés par des lumières au plafond. J'ai vite compris que mes interactions influençaient le son et les images diffusées, créant ainsi une expérience immersive et interactive.
 <br>
 <br>
 <br>
@@ -98,10 +93,10 @@ Dès que vous entrez dans le petit studio, vous êtes accueilli par une installa
   
 <h3 align=center>Aspects que je ferais autrement</h3>
 
-Si j'avais l'opportunité de modifier quelque chose, je choisirais de protéger le code QR situé sous les figurines avec une fine couche de plastique transparent. Cette précaution s'avérerait nécessaire car ce code semble revêtir une grande importance, et son exposition à la friction lors des manipulations des figurines pourrait entraîner sa dégradation.
+Si j'avais l'opportunité de modifier quelque chose, je choisirais de limiter le nombre de personnes pouvant entrer dans la salle en même temps. À mon avis, il y avait un peu trop de monde, ce qui ne laissait pas suffisamment de temps à chacun pour interagir pleinement avec l'installation.
 
 <h3 align=center>Ce qui m'a plu</h3>
-Ce qui m'a vraiment impressionné, c'est la façon dont cette œuvre a élargi mes horizons artistiques. Personnellement, je n'avais pas envisagé une idée aussi novatrice et stimulante. Cette expérience m'a ouvert les portes à de nouvelles perspectives créatives, m'incitant à explorer des horizons artistiques que je n'avais pas explorés auparavant.
+Ce qui m'a particulièrement marqué, c'est la manière dont les petits écrans étaient positionnés et coordonnés. Cela a permis de créer une composition visuelle remarquable et cohérente.
 <br>
 <br>
 
