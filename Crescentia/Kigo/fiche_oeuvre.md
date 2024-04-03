@@ -12,7 +12,7 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 <h2 align=center>Lien avec le thème Crescentia</h2>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-L'exposition temporaire "Kigo" présente une expérience multimédia interactive sous forme d'un jeu qui symbolise les saisons. L'objectif est de compléter quatre niveaux de difficulté croissante. L'interaction se fait via la Kinect, permettant à l'avatar de se déplacer à droite, à gauche et de s'accroupir pour éviter les obstacles.</h3>
+Kigo enrichit le projet Crescentia en introduisant une progression saisonnière et de difficulté. Chaque niveau du jeu correspond à une saison, avec des décors qui évoluent en conséquence. Cette approche dynamique donne vie à l'expérience de jeu, où chaque saison représente une montée en difficulté.</h3>
  <hr>
 <h3 align=center>Mise en espace</h3>
 
