@@ -23,62 +23,6 @@ Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table o
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=100% height=100%></h4> |
   
-<h3 align=center>Composantes et techniques</h3>
-
-- Plans techniques
-- Schéma de branchement
-- 1 Lumière DMX
-- 2 haut-parleurs
-- 5 fils XLR 3 conducteurs de 15' (M->F)
-- 1 carte de son
-- 1 projecteur vidéo shortrow
-- 1 projo ultra short-throw
-- 3 système d'acrochage
-- 1 KinectV2
-- 2 cordon IEC (pour l'alimentation des haut-parleurs)
-- 4 Multiprises
-- Switch poe 1 port
-- Switch Ethernet 3 ports
-- 7 Cables Ethernet
-- 4 Cables HDMI
-- 2 Receivers HDMI
-- 2 Sender HDMI
-- 1 ordinateur
-- 1 laptop
-- Touch Designer
-- Unity 2022.3.8f1
-- Autodesk Maya
-- Blender
-- Reaper
-- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
-- Statuettes imprimées en 3D
-- Notepad contenant les infos pour l'opération de la table.
-
-<h3 align=center>Éléments nécessaires à la mise en exposition</h3>
-
-- Plans techniques
-- Schéma de branchement
-- 1 Lumière DMX
-- 2 haut-parleurs
-- 5 fils XLR 3 conducteurs de 15' (M->F)
-- 1 carte de son
-- 1 projecteur vidéo shortrow
-- 1 projo ultra short-throw
-- 3 système d'acrochage
-- 1 KinectV2
-- 2 cordon IEC (pour l'alimentation des haut-parleurs)
-- 4 Multiprises
-- Switch poe 1 port
-- Switch Ethernet 3 ports
-- 7 Cables Ethernet
-- 4 Cables HDMI
-- 2 Receivers HDMI
-- 2 Sender HDMI
-- 1 ordinateur
-- 1 laptop
-- Table: Matériaux: Bois, acier, Acrylique, Spandex, 38 x 26", 31" de hauteur.
-- Statuettes imprimées en 3D
-- Notepad contenant les infos pour l'opération de la table.
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
