@@ -58,11 +58,7 @@ Ce qui m'a vraiment impressionné, c'est la façon dont cette œuvre a élargi m
 | Sculpture | Tableau collectif | 
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=80% height=100%></h4> |
-<h4 align=center>Sous-sol
-<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=25% height=1%></h4>
-<h4 align=center>Atelier interactif<br><br>
-<img src='./medias/RIOPELLE_interaction_peinture_20240301.jpg' width=100% height=100%></h4>
-</h4>
+
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
