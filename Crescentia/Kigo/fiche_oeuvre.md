@@ -28,52 +28,39 @@ Dès que vous franchissez la porte du studio, l'installation attire l'attention 
 
 - Plans techniques
 - Schéma de branchement
-- 4 Projecteurs
-- 4 Haut-parleurs
-- 9 Petits écrans
-- Toile de fond
-- Fairylight adressable
-- QLC +
---Touch Designer
-- Mad Mapper
-- Arduino
-- HyperHDR
-- FL Studio
-- Visual Code Studio
-- Blender
-- Houdini
-- SpeedTree
-- 3 Interrupteur
-- 3 Plaque interrupteur
-- 3 Ampoule LED
-- Atom POE
-- 2 Écran Rasberry Pi
-- Poulie
-- Pomme en plastique
-- Poids
-- TOF
-- Atom POE
-- Valve à eau
+- 1 Console de sons
+- 1 Carte de sons
+- 2 Haut-parleurs Genelec 8010APM
+- 4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+- 1 Projecteur
+- 1 Kinect V2
+- 1 sytème d'acrochage pour le projecteur
+- 2 Cordon IEC (pour alimenter les haut-parleurs)
+- 2 Multiprise
+- 2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+- 1 Câble d’alimentation pour ordinateur
+- 1 Câble d’alimentation pour console de son
+- 2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+- 1 HDMI Extender
+- 2 Câbles HDMI
+- Câble displayPort
+- 1 Chariot Ordinateur
+- Tapis de protection
+- 3 Safety en métal
+- 1 Powercon
+- 1 Magic Arm
+- Kinect studio
+- Unity
+- Touch designer (Si Unity ne marche pas)
+- Blender ou Maya
+- OBS Studio
+- Reaper
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Plans techniques
 - Schéma de branchement
-- 4 Projecteurs
-- 4 Haut-parleurs
-- 9 Petits écrans
-- Toile de fond
-- 3 Interrupteur
-- 3 Plaque interrupteur
-- 3 Ampoule LED
-- Atom POE
-- 2 Écran Rasberry Pi
-- Poulie
-- Pomme en plastique
-- Poids
-- TOF
-- Atom POE
-- Valve à eau
+
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
