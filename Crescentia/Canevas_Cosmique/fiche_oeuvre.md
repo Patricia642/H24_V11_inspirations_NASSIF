@@ -17,14 +17,9 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
  <hr>
 <h3 align=center>Schéma de l'installation</h3>
 
-<h4 align=center>
-<img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=50% height=5%> 
-</h4>
-<br>
-
 | Salle de projection | L'installation de la salle | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_installation_20240301.jpg' width=100% height=100%></h4> |
+| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=100% height=100%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=100% height=100%></h4> |
   
 
 <hr>
