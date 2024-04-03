@@ -2,6 +2,7 @@
 Sonalux</h1>
 <h3 align=center>Une œuvre artistique développée par Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins en collaboration avec le Collège Montmorency
 </h3>
+<hr>
 <h2 align=center>Lien avec le thème Crescentia</h2>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
