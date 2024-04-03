@@ -1,7 +1,7 @@
 <h1 align=center>
 Kigo</h1>
-<h2 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
-</h2>
+<h3 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
+</h3>
 
 <p>
 Lieu de mise en exposition: <strong> Collège Montmorency </strong><br>
