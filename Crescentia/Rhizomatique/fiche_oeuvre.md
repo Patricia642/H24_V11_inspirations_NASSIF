@@ -6,6 +6,6 @@ Rhizomatique</h1>
 <h2 align=center>Lien avec le thème Crescentia</h2>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-  Solanux crée un lien avec le projet Crescentia en proposant une expérience où l'environnement visuel et sonore se transforme de manière organique, réagissant aux mouvements et gestes des utilisateurs. Cette interaction directe permet aux participants de modeler activement leur expérience, fusionnant ainsi leur présence physique avec l'univers numérique de Crescentia.
+  Rhizomatique établit une connexion avec le projet Crescentia en offrant une expérience où l'environnement visuel évolue en fonction des gestes de l'utilisateur sur la toile. Cette interaction dynamique crée un lien entre l'utilisateur et l'environnement numérique, où les souvenirs deviennent plus clairs à mesure que l'utilisateur interagit davantage avec la toile.
 </h3>
  <hr>
