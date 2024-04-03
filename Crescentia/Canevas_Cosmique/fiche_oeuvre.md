@@ -14,10 +14,11 @@ Canevas Cosmique</h1>
 Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un développement du système solaire contrôlé par l'utilisateur à l'aide de petites statuettes placées sur la table.
 </h3>
  <hr>
-<h3 align=center>Mise en espace</h3>
+<h3 align=center>Schéma de l'installation</h3>
 
-Dès l'entrée du studio, l'œuvre est immédiatement présente avec une table ornée de statuettes étranges. Elle est accompagnée d'une exposition colorée de l'espace, mettant en scène des planètes et divers éléments spatiaux. Au-dessus de l'œuvre, un projecteur éclaire la scène, tandis que deux haut-parleurs de chaque côté diffusent un son captivant vers l'utilisateur.
-<br>
+<h4 align=center>
+<img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=50% height=5%> 
+</h4>
 <br>
 
 | Salle de projection | L'installation de la salle | 
