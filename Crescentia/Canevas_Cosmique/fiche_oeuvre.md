@@ -4,9 +4,8 @@ Canevas Cosmique</h1>
  <br>
  Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 </h2>
-
+ <img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=100% height=100%> 
 <h1 align=center>Lien avec le thème Crescentia</h1>
- <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
 
 Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un développement du système solaire contrôlé par l'utilisateur à l'aide de petites statuettes placées sur la table.
