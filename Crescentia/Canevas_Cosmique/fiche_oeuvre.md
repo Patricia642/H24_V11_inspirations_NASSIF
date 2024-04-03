@@ -1,13 +1,9 @@
 <h1 align=center>
 Canevas Cosmique</h1>
 <h2 align=center>Une œuvre artistique développée par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau en collaboration avec le Collège Montmorency
+ <br>
+ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 </h2>
-
-<p>
-Lieu de mise en exposition: <strong> Collège Montmorency </strong><br>
-Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
-Présenté: <strong>18.03.2024 - 21.03.2024</strong>
-</p>
 
 <h1 align=center>Lien avec le thème Crescentia</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
