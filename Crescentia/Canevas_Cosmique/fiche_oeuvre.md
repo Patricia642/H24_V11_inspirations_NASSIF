@@ -7,7 +7,7 @@ Canevas Cosmique</h1>
 <h4 align=center>
 <img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=50% height=5%> 
 </h4>
-
+<hr>
 <h1 align=center>Lien avec le thème Crescentia</h1>
 
 <h3 align=center>
