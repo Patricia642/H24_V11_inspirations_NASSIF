@@ -12,7 +12,8 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-L'exposition temporaire "Effet Papillon" présente une installation interactive mettant en lumière le cycle de vie d'un pommier ainsi que l'effet papillon. Les visiteurs sont invités à explorer les différentes étapes, de la graine à la pomme, tout en prenant conscience de l'impact que de petits choix peuvent avoir sur le processus. À travers cette expérience, la maturation de la pomme révèle de manière tangible les conséquences des actions des visiteurs, soulignant ainsi l'importance de chaque décision dans un système complexe.</h3>
+Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le cycle de vie d'un pommier, de sa croissance à sa maturité. À travers des éléments électroniques comme des effets visuels et sonores, le jeu illustre le concept de l'effet papillon, où de petits choix peuvent avoir de grandes conséquences. Ainsi, les interactions du joueur influencent non seulement le destin du pommier, mais aussi le déroulement global de l'aventure.
+</h3>
  <hr>
 <h3 align=center>Mise en espace</h3>
 
