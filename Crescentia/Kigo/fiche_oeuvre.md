@@ -12,7 +12,7 @@ Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
-L'exposition temporaire "Kigo" présente une expérience multimédia interactive sous forme d'un jeu qui symbolise les saisons. L'objectif est de compléter quatre niveaux de difficulté croissante, représentant chacun une saison avec ses décors correspondants. L'interaction se fait via la Kinect, permettant à l'avatar de se déplacer à droite, à gauche et de s'accroupir pour éviter les obstacles.</h3>
+L'exposition temporaire "Kigo" présente une expérience multimédia interactive sous forme d'un jeu qui symbolise les saisons. L'objectif est de compléter quatre niveaux de difficulté croissante. L'interaction se fait via la Kinect, permettant à l'avatar de se déplacer à droite, à gauche et de s'accroupir pour éviter les obstacles.</h3>
  <hr>
 <h3 align=center>Mise en espace</h3>
 
