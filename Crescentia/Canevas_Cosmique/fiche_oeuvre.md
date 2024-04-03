@@ -5,7 +5,7 @@ Canevas Cosmique</h1>
  Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 </h2>
 
-<img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=100% height=100%> 
+<img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=50% height=50%> 
 
 <h1 align=center>Lien avec le thème Crescentia</h1>
 <h3 align=center>
