@@ -15,6 +15,12 @@ Canevas Cosmique</h1>
 Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un développement du système solaire contrôlé par l'utilisateur à l'aide de petites statuettes placées sur la table.
 </h3>
  <hr>
+ <h3 align=center> L'installation en cours</h3>
+ 
+| Page 1 | Page 2 | 
+| :---: | :---: | 
+| <img src='./medias/' width=100% height=100%></h4> | <img src='./medias/' width=100% height=100%></h4> |
+<hr>
 <h3 align=center>Schéma de l'installation</h3>
 
 | Page 1 | Page 2 | 
