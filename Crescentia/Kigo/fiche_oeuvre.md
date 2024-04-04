@@ -14,9 +14,9 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
  
 | Allure projet | Délimitation | 
 | :---: | :---: | 
-| <img src='./medias/Kigo_allure_20240220.jpg' width=30% height=5%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=30% height=5%></h4> |
-| Installation | Projection | 
-| <img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4> | <img src='./medias/Kigo_interface_20240220 (2).png' width=30% height=5%></h4> |
+| <img src='./medias/Kigo_allure_20240220.jpg' width=30% height=15%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=30% height=15%></h4> |
+| Installation | Interface | 
+| <img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4> | <img src='./medias/Kigo_interface_20240220 (2).png' width=30% height=10%></h4> |
 
 
 <h3 align=center>Schéma de l'installation<br><br>
