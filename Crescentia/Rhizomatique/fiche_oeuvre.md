@@ -11,7 +11,7 @@ Rhizomatique</h1>
  <hr>
 <h3 align=center> L'installation en cours</h3>
 <h3 align=center>Essaie<br><br> 
-<img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=10% height=10%>
+<img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
   </h3>
 <h3 align=center>Allure<br><br>
 <img src='./medias/Rhizomatique_installation_20240220.png' width=100% height=100%>
