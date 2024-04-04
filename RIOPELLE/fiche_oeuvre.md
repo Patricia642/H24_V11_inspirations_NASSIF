@@ -82,14 +82,13 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 <br>
 <br>
 
-| Sculpture | Tableau collectif | 
+
+| Salle | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=80% height=100%></h4> |
+| <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_allure_sophistiquer_20240301.jpg' width=80% height=100%></h4> |
 <h4 align=center>Sous-sol
 <h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=25% height=1%></h4>
-<h4 align=center>Atelier interactif<br><br>
-<img src='./medias/RIOPELLE_interaction_peinture_20240301.jpg' width=100% height=100%></h4>
-</h4>
+
 <hr>
 <strong>
   Toutes les informations mentionnées ont été extraites du document accessible via le code QR à l'entrée, situé dans la section "Médias", ainsi que des fiches des œuvres, du site web de l'exposition, ou encore de mes propres observations personnelles.
