@@ -9,7 +9,6 @@ Effet Papillon</h1>
 <hr>
 
 <h1 align=center>Lien avec le thème Crescentia</h1>
- <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
  
 <h3 align=center>
 Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le cycle de vie d'un pommier, de sa croissance à sa maturité. À travers des éléments électroniques comme des effets visuels et sonores, le jeu illustre le concept de l'effet papillon, où de petits choix peuvent avoir de grandes conséquences. Ainsi, les interactions du joueur influencent non seulement le destin du pommier, mais aussi le déroulement global de l'aventure.
