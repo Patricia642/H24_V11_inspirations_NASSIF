@@ -26,11 +26,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 <hr>
 
 <h3 align=center>Schéma de l'installation</h3>
-
-| Page 1 | Page 2 | 
-| :---: | :---: | 
-| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=100% height=100%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=100% height=100%></h4> |
-  
+<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=100% height=100%>
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
