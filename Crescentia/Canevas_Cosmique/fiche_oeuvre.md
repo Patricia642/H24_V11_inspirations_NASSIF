@@ -2,8 +2,6 @@
 Canevas Cosmique</h1>
 
 <h2 align=center>Une œuvre artistique développée par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau en collaboration avec le Collège Montmorency
- <br>
- Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 </h2>
 <h4 align=center>
 <img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=50% height=5%> 
