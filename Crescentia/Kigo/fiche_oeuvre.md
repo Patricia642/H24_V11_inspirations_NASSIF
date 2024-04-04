@@ -3,12 +3,6 @@ Kigo</h1>
 <h3 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
 </h3>
 
-<p>
-Lieu de mise en exposition: <strong> Collège Montmorency </strong><br>
-Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
-Présenté: <strong>18.03.2024 - 21.03.2024</strong>
-</p>
-
 <h2 align=center>Lien avec le thème Crescentia</h2>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
