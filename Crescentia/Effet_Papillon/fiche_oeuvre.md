@@ -17,7 +17,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 
  <h3 align=center> L'installation en cours</h3>
  
-| Code QR | Projection | 
+| Allure projet | Arbre | 
 | :---: | :---: | 
 | <img src='./medias/Effet_Papillon_allure_essaie_20240220.png' width=30% height=5%></h4> | <img src='./medias/Effet_Papillon_arbre_02_20240220.jpg' width=30% height=5%></h4> |
 <h4 align=center>Statuettes<br><br>
@@ -25,7 +25,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 <hr>
 
 <h3 align=center>Schéma de l'installation</h3>
-<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=100% height=100%>
+<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=30% height=10%>
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
