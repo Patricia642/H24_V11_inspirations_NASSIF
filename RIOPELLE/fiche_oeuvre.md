@@ -65,12 +65,8 @@ Présenté: <strong>13.02.2024 - 10.03.2024</strong>
 <br>
 <br>
 <br>
-
-| Tableau du dragon | Ligne d'oiseaux | 
-| :---: | :---: | 
-| <img src='./medias/RIOPELLE_tableau_dragon_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=100% height=120%></h4> |
-<h4 align=center>Moi devant le Studio des 7 Doigts<br><br>
-<img src='./medias/RIOPELLE_moi_20240301.jpg' width=40% height=40%></h4>
+<h4 align=center>Croquis<br><br>
+ <img src='./medias/RIOPELLE_croquis_20240301.jpg' width=100% height=100%></h4>
 
 <hr>
   
@@ -86,8 +82,9 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 | Salle | Allure sophistiquée | 
 | :---: | :---: | 
 | <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_allure_sophistiquer_20240301.jpg' width=80% height=100%></h4> |
-<h4 align=center>Sous-sol
-<h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=25% height=1%></h4>
+| Sous-sol | Moi devant le Studio des 7 Doigts | 
+| <h4 align=center><img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=25% height=1%></h4> |
+<img src='./medias/RIOPELLE_moi_20240301.jpg' width=40% height=40%></h4> |
 
 <hr>
 <strong>
