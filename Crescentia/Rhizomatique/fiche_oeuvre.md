@@ -9,3 +9,41 @@ Rhizomatique</h1>
   Rhizomatique établit une connexion avec le projet Crescentia en offrant une expérience où l'environnement visuel évolue en fonction des gestes de l'utilisateur sur la toile. Cette interaction dynamique crée un lien entre l'utilisateur et l'environnement numérique, où les souvenirs deviennent plus clairs à mesure que l'utilisateur interagit davantage avec la toile.
 </h3>
  <hr>
+<h3 align=center> L'installation en cours</h3>
+ 
+| Allure projet | Délimitation | 
+| :---: | :---: | 
+| <img src='./medias/Kigo_allure_20240220.jpg' width=100% height=100%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=100% height=100%></h4> |
+
+<h4 align=center>Installation<br><br>
+<img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4>
+<hr>
+<h3 align=center>Schéma de l'installation<br><br>
+<img src='./medias/Kigo_plantation_20240307.JPG' width=50% height=30%>
+</h3>
+<hr>
+<h3 align=center>Expérience vécue</h3>
+
+En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
+<hr>
+
+<h3 align=center>3 cours du programme incontournables pour ce projet</h3>
+
+- Objets interactifs
+- Réalité mixte
+- Animation 3D
+<hr>
+<h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
+<h5 align=center>
+Je ne savais pas du tout ce qu'était un Kinect jusqu'à ce que l'équipe du projet m'explique son fonctionnement. Ils m'ont expliqué que c'est un dispositif permettant de contrôler une interface sans utiliser de manette, en captant les mouvements du corps.</h5>
+<br>
+<br>
+<hr>
+<strong>
+Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
+</strong>
+<br>
+<br>
+
+Pour consulter plus de détails, veuillez cliquer sur ce lien :
+(https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html) 
