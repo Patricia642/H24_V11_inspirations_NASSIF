@@ -37,7 +37,7 @@ Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ress
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>
-Je ne savais pas du tout ce qu'était un Kinect jusqu'à ce que l'équipe du projet m'explique son fonctionnement. Ils m'ont expliqué que c'est un dispositif permettant de contrôler une interface sans utiliser de manette, en captant les mouvements du corps.</h5>
+En discutant avec l'équipe, j'ai réalisé qu'il était possible de diviser le Kinect en sections, comme ils l'ont fait pour leur projet, afin de diffuser les images sur plusieurs écrans.</h5>
 <br>
 <br>
 <hr>
