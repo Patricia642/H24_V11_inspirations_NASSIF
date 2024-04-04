@@ -9,15 +9,13 @@ Sonalux</h1>
   Solanux crée un lien avec le projet Crescentia en proposant une expérience où l'environnement visuel et sonore se transforme de manière organique, réagissant aux mouvements et gestes des utilisateurs. Cette interaction directe permet aux participants de modeler activement leur expérience, fusionnant ainsi leur présence physique avec l'univers numérique de Crescentia.
 </h3>
  <hr>
-Sonalux_boutons_20240220.png
-Sonalux_installation_20240220.png
-Sonalux_interface_programmation_20240220.png
-| Allure projet | Délimitation | 
-| :---: | :---: | 
-| <img src='./medias/Kigo_allure_20240220.jpg' width=100% height=100%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=100% height=100%></h4> |
 
-<h4 align=center>Installation<br><br>
-<img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4>
+| Boutons | Essaie | 
+| :---: | :---: | 
+| <img src='./medias/Sonalux_boutons_20240220.png' width=100% height=100%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=100% height=100%></h4> |
+| Allure projection | Installation | 
+| <img src='./medias/Sonalux_projection_20240220.jpg' width=100% height=100%></h4> | <img src='./medias/Sonalux_installation_20240220.png' width=100% height=100%></h4> |
+
  
 <h3 align=center> L'installation en cours</h3>
 <h3 align=center>Essaie<br><br> 
