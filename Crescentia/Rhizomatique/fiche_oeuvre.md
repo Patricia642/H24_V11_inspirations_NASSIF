@@ -10,6 +10,11 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
+Rhizomatique_allure_essaie_20240220.png
+
+Rhizomatique_installation_20240220.png
+
+Rhizomatique_materiels_20240220.png
  
 | Allure projet | Délimitation | 
 | :---: | :---: | 
