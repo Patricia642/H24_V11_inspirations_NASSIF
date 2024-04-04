@@ -26,7 +26,7 @@ Rhizomatique</h1>
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
-En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
+Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ressenti le besoin de poser ma main sur la toile, dont la texture douce m'a agréablement surprise. J'ai été particulièrement séduite par la nécessité de bouger délicatement ma main pour dévoiler des souvenirs sans lien apparent. Cette approche m'a permis de m'immerger dans une série de beaux moments, me laissant explorer une atmosphère immersive dépourvue d'une narration linéaire.
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
