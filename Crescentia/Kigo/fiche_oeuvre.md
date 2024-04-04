@@ -3,8 +3,9 @@ Kigo</h1>
 <h3 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
 </h3>
 
+ <img src='./medias/Kigo_affiche_20240307.JPG' width=100% height=100%> 
+
 <h2 align=center>Lien avec le thème Crescentia</h2>
- <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
 Kigo enrichit le projet Crescentia en introduisant une progression saisonnière et de difficulté. Chaque niveau du jeu correspond à une saison, avec des décors qui évoluent en conséquence. Cette approche dynamique donne vie à l'expérience de jeu, où chaque saison représente une montée en difficulté.</h3>
 
