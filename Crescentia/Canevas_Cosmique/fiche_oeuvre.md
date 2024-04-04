@@ -43,7 +43,7 @@ En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet d
 - Objets interactifs
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
-Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.
+<h5 align=center>Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.</h5>
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
