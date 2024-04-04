@@ -25,7 +25,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 <hr>
 
 <h3 align=center>Schéma de l'installation<br><br>
-<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=30% height=10%>
+<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=50% height=30%>
 </h3>
 <hr>
 <h3 align=center>Expérience vécue</h3>
