@@ -9,6 +9,11 @@ Sonalux</h1>
   Solanux crée un lien avec le projet Crescentia en proposant une expérience où l'environnement visuel et sonore se transforme de manière organique, réagissant aux mouvements et gestes des utilisateurs. Cette interaction directe permet aux participants de modeler activement leur expérience, fusionnant ainsi leur présence physique avec l'univers numérique de Crescentia.
 </h3>
  <hr>
+Sonalux_boutons_20240220.png
+Sonalux_installation_20240220.png
+Sonalux_interface_programmation_20240220.png
+
+ 
 <h3 align=center> L'installation en cours</h3>
 <h3 align=center>Essaie<br><br> 
 <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
@@ -21,7 +26,7 @@ Sonalux</h1>
 </h3>
 
 <h3 align=center>Schéma de l'installation<br><br>
-<img src='./medias/Rhizomatique_plantation_20240307.png' width=50% height=30%>
+<img src='./medias/Sonalux_plantation_20240307.png' width=50% height=30%>
 </h3>
 <hr>
 <h3 align=center>Expérience vécue</h3>
@@ -46,4 +51,4 @@ Les informations présentées proviennent des créateurs de l'œuvre ainsi que d
 <br>
 
 Pour consulter plus de détails, veuillez cliquer sur ce lien :
-(https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html) 
+(https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html) 
