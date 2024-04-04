@@ -37,12 +37,13 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
+
 - Conception d’une expérience multimédia
 - Web 5
 - Objets interactifs
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
-Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.
+<h4 align=center>Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.</h4>
 
 <hr>
 <strong>
