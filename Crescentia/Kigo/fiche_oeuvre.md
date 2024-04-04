@@ -20,7 +20,7 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4>
 
 <h3 align=center>Schéma de l'installation<br><br>
-<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=50% height=30%>
+<img src='./medias/Kigo_plantation_20240307.JPG' width=50% height=30%>
 </h3>
 <hr>
 <h3 align=center>Expérience vécue</h3>
