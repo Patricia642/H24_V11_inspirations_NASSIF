@@ -81,9 +81,9 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_allure_sophistiquer_20240301.jpg' width=80% height=100%></h4> |
+| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_allure_sophistiquer_20240301.jpg' width=100% height=100%></h4> |
 | Sous-sol | Moi devant le Studio des 7 Doigts | 
-| <img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=50% height=50%></h4> | <img src='./medias/RIOPELLE_moi_20240301.jpg' width=80% height=100%></h4> |
+| <img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=50% height=50%></h4> | <img src='./medias/RIOPELLE_moi_20240301.jpg' width=100% height=100%></h4> |
 
 <hr>
 <strong>
