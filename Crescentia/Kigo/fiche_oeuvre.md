@@ -24,9 +24,8 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 </h3>
 <hr>
 <h3 align=center>Expérience vécue</h3>
-En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
-Si j'avais la possibilité de modifier quelque chose, je limiterais le nombre de personnes pouvant entrer dans la salle simultanément. À mon avis, la foule était un peu trop importante, ce qui ne permettait pas à chacun de prendre le temps d'interagir pleinement avec l'installation.
-Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits écrans. Cela a permis de créer une composition visuelle remarquable et harmonieuse.
+
+En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
@@ -38,9 +37,6 @@ Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits 
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>
 Je n'avais aucune idée qu'il fallait créer à la fois une entrée et une sortie pour le branchement, jusqu'à ce que j'observe attentivement le schéma de branchement. Cela m'a vraiment surpris de constater la complexité de cette exigence, car je n'avais jamais envisagé qu'une œuvre nécessiterait une telle configuration.</h5>
-
-
-  
 
 
 <hr>
