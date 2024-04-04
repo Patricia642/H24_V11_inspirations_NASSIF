@@ -10,17 +10,12 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
-Rhizomatique_allure_essaie_20240220.png
-
-Rhizomatique_installation_20240220.png
-
-Rhizomatique_materiels_20240220.png
-Rhizomatique_main_20240220.jpg
-
- 
-| Allure projet | Délimitation | 
-| :---: | :---: | 
-| <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=100% height=100%></h4> | <img src='./medias/Rhizomatique_installation_20240220.png' width=100% height=100%></h4> |
+<h3 align=center>Essaie<br><br> 
+<img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=100% height=100%>
+  </h3>
+<h3 align=center>Allure<br><br>
+<img src='./medias/Rhizomatique_installation_20240220.png' width=100% height=100%>
+  </h3>
 <h3 align=center>Main<br><br>
   <img src='./medias/Rhizomatique_main_20240220.jpg' width=100% height=100%>
 </h3>
