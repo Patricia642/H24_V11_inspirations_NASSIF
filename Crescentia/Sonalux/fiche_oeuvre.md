@@ -23,7 +23,7 @@ Sonalux</h1>
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
-Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ressenti le besoin de poser ma main sur la toile, dont la texture douce m'a agréablement surprise. J'ai été particulièrement séduite par la nécessité de bouger délicatement ma main pour dévoiler des souvenirs sans lien apparent. Cette approche m'a permis de m'immerger dans une série de beaux moments, me laissant explorer une atmosphère immersive dépourvue d'une narration linéaire.
+Dès que j'ai découvert l'installation "Sonalux", j'ai été attirée par son esthétique captivante, marquée par un choix judicieux de couleurs et de mouvements. Ensuite, j'ai trouvé son utilisation très claire et intéressante à essayer. En effet, j'ai eu l'impression d'être la maître de mon propre univers musical.
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
