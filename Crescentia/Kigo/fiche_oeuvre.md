@@ -36,14 +36,7 @@ En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>
-Je n'avais aucune idée qu'il fallait créer à la fois une entrée et une sortie pour le branchement, jusqu'à ce que j'observe attentivement le schéma de branchement. Cela m'a vraiment surpris de constater la complexité de cette exigence, car je n'avais jamais envisagé qu'une œuvre nécessiterait une telle configuration.</h5>
-
-
-<hr>
-<h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, en visitant le grand studio, l'installation "Kigo" a immédiatement attiré mon attention. Au centre de la pièce se trouvait une structure ressemblant à un arbre électronique, avec plusieurs écrans et un bouton coloré. En appuyant sur ce bouton, tous les écrans se sont activés simultanément, accompagnés par des lumières au plafond. J'ai vite compris que mes interactions influençaient le son et les images diffusées, créant ainsi une expérience immersive et interactive.
-Si j'avais l'opportunité de modifier quelque chose, je choisirais de limiter le nombre de personnes pouvant entrer dans la salle en même temps. À mon avis, il y avait un peu trop de monde, ce qui ne laissait pas suffisamment de temps à chacun pour interagir pleinement avec l'installation.
-Ce qui m'a particulièrement marqué, c'est la manière dont les petits écrans étaient positionnés et coordonnés. Cela a permis de créer une composition visuelle remarquable et cohérente.
+Je ne savais pas du tout ce qu'était un Kinect jusqu'à ce que l'équipe du projet m'explique son fonctionnement. Ils m'ont expliqué que c'est un dispositif permettant de contrôler une interface sans utiliser de manette, en captant les mouvements du corps.</h5>
 <br>
 <br>
 <hr>
