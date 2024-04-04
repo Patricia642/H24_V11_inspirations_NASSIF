@@ -7,12 +7,7 @@ Kigo</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
 <h3 align=center>
 Kigo enrichit le projet Crescentia en introduisant une progression saisonnière et de difficulté. Chaque niveau du jeu correspond à une saison, avec des décors qui évoluent en conséquence. Cette approche dynamique donne vie à l'expérience de jeu, où chaque saison représente une montée en difficulté.</h3>
- <hr>
-<h3 align=center>Mise en espace</h3>
 
-Dès que vous franchissez la porte du studio, l'installation attire l'attention sur la gauche. Une zone rouge délimite l'espace réservé au jeu projeté sur le mur.
-<br>
-<br>
 
 | Salle de projection | L'installation de la salle | 
 | :---: | :---: | 
