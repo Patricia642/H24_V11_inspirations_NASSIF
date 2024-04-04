@@ -8,16 +8,16 @@ Kigo</h1>
 <h2 align=center>Lien avec le thème Crescentia</h2>
 <h3 align=center>
 Kigo enrichit le projet Crescentia en introduisant une progression saisonnière et de difficulté. Chaque niveau du jeu correspond à une saison, avec des décors qui évoluent en conséquence. Cette approche dynamique donne vie à l'expérience de jeu, où chaque saison représente une montée en difficulté.</h3>
-
+<hr>
 
  <h3 align=center> L'installation en cours</h3>
  
-| Allure projet | Arbre | 
+| Allure projet | Délimitation | 
 | :---: | :---: | 
-| <img src='./medias/Effet_Papillon_allure_essaie_20240220.png' width=30% height=5%></h4> | <img src='./medias/Effet_Papillon_arbre_02_20240220.jpg' width=30% height=5%></h4> |
-<h4 align=center>Lumières<br><br>
- <img src='./medias/Effet_Papillon_lumieres_20240220.jpg' width=30% height=5%></h4> 
-<hr>
+| <img src='./medias/Kigo_allure_20240220.jpg' width=30% height=5%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=30% height=5%></h4> |
+| Installation | Projection | 
+| <img src='./medias/Kigo_installation_20240220.png' width=30% height=5%></h4> | <img src='./medias/Kigo_interface_20240220 (2).png' width=30% height=5%></h4> |
+
 
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=50% height=30%>
