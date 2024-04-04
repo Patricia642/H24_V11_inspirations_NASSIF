@@ -14,19 +14,8 @@ Sonalux</h1>
 | :---: | :---: | 
 | <img src='./medias/Sonalux_boutons_20240220.png' width=100% height=100%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=100% height=100%></h4> |
 | Allure projection | Installation | 
-| <img src='./medias/Sonalux_projection_20240220.jpg' width=100% height=100%></h4> | <img src='./medias/Sonalux_installation_20240220.png' width=100% height=100%></h4> |
+| <img src='./medias/Sonalux_projection_20240220.jpg' width=40% height=40%></h4> | <img src='./medias/Sonalux_installation_20240220.png' width=100% height=100%></h4> |
 
- 
-<h3 align=center> L'installation en cours</h3>
-<h3 align=center>Essaie<br><br> 
-<img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
-  </h3>
-<h3 align=center>Allure<br><br>
-<img src='./medias/Rhizomatique_installation_20240220.png' width=100% height=100%>
-  </h3>
-<h3 align=center>Main<br><br>
-  <img src='./medias/Rhizomatique_main_20240220.jpg' width=100% height=100%>
-</h3>
 
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Sonalux_plantation_20240307.png' width=50% height=30%>
