@@ -23,7 +23,7 @@ Sonalux</h1>
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
-Dès que j'ai découvert l'installation "Sonalux", j'ai été attirée par son esthétique captivante, marquée par un choix judicieux de couleurs et de mouvements. Ensuite, j'ai trouvé son utilisation très claire et intéressante à essayer. En effet, j'ai eu l'impression d'être la maître de mon propre univers musical.
+Dès que j'ai découvert l'installation "Sonalux", j'ai été attirée par son esthétique captivante, caractérisée par un choix subtil de couleurs et de mouvements. Son utilisation claire et intéressante à essayer m'a également impressionnée. En effet, en me perdant dans les vagues de couleurs, j'ai eu l'impression de devenir la maître de mon propre univers musical.
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
