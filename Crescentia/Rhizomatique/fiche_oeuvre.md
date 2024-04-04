@@ -38,8 +38,6 @@ Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ress
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>
 En discutant avec l'équipe, j'ai réalisé qu'il était possible de diviser le Kinect en sections, comme ils l'ont fait pour leur projet, afin de diffuser les images sur plusieurs écrans.</h5>
-<br>
-<br>
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
