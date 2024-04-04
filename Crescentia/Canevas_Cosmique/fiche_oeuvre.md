@@ -33,31 +33,10 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, lors de ma visite au grand studio, l'œuvre "Canevas Cosmique" se dresse immédiatement devant moi dès mon arrivée. Une fois à l'intérieur, je remarque une table ornée de quelques statuettes étranges. En explorant leur manipulation, j'expérimente différentes actions qui déclenchent des explosions et des collisions surprenantes dans l'exposition. À la fin de mes essais, je découvre un code QR sous les figurines, semblant posséder une importance significative. Je trouve que cette œuvre se distingue par son concept unique, ajoutant ainsi une pertinence particulière à l'ensemble de l'exposition.
-<br>
-<br>
-<br>
-
-| Tableau du dragon | Ligne d'oiseaux | 
-| :---: | :---: | 
-| <img src='./medias/RIOPELLE_tableau_dragon_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_ligne_oiseaux_complete_20240301.jpg' width=100% height=120%></h4> |
-<h4 align=center>Moi devant le Studio des 7 Doigts<br><br>
-<img src='./medias/RIOPELLE_moi_20240301.jpg' width=40% height=40%></h4>
-
-<hr>
-  
-<h3 align=center>Aspects que je ferais autrement</h3>
-
-Si j'avais l'opportunité de modifier quelque chose, je choisirais de protéger le code QR situé sous les figurines avec une fine couche de plastique transparent. Cette précaution s'avérerait nécessaire car ce code semble revêtir une grande importance, et son exposition à la friction lors des manipulations des figurines pourrait entraîner sa dégradation.
-
-<h3 align=center>Ce qui m'a plu</h3>
-Ce qui m'a vraiment impressionné, c'est la façon dont cette œuvre a élargi mes horizons artistiques. Personnellement, je n'avais pas envisagé une idée aussi novatrice et stimulante. Cette expérience m'a ouvert les portes à de nouvelles perspectives créatives, m'incitant à explorer des horizons artistiques que je n'avais pas explorés auparavant.
+En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet de l'équipe. Les explosions sonores ajoutent à l'immersion dans cet univers où je me sens presque comme un dieu de la destruction. La découverte du code QR sous les figurines attire mon attention, laissant présager son importance. Cela me pousse à envisager une modification : protéger ce code QR avec une fine couche de plastique transparent. Cette précaution paraît essentielle pour préserver son intégrité face aux manipulations des figurines. Cette expérience m'a également ouvert de nouvelles perspectives créatives auxquelles je n'avais jamais songé auparavant.
 <br>
 <br>
 
-| Sculpture | Tableau collectif | 
-| :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_tableau_collectif_20240301.jpg' width=80% height=100%></h4> |
 
 <hr>
 <strong>
