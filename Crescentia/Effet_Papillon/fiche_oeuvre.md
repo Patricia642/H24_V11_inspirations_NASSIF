@@ -20,8 +20,8 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 | Code QR | Projection | 
 | :---: | :---: | 
 | <img src='./medias/Effet_Papillon_allure_essaie_20240220.png' width=50% height=10%></h4> | <img src='./medias/Effet_Papillon_arbre_02_20240220.jpg' width=50% height=10%></h4> |
-| Statuettes | Table | 
-| <img src='./medias/Effet_Papillon_lumieres_20240220.jpg' width=50% height=50%></h4> | <img src='./medias/Canevas_Cosmique_table_20240307.jpg' width=50% height=50%></h4> |
+<h1 align=center>Statuettes</h1>
+| <img src='./medias/Effet_Papillon_lumieres_20240220.jpg' width=50% height=50%></h4> | <img 
 <hr>
 
 <h3 align=center>Schéma de l'installation</h3>
