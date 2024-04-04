@@ -43,19 +43,9 @@ En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet d
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 7 mars 2024</strong>, en visitant le petit studio, l'installation "Effet Papillon" a immédiatement attiré mon attention. Au centre de la pièce se trouvait une structure ressemblant à un arbre électronique, avec plusieurs écrans et un bouton coloré. En appuyant sur ce bouton, tous les écrans se sont activés simultanément, accompagnés par des lumières au plafond. J'ai vite compris que mes interactions influençaient le son et les images diffusées, créant ainsi une expérience immersive et interactive.
-<br>
-<br>
-<br>
-
-<hr>
-  
-<h3 align=center>Aspects que je ferais autrement</h3>
-
-Si j'avais l'opportunité de modifier quelque chose, je choisirais de limiter le nombre de personnes pouvant entrer dans la salle en même temps. À mon avis, il y avait un peu trop de monde, ce qui ne laissait pas suffisamment de temps à chacun pour interagir pleinement avec l'installation.
-
-<h3 align=center>Ce qui m'a plu</h3>
-Ce qui m'a particulièrement marqué, c'est la manière dont les petits écrans étaient positionnés et coordonnés. Cela a permis de créer une composition visuelle remarquable et cohérente.
+En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
+Si j'avais la possibilité de modifier quelque chose, je limiterais le nombre de personnes pouvant entrer dans la salle simultanément. À mon avis, la foule était un peu trop importante, ce qui ne permettait pas à chacun de prendre le temps d'interagir pleinement avec l'installation.
+Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits écrans. Cela a permis de créer une composition visuelle remarquable et harmonieuse.
 <br>
 <br>
 
