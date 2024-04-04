@@ -34,7 +34,7 @@ Dès que j'ai découvert l'installation "Sonalux", j'ai été attirée par son e
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>
-En discutant avec l'équipe, j'ai réalisé qu'il était possible de diviser le Kinect en sections, comme ils l'ont fait pour leur projet, afin de diffuser les images sur plusieurs écrans.</h5>
+Lorsque l'équipe m'a expliqué le concept, je n'avais aucune idée de ce qu'était un potentiomètre. Après avoir effectué des recherches, j'ai maintenant compris qu'il s'agit d'un dispositif composé de résistances électriques étalonnées, initialement utilisé pour comparer une tension. Ce dispositif s'est révélé très utile dans divers domaines.</h5>
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
