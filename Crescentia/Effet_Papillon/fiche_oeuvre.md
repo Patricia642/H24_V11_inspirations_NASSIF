@@ -4,7 +4,7 @@ Effet Papillon</h1>
 </h2>
 
 <h4 align=center>
-<img src='./medias/Effet_Papillon_affiche_20240307.JPG' width=50% height=5%> 
+<img src='./medias/Effet_Papillon_affiche_20240307.JPG' width=100% height=100%> 
 </h4>
 <hr>
 
