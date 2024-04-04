@@ -29,7 +29,9 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 </h3>
 <hr>
 <h3 align=center>Expérience vécue</h3>
-En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet de l'équipe. Les explosions sonores ajoutent à l'immersion dans cet univers où je me sens presque comme un dieu de la destruction. La découverte du code QR sous les figurines attire mon attention, laissant présager son importance. Cela me pousse à envisager une modification : protéger ce code QR avec une fine couche de plastique transparent. Cette précaution paraît essentielle pour préserver son intégrité face aux manipulations des figurines. Cette expérience m'a également ouvert de nouvelles perspectives créatives auxquelles je n'avais pas songé auparavant.
+En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
+Si j'avais la possibilité de modifier quelque chose, je limiterais le nombre de personnes pouvant entrer dans la salle simultanément. À mon avis, la foule était un peu trop importante, ce qui ne permettait pas à chacun de prendre le temps d'interagir pleinement avec l'installation.
+Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits écrans. Cela a permis de créer une composition visuelle remarquable et harmonieuse.
 <hr>
 
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
@@ -41,13 +43,6 @@ En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet d
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
 <h5 align=center>Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.</h5>
 
-<hr>
-<h3 align=center>Expérience vécue</h3>
-En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
-Si j'avais la possibilité de modifier quelque chose, je limiterais le nombre de personnes pouvant entrer dans la salle simultanément. À mon avis, la foule était un peu trop importante, ce qui ne permettait pas à chacun de prendre le temps d'interagir pleinement avec l'installation.
-Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits écrans. Cela a permis de créer une composition visuelle remarquable et harmonieuse.
-<br>
-<br>
 
 <hr>
 <strong>
