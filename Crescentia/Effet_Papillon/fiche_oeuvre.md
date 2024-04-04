@@ -41,7 +41,8 @@ Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits 
 - Animation 3D
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
-<h5 align=center>Je n'avais aucune idée qu'il était possible d'utiliser des codes QR pour interagir de cette manière.</h5>
+<h5 align=center>
+Je n'avais aucune idée qu'il fallait créer à la fois une entrée et une sortie, jusqu'à ce que j'observe attentivement le schéma de branchement. Cela m'a vraiment surpris de constater la complexité de cette exigence, car je n'avais jamais envisagé qu'une œuvre nécessiterait une telle configuration.</h5>
 
 
 <hr>
