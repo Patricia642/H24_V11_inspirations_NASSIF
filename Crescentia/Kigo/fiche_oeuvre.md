@@ -23,6 +23,8 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <img src='./medias/Kigo_plantation_20240307.JPG' width=50% height=30%>
 </h3>
 <hr>
+<h3 align=center>Équipements</h3>
+<hr>
 <h3 align=center>Expérience vécue</h3>
 
 En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
