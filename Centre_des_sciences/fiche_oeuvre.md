@@ -66,7 +66,7 @@ J'ai été impressionné par la manière dont les écrans ont été installés a
 </h4>
 <hr>
 <strong>
-Toutes les informations mentionnées proviennent soit du dépliant distribué à l'entrée de l'exposition, soit de mon opinion personnelle.</strong>
+Toutes les informations mentionnées proviennent soit de mon opinion personnelle, soit du site suivent.</strong>
 <br>
 Pour plus d'informations, cliquez ici: <br>
 (https://www.centredessciencesdemontreal.com/)
