@@ -67,6 +67,13 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
 <hr>
 
+<h3 align=center>Aspects que je ferais autrement</h3>
+Si je devais revoir l'aménagement, je modifierais l'emplacement des salles de bains, car leur proximité avec l'exposition compromettait l'intimité. Il serait judicieux de les éloigner pour éviter que les bruits provenant du couloir ne perturbent les visiteurs. De plus, je privilégierais un éclairage plus tamisé du côté de l'illustration agrandie sur les murs, en remplaçant l'éclairage néon blanc actuel. Cela contribuerait à renforcer l'atmosphère immersive de l'exposition.
+
+<h3 align=center>Ce qui m'a plu</h3>
+J'ai été impressionné par la manière dont les écrans ont été installés avec précision, sans aucun fil en vue, ce qui a donné une finition soignée à l'exposition et a élevé sa qualité. De plus, l'utilisation étendue du tapis sur le sol et les plateformes dans toute la salle a procuré un confort supplémentaire et a enrichi l'expérience sensorielle. Enfin, partager cette sortie en groupe a été très divertissant et a ajouté une dimension sociale agréable à ma visite.
+<br>
+<br>
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
 
 - Objets interactifs
