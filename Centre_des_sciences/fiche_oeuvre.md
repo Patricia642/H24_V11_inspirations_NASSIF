@@ -1,6 +1,5 @@
 <h1 align=center>
 Le Centre des sciences<br>
-Jeremy Shaw
 </h1>
 
 <p>
