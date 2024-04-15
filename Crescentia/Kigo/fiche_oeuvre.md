@@ -25,7 +25,45 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 </h3>
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
-- Table
+- 1 Console de sons
+1 Carte de sons
+2 Haut-parleurs Genelec 8010APM
+4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+Vidéo
+1 Projecteur
+1 Kinect V2
+1 sytème d'acrochage pour le projecteur
+Électricité
+2 Cordon IEC (pour alimenter les haut-parleurs)
+2 Multiprise
+2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+1 Câble d’alimentation pour ordinateur
+1 Câble d’alimentation pour console de son
+Réseau
+2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+1 HDMI Extender
+2 Câbles HDMI
+Câble displayPort
+Ordinateur
+1 Chariot Ordinateur
+Autres
+Tapis de protection
+3 Safety en métal
+1 Powercon
+1 Magic Arm
+Logiciels requis
+Kinect studio
+Unity
+Touch designer (Si Unity ne marche pas)
+Blender ou Maya
+OBS Studio
+Reaper
+Grand Studio
+Captation vidéo
+Projection vidéo sur un mur
+Installation et usage de hauts-paleurs
+Une table
+Un trépied pouvant supporter la kinect
 - 
 <hr>
 <h3 align=center>Expérience vécue</h3>
