@@ -20,6 +20,10 @@ Sonalux</h1>
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Sonalux_plantation_20240307.png' width=50% height=30%>
 </h3>
+ Pour pouvoir réaliser cette installation il va falloir :<br>
+
+- Table
+- 
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
