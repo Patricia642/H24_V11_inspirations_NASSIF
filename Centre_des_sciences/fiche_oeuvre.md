@@ -1,5 +1,5 @@
 <h1 align=center>
-Le Centre des sciences<br>
+Le Centre des sciences de Montréal<br>
 </h1>
 
 <p>
