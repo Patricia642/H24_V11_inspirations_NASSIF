@@ -72,8 +72,7 @@ Si je devais revoir l'aménagement, je modifierais l'emplacement des salles de b
 
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai été impressionné par la manière dont les écrans ont été installés avec précision, sans aucun fil en vue, ce qui a donné une finition soignée à l'exposition et a élevé sa qualité. De plus, l'utilisation étendue du tapis sur le sol et les plateformes dans toute la salle a procuré un confort supplémentaire et a enrichi l'expérience sensorielle. Enfin, partager cette sortie en groupe a été très divertissant et a ajouté une dimension sociale agréable à ma visite.
-<br>
-<br>
+<hr>
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
 
 - Objets interactifs
