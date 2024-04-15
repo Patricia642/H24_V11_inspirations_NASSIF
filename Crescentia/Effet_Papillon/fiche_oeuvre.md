@@ -46,4 +46,5 @@ Les informations présentées proviennent des créateurs de l'œuvre ainsi que d
 <br>
 <br>
 
-Pour consulter plus de détails, veuillez cliquer sur ce lien : (https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html) 
+Pour consulter plus de détails, veuillez cliquer sur ce lien : 
+(https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html) 
