@@ -30,8 +30,28 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 </h3>
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
-- Table
-- 
+- Gros bouton arduino
+- Atom Poe
+- Hauts-parleurs
+- Projecteurs
+- Écran Rasberry Pi
+- Valve à eau
+- Écran Rasberry Pi
+- Écran Rasberry Pi
+- Ensemble de rails de guidage linéaire
+- Écran Rasberry Pi
+- Interrupteur
+- Plaque interrupteur
+- Ampoule LED
+- Atom POE
+- Écran Rasberry Pi
+- Poulie
+- Pomme en plastique
+- Poids
+- TOF
+- Atom POE
+- Écran Rasberry Pi
+- Fairylight adressable
 <hr>
 <h3 align=center>Expérience vécue</h3>
 En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
