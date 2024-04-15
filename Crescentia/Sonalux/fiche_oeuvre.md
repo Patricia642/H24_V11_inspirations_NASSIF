@@ -24,48 +24,33 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 </h3>
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
-- Audio
-
-2 haut-parleurs actifs de 4"
-4 fils XLR 3 conducteurs de 15' (M->F)
-Interface audio USB disposant 8 sorties et au moins 1 entrée
-4 casques d'écouteurs
-Carte de son
-Vidéo
-
-3 projecteurs vidéo lentille grand angle 0.5
-Lumière
-
-12 tubes DEL
-Spotlight
-Électricité
-
-4 cordons IEC (pour l'alimentation des haut-parleurs)
-2 extentions 3 fiches et 3 conducteurs
-2 multiprises
-Réseau
-
-4 fils cat6a de 15"
-Switch POE 5 ports
-Ordinateur
-
-1 ordinateur portable
-1 ordinateur sur chariot
-M5Stack
-
-3 Atom Lite
-3 Atom POE
-5 Angle Unit
-4 Key Unit
-2 ToF Unit
-2 PBHub
-1 GroveHub
-1 PaHub
-Autre
-
-Podium
-4 crochets
-- 
+- 2 haut-parleurs actifs de 4"
+- 4 fils XLR 3 conducteurs de 15' (M->F)
+- Interface audio USB disposant 8 sorties et au moins 1 entrée
+- 4 casques d'écouteurs
+- Carte de son
+- 3 projecteurs vidéo lentille grand angle 0.5
+- 12 tubes DEL
+- Spotlight
+- 4 cordons IEC (pour l'alimentation des haut-parleurs)
+- 2 extentions 3 fiches et 3 conducteurs
+- 2 multiprises
+- 4 fils cat6a de 15"
+- Switch POE 5 ports
+- 1 ordinateur portable
+- 1 ordinateur sur chariot
+- M5Stack
+- 3 Atom Lite
+- 3 Atom POE
+- 5 Angle Unit
+- 4 Key Unit
+- 2 ToF Unit
+- 2 PBHub
+- 1 GroveHub
+- 1 PaHub
+- Podium
+- 4 crochets
+  
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
