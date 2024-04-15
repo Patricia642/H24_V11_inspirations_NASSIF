@@ -26,49 +26,29 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 </h3>
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
-- Toile de spandex
+- Toile de spandex (30" x 40")
+- Cyclorama
+- Construction en bois pour tenir la toile
+- 4 haut-parleurs actifs de 4"
+- 5 fils XLR 3 conducteurs de 15'
+- powercon
+- 4 systèmes d'acrochage
+- 2 kinects
+- 3 cables HTMI
+- 1 lumières LED RGBAW DMX
+- 2 fils XLR 3 conducteurs de 20'
+- powercon
+- 2 cordons IEC (pour l'alimentation des haut-parleurs)
+- 2 extention
+- 4 cables ethernet
+- 3 received et transmited
+- 1 ordinateurs portables
+- TouchDesigner
+- QlC+
+- MadMapper
+- VCV Rack 2
+- DaVinci Resolve
 
-30" x 40"
-Cyclorama
-
-Construction en bois pour tenir la toile
-
-Équipements requis
-Audio
-
-4 haut-parleurs actifs de 4"
-5 fils XLR 3 conducteurs de 15'
-powercon
-Vidéo
-
-4 systèmes d'acrochage
-2 kinects
-3 cables HTMI
-Lumière
-
-1 lumières LED RGBAW DMX
-2 fils XLR 3 conducteurs de 20'
-powercon
-Électricité
-
-2 cordons IEC (pour l'alimentation des haut-parleurs)
-2 extention
-Réseau
-
-4 cables ethernet
-3 received et transmited
-Ordinateurs
-
-1 ordinateurs portables
-Autres
-
-Logiciels requis
-TouchDesigner
-QlC+
-MadMapper
-VCV Rack 2
-DaVinci Resolve
-- 
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
