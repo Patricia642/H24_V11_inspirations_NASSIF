@@ -3,9 +3,7 @@ Le Centre des sciences<br>
 </h1>
 
 <p>
-Lieu de mise en exposition: <strong> Fonderie Darling </strong><br>
-Adresse : <strong>745 Rue Ottawa, Montréal, QC H3C 1R8</strong><br>
-Présenté: <strong>12.12.2023 - 25.02.2024</strong>
+Adresse : <strong>2 R. de la Commune O, Montréal, QC H2Y 4B2</strong><br>
 </p>
 
 <h3 align=center>Mise en espace</h3>
