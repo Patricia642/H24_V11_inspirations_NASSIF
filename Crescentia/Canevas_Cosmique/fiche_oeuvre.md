@@ -25,47 +25,31 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 
 <h3 align=center>Schéma de l'installation</h3>
 Pour pouvoir réaliser cette installation il va falloir :<br>
-<br>
-(Scénographie)
-<br>
+
 - Table
 - Matériaux: Bois, acier, Acrylique, Spandex
 (38 x 26", 31" de hauteur)
 - Statuettes imprimées en 3D
 - Notepad contenant les infos pour l'opération de la table
-<br>(Lumière)<br>
-
 - 1 Lumière DMX
-<br>(Audio)<br>
-
 - 2 haut-parleurs
 - 5 fils XLR
 - 3 conducteurs de 15' (M->F)
 - 1 carte de son
-<br>(Vidéo)<br>
-
 - 1 projecteur vidéo shortrow
 - 1 projo ultra short-throw
 - 3 système d'acrochage
 - 1 KinectV2
-<br>(Électricité)<br>
-
 - 2 cordon IEC (pour l'alimentation des haut-parleurs)
 - 4 Multiprises
-<br>(Réseau)<br>
-
 - Switch poe 1 port
 - Switch Ethernet 3 ports
 - 7 Cables Ethernet
 - 4 Cables HDMI
 - 2 Receivers HDMI
 - 2 Sender HDMI
-<br>(Ordinateur)<br>
-
 - 1 ordinateur
 - 1 laptop
-<br>(Logiciels requis)<br>
-
 - Touch Designer
 - Unity 2022.3.8f1
 - Autodesk Maya
