@@ -10,6 +10,8 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
 <h3 align=center>Essaie<br><br> 
 <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
   </h3>
@@ -23,6 +25,10 @@ Rhizomatique</h1>
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Rhizomatique_plantation_20240307.png' width=50% height=30%>
 </h3>
+ Pour pouvoir réaliser cette installation il va falloir :<br>
+
+- Table
+- 
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
