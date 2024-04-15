@@ -22,7 +22,7 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Sonalux_plantation_20240307.png' width=50% height=30%>
 </h3>
- Pour pouvoir réaliser cette installation il va falloir :<br>
+ Pour pouvoir réaliser cette installation il va falloir :<br><br>
 
 - 2 haut-parleurs actifs de 4"
 - 4 fils XLR 3 conducteurs de 15' (M->F)
