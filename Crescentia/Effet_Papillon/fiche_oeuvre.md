@@ -16,7 +16,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
  <hr>
 
  <h3 align=center> L'installation en cours</h3>
- 
+ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 | Allure projet | Arbre | 
 | :---: | :---: | 
 | <img src='./medias/Effet_Papillon_allure_essaie_20240220.png' width=30% height=5%></h4> | <img src='./medias/Effet_Papillon_arbre_02_20240220.jpg' width=30% height=5%></h4> |
@@ -27,6 +27,10 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=50% height=30%>
 </h3>
+ Pour pouvoir réaliser cette installation il va falloir :<br>
+
+- Table
+- 
 <hr>
 <h3 align=center>Expérience vécue</h3>
 En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
