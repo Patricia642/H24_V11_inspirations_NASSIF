@@ -9,7 +9,7 @@ Sonalux</h1>
   Solanux crée un lien avec le projet Crescentia en proposant une expérience où l'environnement visuel et sonore se transforme de manière organique, réagissant aux mouvements et gestes des utilisateurs. Cette interaction directe permet aux participants de modeler activement leur expérience, fusionnant ainsi leur présence physique avec l'univers numérique de Crescentia.
 </h3>
  <hr>
-
+<h3 align=center> L'installation en cours</h3>
 | Boutons | Essaie | 
 | :---: | :---: | 
 | <img src='./medias/Sonalux_boutons_20240220.png' width=100% height=100%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=30% height=30%></h4> |
