@@ -24,7 +24,7 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Rhizomatique_plantation_20240307.png' width=50% height=30%>
 </h3>
- Pour pouvoir réaliser cette installation il va falloir :<br>
+ Pour pouvoir réaliser cette installation il va falloir :<br><br>
 
 - Toile de spandex (30" x 40")
 - Cyclorama
