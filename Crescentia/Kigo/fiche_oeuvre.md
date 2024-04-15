@@ -11,6 +11,7 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <hr>
 
  <h3 align=center> L'installation en cours</h3>
+ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
  
 | Allure projet | Délimitation | 
 | :---: | :---: | 
@@ -22,8 +23,10 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Kigo_plantation_20240307.JPG' width=50% height=30%>
 </h3>
-<hr>
-<h3 align=center>Équipements</h3>
+ Pour pouvoir réaliser cette installation il va falloir :<br>
+
+- Table
+- 
 <hr>
 <h3 align=center>Expérience vécue</h3>
 
