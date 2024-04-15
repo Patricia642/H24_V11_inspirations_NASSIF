@@ -10,6 +10,7 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 <h3 align=center>Essaie<br><br> 
 <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
   </h3>
