@@ -15,7 +15,7 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
  <hr>
  <h3 align=center> L'installation en cours</h3>
  <h4 align=center>Il est déjà possible de comprendre asser bien le résultat voulu puisque les figurines sur la tables bougent déjà les planetes sur la projections, malgré qu'il manque une petite touche de finition le projet semble très bien entamé.
- 
+ <br>
 | Code QR | Projection | 
 | :---: | :---: | 
 | <img src='./medias/Canevas_Cosmique_code_QR_20240307.jpg' width=50% height=10%></h4> | <img src='./medias/Canevas_Cosmique_projection_20240307.jpg' width=50% height=10%></h4> |
@@ -25,8 +25,9 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 
 <h3 align=center>Schéma de l'installation</h3>
 Pour pouvoir réaliser cette installation il va falloir :<br>
+<br>
 (Scénographie)
-
+<br>
 - Table
 - Matériaux: Bois, acier, Acrylique, Spandex
 (38 x 26", 31" de hauteur)
