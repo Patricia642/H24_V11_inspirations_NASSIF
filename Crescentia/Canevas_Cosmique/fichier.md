@@ -27,7 +27,7 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 
 | Page 1 | Page 2 | 
 | :---: | :---: | 
-| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=100% height=100%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=100% height=100%></h4> |
+| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=50% height=50%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=50% height=50%></h4> |
 
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
