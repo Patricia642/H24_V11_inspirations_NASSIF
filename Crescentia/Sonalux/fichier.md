@@ -53,7 +53,7 @@ L'installation a atteint un niveau où elle peut déjà offrir l'expérience rec
 - 4 crochets
   
 <hr>
-<h3 align=center>Prédiction ressenti</h3>
+<h3 align=center>Ressenti</h3>
 Dès que mes yeux se sont posé sur l'installation "Sonalux",  sa conception visuelle m'a instantanément séduite, et j'ai été impressionnée par son aspect à la fois clair et inspirant. Je m'attends à ressentir une sensation de douceur et de calme lors de cette expérience, notamment grâce aux magnifiques nuances de bleu et de vert qui évoquent une atmosphère apaisante et sereine.
 <hr>
 <strong>
