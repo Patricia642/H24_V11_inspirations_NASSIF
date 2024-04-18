@@ -10,7 +10,7 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+L'installation est déjà tres intéressante et tout semble etre fini sauf le coter finition ce qui a permis à l'équipe de faire des modification bonus tel la mains verte qui ainsite les gens à intéragire avec la toile.
 <h3 align=center>Essaie<br><br> 
 <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
   </h3>
