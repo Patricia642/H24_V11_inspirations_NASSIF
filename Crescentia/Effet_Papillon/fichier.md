@@ -16,7 +16,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
  <hr>
 
  <h3 align=center> L'installation en cours</h3>
-L'installation est déjà impressionnente par l'espace qu'elle occupe. Tout les éléments semble déjà etres présent malgré qu'il y a beaucoup d'aspect qui ne sont pas encore brancher tel la valve et donc il n'est pas encore possible d'avoir une expérience complete de cette oeuvre et il reste l'aspect esthethic à faire.
+L'installation impressionne déjà par son envergure, occupant un espace considérable. Tous les éléments semblent être présents, mais plusieurs d'entre eux ne sont pas encore fonctionnels, notamment la valve, ce qui limite encore l'expérience globale de l'œuvre. Malgré cette situation, il est évident qu'un travail reste à faire sur l'aspect esthétique pour donner à l'installation sa forme finale et captivante.
  
 | Allure projet | Arbre | 
 | :---: | :---: | 
@@ -53,11 +53,8 @@ L'installation est déjà impressionnente par l'espace qu'elle occupe. Tout les 
 - Écran Rasberry Pi
 - Fairylight adressable
 <hr>
-<h3 align=center>Expérience vécue</h3>
-En découvrant "Effet Papillon", j'ai rapidement réalisé que mes interactions influençaient à la fois le son et les images diffusées, offrant ainsi une expérience immersive et interactive. De plus, j'ai été impressionné par l'ampleur de l'espace et le travail investi dans ce projet.
-Si j'avais la possibilité de modifier quelque chose, je limiterais le nombre de personnes pouvant entrer dans la salle simultanément. À mon avis, la foule était un peu trop importante, ce qui ne permettait pas à chacun de prendre le temps d'interagir pleinement avec l'installation.
-Ce qui m'a vraiment marqué, c'est la disposition et la coordination des petits écrans. Cela a permis de créer une composition visuelle remarquable et harmonieuse.
-
+<h3 align=center>Ressenti</h3>
+En explorant "Effet Papillon", j'anticipe déjà une multitude d'interactions fascinantes grâce aux boutons, à la valve, à la corde, et plus encore. Je suis impatiente de découvrir les résultats de ces différentes interactions, car elles semblent toutes produire des effets uniques et surprenants. Je suis convaincue que je serai impressionnée par le travail investi dans ce projet, car je peine à comprendre comment toutes ces composantes ont pu être mises en place.
 
 <hr>
 <strong>
