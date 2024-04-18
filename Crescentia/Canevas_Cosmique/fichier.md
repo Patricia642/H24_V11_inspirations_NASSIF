@@ -14,7 +14,7 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 </h4>
  <hr>
  <h3 align=center> L'installation en cours</h3>
- <h4 align=center>Il est déjà possible de comprendre asser bien le résultat voulu puisque les figurines sur la tables bougent déjà les planetes sur la projections, malgré qu'il manque une petite touche de finition le projet semble très bien entamé.<br><br>
+ <h4 align=center>Il est déjà possible de comprendre asser bien le résultat voulu puisque les figurines sur la tables bougent déjà les planetes sur la projections et que le résultat des collisions est déjà visible, malgré qu'il manque une petite touche de finition le projet semble très bien entamé.<br><br>
   
 | Code QR | Projection | 
 | :---: | :---: | 
