@@ -10,7 +10,7 @@ Sonalux</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
-L'installation est déjà asser aboutie pour permettre de vivre l'expérience voulu par l'équipe et semble qui ne manque plus que le coter finition donc cacher les fils, placer les tubes del et ajouter des supports pour les casques d'écoutes.
+L'installation a atteint un niveau où elle peut déjà offrir l'expérience recherchée par l'équipe. À ce stade, il semble que ce qui reste à faire concerne principalement les touches finales, comme dissimuler les câbles, installer les tubes LED et ajouter des supports pour les casques d'écoute. Une fois ces éléments finalisés, l'installation sera prête à offrir une expérience sans compromis, alliant fonctionnalité et esthétique de manière harmonieuse.
 <br><br>
 
 | Boutons | Essaie | 
@@ -53,10 +53,8 @@ L'installation est déjà asser aboutie pour permettre de vivre l'expérience vo
 - 4 crochets
   
 <hr>
-<h3 align=center>Expérience vécue</h3>
-
-Dès que j'ai découvert l'installation "Sonalux", j'ai été attirée par son esthétique captivante, caractérisée par un choix subtil de couleurs et de mouvements. Son utilisation claire et intéressante à essayer m'a également impressionnée. En effet, en me perdant dans les vagues de couleurs, j'ai eu l'impression de devenir la maître de mon propre univers musical.
-
+<h3 align=center>Prédiction ressenti</h3>
+Dès que mes yeux se sont posé sur l'installation "Sonalux",  sa conception visuelle m'a instantanément séduite, et j'ai été impressionnée par son aspect à la fois clair et inspirant. Je m'attends à ressentir une sensation de douceur et de calme lors de cette expérience, notamment grâce aux magnifiques nuances de bleu et de vert qui évoquent une atmosphère apaisante et sereine.
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
