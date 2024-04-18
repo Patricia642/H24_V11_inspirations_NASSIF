@@ -14,9 +14,9 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 | Boutons | Essaie | 
 | :---: | :---: | 
-| <img src='./medias/Sonalux_boutons_20240220.png' width=100% height=100%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=30% height=30%></h4> |
+| <img src='./medias/Sonalux_boutons_20240220.png' width=60% height=60%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=30% height=30%></h4> |
 | Allure projection | Installation | 
-| <img src='./medias/Sonalux_projection_20240220.jpg' width=100% height=100%></h4> | <img src='./medias/Sonalux_installation_20240220.png' width=100% height=100%></h4> |
+| <img src='./medias/Sonalux_projection_20240220.jpg' width=60% height=60%></h4> | <img src='./medias/Sonalux_installation_20240220.png' width=60% height=60%></h4> |
 <hr>
 
 <h3 align=center>Schéma de l'installation<br><br>
