@@ -17,7 +17,7 @@ Effet Papillon s'associe au projet Crescentia en plongeant les joueurs dans le c
 
  <h3 align=center> L'installation en cours</h3>
 L'installation impressionne déjà par son envergure, occupant un espace considérable. Tous les éléments semblent être présents, mais plusieurs d'entre eux ne sont pas encore fonctionnels, notamment la valve, ce qui limite encore l'expérience globale de l'œuvre. Malgré cette situation, il est évident qu'un travail reste à faire sur l'aspect esthétique pour donner à l'installation sa forme finale et captivante.
-<br>
+<br><br>
  
 | Allure projet | Arbre | 
 | :---: | :---: | 
