@@ -20,7 +20,7 @@ L'installation est déjà captivante et semble presque achevée, à l'exception 
 <h3 align=center>Main<br><br>
   <img src='./medias/Rhizomatique_main_20240220.jpg' width=100% height=100%>
 </h3>
-
+<hr>
 <h3 align=center>Schéma de l'installation<br><br>
 <img src='./medias/Rhizomatique_plantation_20240307.png' width=50% height=30%>
 </h3>
