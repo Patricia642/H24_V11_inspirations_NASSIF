@@ -4,7 +4,7 @@ Canevas Cosmique</h1>
 <h2 align=center>Une œuvre artistique développée par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau en collaboration avec le Collège Montmorency
 </h2>
 <h4 align=center>
-<img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=90% height=5%> 
+<img src='./medias/Canevas_Cosmique_affiche_20240307.JPG' width=30% height=5%> 
 </h4>
 <hr>
 <h3 align=center>Lien avec le thème Crescentia</h3>
