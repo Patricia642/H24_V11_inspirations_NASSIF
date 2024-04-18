@@ -12,6 +12,7 @@ Sonalux</h1>
 <h3 align=center> L'installation en cours</h3>
 L'installation est déjà asser aboutie pour permettre de vivre l'expérience voulu par l'équipe et semble qui ne manque plus que le coter finition donc cacher les fils, placer les tubes del et ajouter des supports pour les casques d'écoutes.
 <br>
+
 | Boutons | Essaie | 
 | :---: | :---: | 
 | <img src='./medias/Sonalux_boutons_20240220.png' width=80% height=60%></h4> | <img src='./medias/Sonalux_essaie_20240220.jpg' width=30% height=30%></h4> |
