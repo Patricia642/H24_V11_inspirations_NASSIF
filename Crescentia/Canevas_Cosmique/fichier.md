@@ -18,7 +18,7 @@ Canevas Cosmique s'int√®gre parfaitement au projet Crescentia en proposant un d√
   
 | Code QR | Projection | 
 | :---: | :---: | 
-| <img src='./medias/Canevas_Cosmique_code_QR_20240307.jpg' width=50% height=10%></h4> | <img src='./medias/Canevas_Cosmique_projection_20240307.jpg' width=50% height=10%></h4> |
+| <img src='./medias/Canevas_Cosmique_code_QR_20240307.jpg' width=50% height=30%></h4> | <img src='./medias/Canevas_Cosmique_projection_20240307.jpg' width=50% height=30%></h4> |
 | Statuettes | Table | 
 | <img src='./medias/Canevas_Cosmique_statuettes_20240307.jpg' width=50% height=50%></h4> | <img src='./medias/Canevas_Cosmique_table_20240307.jpg' width=50% height=50%></h4> |
 <hr>
@@ -27,7 +27,7 @@ Canevas Cosmique s'int√®gre parfaitement au projet Crescentia en proposant un d√
 
 | Page 1 | Page 2 | 
 | :---: | :---: | 
-| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=80% height=80%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=50% height=50%></h4> |
+| <img src='./medias/Canevas_Cosmique_plantation_20240307.png' width=100% height=100%></h4> | <img src='./medias/Canevas_Cosmique_plantation_02_20240307.png' width=50% height=50%></h4> |
 
  Pour pouvoir r√©aliser cette installation il va falloir :<br>
 
