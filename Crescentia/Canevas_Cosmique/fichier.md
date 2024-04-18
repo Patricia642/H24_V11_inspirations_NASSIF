@@ -20,7 +20,7 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 | :---: | :---: | 
 | <img src='./medias/Canevas_Cosmique_code_QR_20240307.jpg' width=50% height=30%></h4> | <img src='./medias/Canevas_Cosmique_projection_20240307.jpg' width=50% height=30%></h4> |
 | Statuettes | Table | 
-| <img src='./medias/Canevas_Cosmique_statuettes_20240307.jpg' width=60% height=50%></h4> | <img src='./medias/Canevas_Cosmique_table_20240307.jpg' width=60% height=50%></h4> |
+| <img src='./medias/Canevas_Cosmique_statuettes_20240307.jpg' width=70% height=40%></h4> | <img src='./medias/Canevas_Cosmique_table_20240307.jpg' width=70% height=40%></h4> |
 <hr>
 
 <h3 align=center>Schéma de l'installation</h3>
