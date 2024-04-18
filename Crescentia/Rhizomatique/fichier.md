@@ -10,7 +10,7 @@ Rhizomatique</h1>
 </h3>
  <hr>
 <h3 align=center> L'installation en cours</h3>
-L'installation est déjà tres intéressante et tout semble etre fini sauf le coter finition ce qui a permis à l'équipe de faire des modification bonus tel la mains verte qui ainsite les gens à intéragire avec la toile.
+L'installation est déjà captivante et semble presque achevée, à l'exception des finitions qui restent à effectuer. Cela a ouvert la voie à des modifications supplémentaires, comme l'ajout de la "main verte", qui incite les spectateurs à interagir avec l'installation. Cette initiative a enrichi l'expérience en encourageant une participation active du public, créant ainsi une dimension interactive et engageante. Ces ajustements bonus ont non seulement amélioré l'esthétique globale, mais ont également ajouté une couche d'interactivité qui renforce l'impact de l'installation sur le public.
 <h3 align=center>Essaie<br><br> 
 <img src='./medias/Rhizomatique_allure_essaie_20240220.png' width=30% height=30%>
   </h3>
@@ -50,9 +50,9 @@ L'installation est déjà tres intéressante et tout semble etre fini sauf le co
 - DaVinci Resolve
 
 <hr>
-<h3 align=center>Expérience vécue</h3>
+<h3 align=center>Ressenti</h3>
 
-Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ressenti le besoin de poser ma main sur la toile, dont la texture douce m'a agréablement surprise. J'ai été particulièrement séduite par la nécessité de bouger délicatement ma main pour dévoiler des souvenirs sans lien apparent. Cette approche m'a permis de m'immerger dans une série de beaux moments, me laissant explorer une atmosphère immersive dépourvue d'une narration linéaire.
+Dès que j'ai découvert l'installation "Rhizomatique", j'ai immédiatement ressenti l'envie de placer ma main sur la toile. Cependant, je suis quelque peu sceptique quant à la capacité de l'installation à susciter une émotion réelle en moi, étant donné l'apparente absence de lien entre les différents souvenirs présentés. Cette fragmentation semble ne pas retenir mon attention, car elle ne crée pas un récit cohérent qui pourrait m'engager émotionnellement.
 
 <hr>
 <strong>
