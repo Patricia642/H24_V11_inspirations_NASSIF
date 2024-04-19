@@ -13,3 +13,4 @@ Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l
 - Effet-Papillon
 - Sonalux
 - Rhizomatique
+- Canevas Cosmique
