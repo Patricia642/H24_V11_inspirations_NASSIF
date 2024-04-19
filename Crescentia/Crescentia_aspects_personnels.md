@@ -1,3 +1,4 @@
+<hr>
 <h1 align=center>3 cours du programme incontournables pour ce projet</h1>
 
 <h4>Objets interactifs:</h4> 
@@ -22,3 +23,4 @@ Avant qu'on ne me l'explique, je n'avais aucune idée de ce qu'était un Kinect,
 <strong>En troisième position,</strong><br> je sélectionne "Sonalux" pour ses couleurs magnifiques et sa finition remarquable qui ont captivé mon attention.<br>
 <strong>En quatrième position,</strong><br> je place "Canevas Cosmique" en raison de la curiosité qu'il a éveillée en moi.<br>
 <strong>Enfin, en dernière position,</strong><br> je classe "Rhizomatique" car bien que le projet soit original, il ne m'a pas procuré une expérience particulièrement marquante ou émotionnelle.
+<hr>
