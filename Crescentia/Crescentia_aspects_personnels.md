@@ -17,8 +17,8 @@ Avant qu'on ne me l'explique, je n'avais aucune idée de ce qu'était un Kinect,
 
 <h1 align=center>Mon ordre de préférence</h1>
 
-- kigo
-- Effet-Papillon
-- Sonalux
-- Rhizomatique
-- En derniere place Canevas Cosmique parce que malgré l'originalité dans le projet celui-ci ne ma pas fait ressentir grand chose.
+- En tête de mon classement, je place "Kigo" pour son caractère convivial et divertissant, avec son aspect compétitif qui a su captiver mon attention et me divertir pleinement.
+- En deuxième position, je classe "Effet-Papillon" pour son envergure et sa complexité impressionnantes qui m'ont véritablement marqué.
+- En troisième position, je sélectionne "Sonalux" pour ses couleurs magnifiques et sa finition remarquable qui ont captivé mon attention.
+- En quatrieme place Canevas Cosmique a cause de la curiositer que l'oeuvre.
+- Enfin, en dernière position, je classe "Rhizomatique" car bien que le projet soit original, il ne m'a pas procuré une expérience particulièrement marquante ou émotionnelle.
