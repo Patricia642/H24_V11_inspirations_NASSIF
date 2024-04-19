@@ -1,6 +1,6 @@
 <h1 align=center>Crescentia<br></h1>
 
- <img src='./medias/ CRESCENTIA_affiche_20240307.JPG' width=100% height=100%> 
+ <img src='./medias/CRESCENTIA_affiche_20240307.JPG' width=100% height=100%> 
  
  <hr>
 <h1 align=center>Kigo</h1>
