@@ -84,15 +84,7 @@ La seule modification que j'apporterais serait l'esthétique de l'interface. Bie
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai été particulièrement attiré par ce projet, malgré son utilisation relativement modeste de matériel. Ce qui l'a rendu si captivant, c'est son potentiel à encourager l'interaction sociale. Chaque personne était encouragée à participer activement, car tout le monde cherchait à surpasser le meilleur score établi. Cette compétition amicale a créé une atmosphère dynamique où les participants se sont rassemblés pour collaborer, rivaliser et partager des moments de plaisir ensemble. C'était une expérience immersive qui a véritablement renforcé les liens entre les participants.
 <hr>
-<h3 align=center>3 cours du programme incontournables pour ce projet</h3>
 
-- Objets interactifs
-- Réalité mixte
-- Animation 3D
-<hr>
-<h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
-Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l'équipe du projet ne m'explique son fonctionnement. Ils m'ont fait comprendre que c'est un dispositif qui permet de contrôler une interface sans recourir à une manette, en captant les mouvements du corps.
-<hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
 </strong>
