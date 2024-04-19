@@ -27,7 +27,7 @@ L'installation impressionne déjà par son envergure, occupant un espace consid�
 <hr>
 
 <h3 align=center>Schéma de l'installation<br><br>
-<img src='./medias/Effet_Papillon_plantation_20240307.JPG' width=80% height=40%>
+<img src='./medias/Effet_Papillon_plantation_20240307.png' width=80% height=40%>
 </h3>
  Pour pouvoir réaliser cette installation il va falloir :<br>
 
