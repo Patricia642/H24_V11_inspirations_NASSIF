@@ -18,7 +18,7 @@ Avant qu'on ne me l'explique, je n'avais aucune idée de ce qu'était un Kinect,
 
 <h1 align=center>Mon ordre de préférence</h1>
 
-<strong>En tête de mon classement,</strong><br> je place "Kigo" pour son caractère convivial et divertissant, avec son aspect compétitif qui a su captiver mon attention et me divertir pleinement.<br>
+<strong>En tête de mon classement,</strong><br> je place "Kigo" pour son caractère convivial et divertissant, avec son aspect compétitif qui a su captiver mon attention et me divertir pleinement.<br><br>
 <strong>En deuxième position,</strong><br> je classe "Effet-Papillon" pour son envergure et sa complexité impressionnantes qui m'ont véritablement marqué.<br>
 <strong>En troisième position,</strong><br> je sélectionne "Sonalux" pour ses couleurs magnifiques et sa finition remarquable qui ont captivé mon attention.<br>
 <strong>En quatrième position,</strong><br> je place "Canevas Cosmique" en raison de la curiosité qu'il a éveillée en moi.<br>
