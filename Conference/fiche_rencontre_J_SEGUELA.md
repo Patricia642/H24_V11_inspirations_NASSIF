@@ -9,5 +9,13 @@ Durée : <strong>1h30</strong><br>
 Présenté: <strong>Mardi 16 avril 2024</strong>
 </p>
 
+<hr>
+<strong>
+Les informations présentées proviennent de la conférence ainsi que de mes propres observations personnelles.
+</strong>
+<br>
+<br>
 
-https://www.lozano-hemmer.com/
+Pour consulter plus de détails, veuillez cliquer sur ce lien : <br>
+(https://www.lozano-hemmer.com/) 
+
