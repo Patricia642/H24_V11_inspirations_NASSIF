@@ -1,8 +1,8 @@
-<img src='./medias/CRESCENTIA_affiche_20240307.JPG' width=100% height=100%> 
-
 <h1 align=center>Technique ou composante technologique que je ne connaissais pas</h1>
-Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l'équipe du projet ne m'explique son fonctionnement. Ils m'ont fait comprendre que c'est un dispositif qui permet de contrôler une interface sans recourir à une manette, en captant les mouvements du corps.
+
+Avant qu'on ne me l'explique, je n'avais aucune idée de ce qu'était un Kinect, un dispositif largement utilisé par de nombreuses équipes. En gros, c'est une sorte de technologie qui permet de contrôler une interface sans avoir besoin d'une manette classique. Comment ça fonctionne ? Eh bien, le Kinect est équipé de capteurs spéciaux qui captent les mouvements du corps humain. Donc, au lieu d'appuyer sur des boutons ou de manipuler une manette, vous bougez simplement votre corps devant le Kinect, et il traduit ces mouvements en commandes pour l'interface. 
 <hr>
+
 <h1 align=center>3 cours du programme incontournables pour ce projet</h1>
 
 - Objets interactifs
