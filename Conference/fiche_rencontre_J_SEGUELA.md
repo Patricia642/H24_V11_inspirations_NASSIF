@@ -1,5 +1,5 @@
 <h1 align=center>CONFÉRENCE</h1>
-<h2 align=center>Présentée par Jade Séguela, en tant que registraire, au sein du Studio Antimodular dirigé par Rafael Lozano-Hemmer.
+<h2 align=center>Présentée par Jade Séguela, en tant que registraire, au sein du Studio Antimodular dirigé par Rafael Lozano-Hemmer
 </h2>
 
 <p>
