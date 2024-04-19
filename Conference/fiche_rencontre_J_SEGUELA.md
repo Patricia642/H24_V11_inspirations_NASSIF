@@ -11,6 +11,7 @@ Présenté: <strong>Mardi 16 avril 2024</strong>
 </p>
 <hr>
 <h2 align=center>Studio Antimodular</h2>
+Antimodular Inc. est un studio de recherche dirigé par l'artiste Rafael Lozano-Hemmer, établi à Montréal depuis 2003. Avec une équipe de 15 employés à temps plein et des collaborateurs internationaux, le studio crée des projets novateurs dans le monde entier, présentés dans des biennales d'art majeures et des collections de musées renommés.
 <hr>
 <h2 align=center>Rafael Lozano-Hemmer</h2>
 <hr>
