@@ -1,6 +1,6 @@
 <h1 align=center>3 cours du programme incontournables pour ce projet</h1>
 
-<h4>Objets interactifs:</h4> <br>
+<h4>Objets interactifs:</h4> 
 Les élèves développent une polyvalence technique en travaillant avec des composants tels que les capteurs, les microcontrôleurs et les DEL. Ils sont capables de créer des expériences immersives uniques en combinant ces technologies avec des éléments multimédias. De plus, ils acquièrent une compréhension approfondie des systèmes embarqués et bénéficient d'une expérience pratique grâce à la réalisation de projets concrets.
 
 <h4>Interactivité ludique:</h4> <br>
