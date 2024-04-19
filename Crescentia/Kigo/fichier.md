@@ -80,7 +80,7 @@ J'ai été particulièrement attiré par ce projet, malgré son utilisation rela
 - Animation 3D
 <hr>
 <h3 align=center>Technique ou composante technologique que je ne connaissais pas</h3>
-Je ne savais pas du tout ce qu'était un Kinect jusqu'à ce que l'équipe du projet m'explique son fonctionnement. Ils m'ont expliqué que c'est un dispositif permettant de contrôler une interface sans utiliser de manette, en captant les mouvements du corps.
+Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l'équipe du projet ne m'explique son fonctionnement. Ils m'ont fait comprendre que c'est un dispositif qui permet de contrôler une interface sans recourir à une manette, en captant les mouvements du corps.
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
