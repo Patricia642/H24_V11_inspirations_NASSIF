@@ -63,7 +63,7 @@ Il est déjà possible de se faire une bonne idée du résultat final envisagé.
 
 <hr>
 <h3 align=center>Ressenti</h3>
-En découvrant "Canevas Cosmique", je m'attends à passer un moment amusant grâce à l'originalité avec laquelle il a été conçu, notamment l'utilisation de figurines et de codes QR. Cette approche m'intrigue beaucoup car je ne saisis pas encore comment ils ont pu exploiter ces éléments pour donner vie à des interactions.
+En explorant "Canevas Cosmique", je prévois une expérience divertissante, principalement en raison de l'originalité dont il fait preuve dans sa conception. L'utilisation de figurines et de codes QR pour activer des éléments de l'installation est une approche intrigante qui suscite mon intérêt. Je suis curieuse de comprendre comment ces différents éléments sont coordonnés pour interagir entre eux et influencer l'expérience globale. Cette combinaison unique d'éléments physiques et numériques promet une expérience stimulante.
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
