@@ -73,11 +73,11 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <h3 align=center>Expérience vécue</h3>
 <h4 align=center>Ma visite le 20 février 2024 et le 7 mars 2024</h4>
 <h4>Avant :</h4>En découvrant "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ. Je pense que ce projet va être mon préférer.<br>
-<h4>Après :</h4>Effectivement, "Kigo" est mon choix favori sans aucun doute. Ce jeu m'a procuré un plaisir indéniable grâce à sa fluidité et à sa jouabilité impeccable. De plus, il a favorisé de nombreuses interactions entre les participants, ce qui a enrichi l'expérience globale. En résumé, "Kigo" a su captiver mon intérêt et me divertir de manière exceptionnelle.<br>
-
+<h4>Après :</h4>Effectivement, "Kigo" est mon choix favori sans aucun doute. Ce jeu m'a procuré un plaisir indéniable grâce à sa fluidité et à sa jouabilité impeccable. De plus, il a favorisé de nombreuses interactions entre les participants, ce qui a enrichi l'expérience globale. En résumé, "Kigo" a su captiver mon intérêt et me divertir de manière exceptionnelle.<br><br>
+<h3 align=center>
 <img src='./medias/moi_studio_20240220.png' width=30% height=30%> 
 <hr>
-
+</h3>
 <h3 align=center>Aspects que je ferais autrement</h3>
 La seule modification que j'apporterais serait l'esthétique de l'interface. Bien qu'elle soit fonctionnelle et bien conçue, elle ne correspond pas tout à fait à mes préférences esthétiques. J'aimerais voir une interface qui reflète davantage mon style personnel ou qui soit plus en accord avec mes goûts visuels.
 
