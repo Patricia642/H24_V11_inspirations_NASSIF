@@ -21,4 +21,4 @@ Avant qu'on ne me l'explique, je n'avais aucune idée de ce qu'était un Kinect,
 - Effet-Papillon
 - Sonalux
 - Rhizomatique
-- Canevas Cosmique
+- En derniere place Canevas Cosmique parce que malgré l'originalité dans le projet celui-ci ne ma pas fait ressentir grand chose.
