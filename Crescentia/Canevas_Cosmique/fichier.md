@@ -14,7 +14,7 @@ Canevas Cosmique s'intègre parfaitement au projet Crescentia en proposant un d�
 </h4>
  <hr>
  <h3 align=center> L'installation en cours</h3>
-Il est déjà possible de comprendre asser bien le résultat voulu puisque les figurines sur la tables bougent déjà les planetes sur la projections et que le résultat des collisions est déjà visible, malgré qu'il manque une petite touche de finition le projet semble très bien entamé.<br><br>
+Il est déjà possible de se faire une bonne idée du résultat final envisagé. Les figurines disposées sur la table sont animées et influent directement sur le mouvement des planètes projetées. De plus, les conséquences des collisions entre ces éléments sont déjà visibles, ce qui permet d'appréhender une partie de l'expérience prévue. Malgré quelques ajustements mineurs restant à effectuer pour parfaire l'esthétique ou la fluidité des mouvements, l'ensemble du projet semble être sur la bonne voie et bien avancé dans sa réalisation.<br><br>
   
 | Code QR | Projection | 
 | :---: | :---: | 
@@ -62,9 +62,8 @@ Il est déjà possible de comprendre asser bien le résultat voulu puisque les f
 - Reaper
 
 <hr>
-<h3 align=center>Expérience vécue</h3>
-En essayant "Canevas Cosmique", je suis fascinée par l'originalité du projet de l'équipe. Les explosions sonores ajoutent à l'immersion dans cet univers où je me sens presque comme un dieu de la destruction. La découverte du code QR sous les figurines attire mon attention, laissant présager son importance. Cela me pousse à envisager une modification : protéger ce code QR avec une fine couche de plastique transparent. Cette précaution paraît essentielle pour préserver son intégrité face aux manipulations des figurines. Cette expérience m'a également ouvert de nouvelles perspectives créatives auxquelles je n'avais pas songé auparavant.
-
+<h3 align=center>Ressenti</h3>
+En découvrant "Canevas Cosmique", je m'attends à passer un moment amusant grâce à l'originalité avec laquelle il a été conçu, notamment l'utilisation de figurines et de codes QR. Cette approche m'intrigue beaucoup car je ne saisis pas encore comment ils ont pu exploiter ces éléments pour donner vie à des interactions.
 <hr>
 <strong>
 Les informations présentées proviennent des créateurs de l'œuvre ainsi que de leurs ressources accessibles sur GitHub, ou bien de mes propres observations personnelles.
