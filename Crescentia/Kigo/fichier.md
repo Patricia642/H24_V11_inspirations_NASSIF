@@ -20,7 +20,7 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <hr>
 
  <h3 align=center> L'installation en cours</h3>
- L'exposition de ce projet temporaire et intéractive est déjà bien avancée, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.
+ L'exposition de ce projet temporaire et intéractif est déjà bien avancée, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.
  <br><br>
  
 | Allure projet | Délimitation | 
