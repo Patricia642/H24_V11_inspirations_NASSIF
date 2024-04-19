@@ -1,7 +1,8 @@
-<h1 align=center>
-Kigo</h1>
-<h2 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
-</h2>
+<h1>Crescentia</h1>
+<h2 align=center>
+Kigo</h2>
+<h3 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
+</h3>
 
  <img src='./medias/Kigo_affiche_20240307.JPG' width=100% height=100%> 
 
@@ -11,7 +12,7 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <hr>
 
  <h3 align=center> L'installation en cours</h3>
- Le projet est déjà bien avancé, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.
+ L'exposition de ce projet temporaire est déjà bien avancée, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.
  <br><br>
  
 | Allure projet | Délimitation | 
