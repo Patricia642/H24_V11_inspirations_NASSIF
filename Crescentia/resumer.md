@@ -11,3 +11,4 @@ Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l
 
 - kigo
 - Effet-Papillon
+- Sonalux
