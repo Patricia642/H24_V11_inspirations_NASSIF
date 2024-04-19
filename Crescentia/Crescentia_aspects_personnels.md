@@ -3,12 +3,11 @@
 <h4>Objets interactifs:</h4> 
 Les élèves développent une polyvalence technique en travaillant avec des composants tels que les capteurs, les microcontrôleurs et les DEL. Ils sont capables de créer des expériences immersives uniques en combinant ces technologies avec des éléments multimédias. De plus, ils acquièrent une compréhension approfondie des systèmes embarqués et bénéficient d'une expérience pratique grâce à la réalisation de projets concrets.
 
-<h4>Interactivité ludique:</h4> <br>
+<h4>Interactivité ludique:</h4> 
 Les élèves développent leur créativité et leur expression artistique tout en maîtrisant des outils techniques essentiels. En comprenant les principes de l'interactivité, ils peuvent concevoir des expériences engageantes où les utilisateurs jouent un rôle actif. Ces projets stimulent également la résolution de problèmes, la pensée critique, la collaboration et la communication. En résumé, cette formation combine créativité et compétences techniques, préparant les apprenants à réussir dans un monde numérique en constante évolution.
 
-<h4>Réalité mixte:</h4> <br>
+<h4>Réalité mixte:</h4> 
 Les élèves peuvent créer des expériences immersives en utilisant des modèles 3D, des animations et des médias visuels et sonores. Cela les aide à rester à jour avec les nouvelles technologies et à développer des compétences techniques avancées. Ils apprennent à concevoir des expériences interactives innovantes, ce qui les rend plus polyvalents sur le marché du travail. En résumé, cette formation les prépare à créer des expériences immersives captivantes et à réussir dans des domaines variés tels que le divertissement, la formation et la simulation.
-  
 <hr>
 
 <h1 align=center>Technique ou composante technologique que je ne connaissais pas</h1>
