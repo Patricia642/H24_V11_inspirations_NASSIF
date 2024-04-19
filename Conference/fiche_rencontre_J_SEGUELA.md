@@ -10,15 +10,15 @@ Durée : <strong>1h30</strong><br>
 Présenté: <strong>Mardi 16 avril 2024</strong>
 </p>
 <hr>
-<h3 align=center>Studio Antimodular</h3>
+<h2 align=center>Studio Antimodular</h2>
 <hr>
-<h3 align=center>Rafael Lozano-Hemmer</h3>
+<h2 align=center>Rafael Lozano-Hemmer</h2>
 <hr>
-<h3 align=center>Présentation Jade Séguela</h3>
+<h2 align=center>Présentation Jade Séguela</h2>
 <hr>
-<h3 align=center>Thème de sa conférence</h3>
+<h2 align=center>Thème de sa conférence</h2>
 <hr>
-<h3 align=center>Mon appréciation de la conférence</h3>
+<h2 align=center>Mon appréciation de la conférence</h2>
 
 
 
