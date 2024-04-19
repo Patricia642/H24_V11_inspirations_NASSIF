@@ -31,4 +31,6 @@ Présenté: <strong>Mardi 16 avril 2024</strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
 <br>
 (https://www.lozano-hemmer.com/) 
+  ou
+(https://www.instagram.com/lozanohemmer/?hl=fr)
 <hr>
