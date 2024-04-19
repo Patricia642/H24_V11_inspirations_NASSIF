@@ -2,8 +2,7 @@
 
  <img src='./medias/CRESCENTIA_affiche_20240307.JPG' width=100% height=100%> 
  
- <hr>
-<h1 align=center>Kigo</h1>
+<h1 align=center>Présente Kigo</h1>
 <h2 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
 </h2>
  <p>
