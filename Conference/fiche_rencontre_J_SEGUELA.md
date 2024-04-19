@@ -31,9 +31,9 @@ Antimodular Inc. est un studio de recherche dirigé par l'artiste Rafael Lozano-
 <strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
 <br>
-(https://www.lozano-hemmer.com/) 
-  ou
-(https://www.instagram.com/lozanohemmer/?hl=fr)
-  ou
+(https://www.lozano-hemmer.com/) <br>
+  ou<br>
+(https://www.instagram.com/lozanohemmer/?hl=fr)<br>
+  ou<br>
 (https://www.cgarchitect.com/companies/62ba3399-antimodular-inc)
 <hr>
