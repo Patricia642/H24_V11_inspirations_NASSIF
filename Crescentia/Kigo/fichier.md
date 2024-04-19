@@ -75,6 +75,7 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 <h4>Avant :</h4>En découvrant "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ. Je pense que ce projet va être mon préférer.<br>
 <h4>Après :</h4>Effectivement, "Kigo" est mon choix favori sans aucun doute. Ce jeu m'a procuré un plaisir indéniable grâce à sa fluidité et à sa jouabilité impeccable. De plus, il a favorisé de nombreuses interactions entre les participants, ce qui a enrichi l'expérience globale. En résumé, "Kigo" a su captiver mon intérêt et me divertir de manière exceptionnelle.<br>
 
+<img src='./medias/moi_studio_20240220.png' width=100% height=100%> 
 <hr>
 
 <h3 align=center>Aspects que je ferais autrement</h3>
