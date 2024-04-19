@@ -18,6 +18,8 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 | <img src='./medias/Kigo_allure_20240220.jpg' width=100% height=80%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=100% height=80%></h4> |
 
 <h4 align=center>Installation<br><br>
+ 
+Le projet est déjà bien avancé, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.<br><br>
 <img src='./medias/Kigo_installation_20240220.png' width=80% height=60%></h4>
 <hr>
 <h3 align=center>Schéma de l'installation<br><br>
@@ -61,17 +63,16 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<h4>Avant :</h4><br>
-<h4>Après :</h4><br>
+<h4>Avant :</h4>En découvrant "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ. Je pense que ce projet va être mon préférer.<br>
+<h4>Après :</h4>Effectivement, "Kigo" est mon choix favori sans aucun doute. Ce jeu m'a procuré un plaisir indéniable grâce à sa fluidité et à sa jouabilité impeccable. De plus, il a favorisé de nombreuses interactions entre les participants, ce qui a enrichi l'expérience globale. J'ai particulièrement apprécié la diversité des mécanismes de jeu et la façon dont ils ont été intégrés de manière cohérente. En résumé, "Kigo" a su captiver mon intérêt et me divertir de manière exceptionnelle.<br>
 
-En découvrant l'installation "Kigo", j'ai immédiatement été séduite par son concept. Le fait de devoir bouger tout le corps et de rester concentrée pour atteindre un score à battre a suscité mon intérêt. De plus, l'ajout de niveaux de difficulté croissante qui apporte un aspect compétitif m'a vraiment plu. Les couleurs néons vives ont également captivé mon attention dès le départ.Bien que le concept de base de "Kigo" puisse rappeler des jeux en ligne bien connus, son aspect amusant et addictif en fait mon projet préféré.
 <hr>
 
 <h3 align=center>Aspects que je ferais autrement</h3>
-Si je devais revoir l'aménagement, je modifierais l'emplacement des salles de bains, car leur proximité avec l'exposition compromettait l'intimité. Il serait judicieux de les éloigner pour éviter que les bruits provenant du couloir ne perturbent les visiteurs. De plus, je privilégierais un éclairage plus tamisé du côté de l'illustration agrandie sur les murs, en remplaçant l'éclairage néon blanc actuel. Cela contribuerait à renforcer l'atmosphère immersive de l'exposition.
+La seule modification que j'apporterais serait l'esthétique de l'interface. Bien qu'elle soit fonctionnelle et bien conçue, elle ne correspond pas tout à fait à mes préférences esthétiques. J'aimerais voir une interface qui reflète davantage mon style personnel ou qui soit plus en accord avec mes goûts visuels.
 
 <h3 align=center>Ce qui m'a plu</h3>
-J'ai été impressionné par la manière dont les écrans ont été installés avec précision, sans aucun fil en vue, ce qui a donné une finition soignée à l'exposition et a élevé sa qualité. De plus, l'utilisation étendue du tapis sur le sol et les plateformes dans toute la salle a procuré un confort supplémentaire et a enrichi l'expérience sensorielle. Enfin, partager cette sortie en groupe a été très divertissant et a ajouté une dimension sociale agréable à ma visite.
+J'ai été particulièrement attiré par ce projet, malgré son utilisation relativement modeste de matériel. Ce qui l'a rendu si captivant, c'est son potentiel à encourager l'interaction sociale. Chaque personne était encouragée à participer activement, car tout le monde cherchait à surpasser le meilleur score établi. Cette compétition amicale a créé une atmosphère dynamique où les participants se sont rassemblés pour collaborer, rivaliser et partager des moments de plaisir ensemble. C'était une expérience immersive qui a véritablement renforcé les liens entre les participants.
 <hr>
 <h3 align=center>3 cours du programme incontournables pour ce projet</h3>
 
