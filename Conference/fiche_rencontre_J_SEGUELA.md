@@ -14,9 +14,11 @@ Présenté: <strong>Mardi 16 avril 2024</strong>
 
 <h3>Rafael Lozano-Hemmer</h3>
 
-<h3>Jade Séguela</h3>
+<h3>Présentation Jade Séguela</h3>
 
+<h3>Thème de sa conférence</h3>
 
+<h3>Mon appréciation de la conférence</h3>
 
 
 
@@ -29,4 +31,4 @@ Présenté: <strong>Mardi 16 avril 2024</strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
 <br>
 (https://www.lozano-hemmer.com/) 
-
+<hr>
