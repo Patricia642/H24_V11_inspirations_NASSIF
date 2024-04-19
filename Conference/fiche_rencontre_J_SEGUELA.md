@@ -9,16 +9,16 @@ Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
 Durée : <strong>1h30</strong><br>
 Présenté: <strong>Mardi 16 avril 2024</strong>
 </p>
-
-<h3>Studio Antimodular</h3>
-
-<h3>Rafael Lozano-Hemmer</h3>
-
-<h3>Présentation Jade Séguela</h3>
-
-<h3>Thème de sa conférence</h3>
-
-<h3>Mon appréciation de la conférence</h3>
+<hr>
+<h3 align=center>Studio Antimodular</h3>
+<hr>
+<h3 align=center>Rafael Lozano-Hemmer</h3>
+<hr>
+<h3 align=center>Présentation Jade Séguela</h3>
+<hr>
+<h3 align=center>Thème de sa conférence</h3>
+<hr>
+<h3 align=center>Mon appréciation de la conférence</h3>
 
 
 
