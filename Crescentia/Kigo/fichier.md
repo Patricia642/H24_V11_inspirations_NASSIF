@@ -12,12 +12,12 @@ Kigo enrichit le projet Crescentia en introduisant une progression saisonnière 
 
  <h3 align=center> L'installation en cours</h3>
  Le projet est déjà bien avancé, tous les composants nécessaires tels que le projecteur, les haut-parleurs, la Kinect et un ordinateur sont en place. Cependant, l'équipe est confrontée à un défi de taille en matière de codage. En effet, un problème persiste : lorsqu'un joueur avance physiquement, le personnage à l'écran recule, ce qui va à l'encontre de l'effet désiré. Ce problème doit être résolu pour que l'expérience fonctionne comme prévu.
+ <br><br>
  
 | Allure projet | Délimitation | 
 | :---: | :---: | 
 | <img src='./medias/Kigo_allure_20240220.jpg' width=100% height=80%></h4> | <img src='./medias/Kigo_délimitation_20240220.png' width=100% height=80%></h4> |
  
-<br><br>
 <img src='./medias/Kigo_installation_20240220.png' width=80% height=60%></h4>
 <hr>
 <h3 align=center>Schéma de l'installation<br><br>
