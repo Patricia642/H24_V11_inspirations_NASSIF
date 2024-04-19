@@ -1,4 +1,4 @@
-CRESCENTIA_affiche_20240307.JPG
+<img src='./medias/CRESCENTIA_affiche_20240307.JPG' width=100% height=100%> 
 
 <h1 align=center>Technique ou composante technologique que je ne connaissais pas</h1>
 Je n'avais aucune connaissance préalable sur ce qu'était un Kinect avant que l'équipe du projet ne m'explique son fonctionnement. Ils m'ont fait comprendre que c'est un dispositif qui permet de contrôler une interface sans recourir à une manette, en captant les mouvements du corps.
