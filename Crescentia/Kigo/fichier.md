@@ -1,14 +1,14 @@
 <h1 align=center>Crescentia<br><hr>Kigo</h1>
 <h2 align=center>Une œuvre artistique développée par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion en collaboration avec le Collège Montmorency
 </h2>
-
- <img src='./medias/Kigo_affiche_20240307.JPG' width=100% height=100%> 
- 
  <p>
 Lieu de mise en exposition: <strong>Collège Montmorency</strong><br>
 Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
 Présenté: <strong>18.03.2024 - 21.03.2024</strong>
 </p>
+
+ <img src='./medias/Kigo_affiche_20240307.JPG' width=100% height=100%> 
+ 
 
 <h2 align=center>Lien avec le thème Crescentia et description de l'oeuvre</h2>
 <h3 align=center>
