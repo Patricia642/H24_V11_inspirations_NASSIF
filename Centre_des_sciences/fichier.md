@@ -14,7 +14,7 @@ Installation: <strong>Permanente</strong>
 L'installation "Mon Squelette" souligne que malgré les différences externes, les squelettes humains et animaux présentent souvent des similitudes surprenantes. Cette observation révèle une parenté fondamentale entre les espèces, en soulignant une base anatomique commune.L'installation nous encourage à considérer notre lien avec le règne animal et à prendre conscience de notre intégration dans un vaste réseau biologique.
 <h3 align=center>Affiche</h3>
 <h1 align=center>
-<img src='./medias/mon_squelette_20240405.png' width=20% height=20%></h4>
+<img src='./medias/mon_squelette_20240405.png' width=40% height=10%></h4>
 </h1>
  <hr>
 <h3 align=center>Mise en espace</h3>
