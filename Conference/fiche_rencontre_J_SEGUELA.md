@@ -3,15 +3,6 @@
 <h2 align=center>Présentée par Jade Séguela, en tant que registraire, au sein du Studio Antimodular dirigé par Rafael Lozano-Hemmer
 </h2>
 
-lumieres_20240416.PNG
-Add files via upload
-1 minute ago
-moi_20240416.png
-Add files via upload
-1 minute ago
-portrait_Rafael_20240416.jpg
-
-
 <p>
 Lieu de mise en exposition: <strong> Salle Claude Legault (B1346) du Collège Montmorency </strong><br>
 Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
@@ -24,6 +15,7 @@ Antimodular Inc. est un studio de recherche dirigé par l'artiste Rafael Lozano-
 <hr>
 <h2 align=center>Rafael Lozano-Hemmer</h2>
 
+<img src='./medias/portrait_Rafael_20240416.jpg' width=100% height=100%> 
 Rafael Lozano-Hemmer est un artiste né à Mexico en 1967. Il est également le fondateur et directeur du Studio Antimodular, basé à Montréal. Il travaille à l'intersection de l'architecture et de l'art performance, créant des installations publiques interactives utilisant diverses technologies telles que des lumières robotiques et des réseaux télématiques. Son travail a été exposé dans des biennales et des musées renommés à travers le monde, et il a reçu de nombreux prix prestigieux. 
 <hr>
 <h2 align=center>Présentation Jade Séguela</h2>
@@ -57,6 +49,7 @@ Voici le lien: (lien)
 
 Je dois avouer que j'ai été très impressionnée par cette conférence. Elle m'a vraiment surprise par la pertinence de son contenu, notamment en révélant l'étendue des responsabilités d'une registraire dans un projet d'une telle envergure. Les péripéties rencontrées lors de la réalisation du projet "Translation Stream" m'ont particulièrement marquée, et leur réussite finale malgré ces obstacles m'a véritablement impressionnée.
 
+<img src='./medias/moi_20240416.png' width=100% height=100%> 
 <hr>
 <strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
