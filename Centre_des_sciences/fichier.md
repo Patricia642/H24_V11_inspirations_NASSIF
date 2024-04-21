@@ -12,19 +12,6 @@ Installation: <strong>Permanente</strong>
 <img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%>
 
 
-chic_20240405.png
-
-explore_20240405.png
-
-moi_20240405.png
-
-multitache_2_20240405.png
-
-multitaches_20240405.png
-
-mur_eau_20240405.png
-
-
 <h1 align=center>Description de l'installation</h1>
  <img src='./medias/allure_installation_20240405.png' width=100% height=100%> 
 <h3 align=center>L'exposition temporaire et immersive de Samuel Tétreault, "RIOPELLE Grandeur Nature", clôture de manière remarquable les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, elle transporte les visiteurs au cœur de l'œuvre de l'artiste et des paysages qui ont nourri son inspiration. De l'atelier de Riopelle aux paysages qui l'ont inspiré, en passant par ses œuvres les plus marquantes ainsi que celles moins connues, cette exposition offre une immersion totale dans l'univers créatif de Riopelle.</h3>
@@ -87,8 +74,9 @@ mur_eau_20240405.png
 <br>
 <br>
 <br>
-<h4 align=center>Croquis<br><br>
- <img src='./medias/RIOPELLE_croquis_20240301.jpg' width=40% height=40%></h4>
+| Sculpture | Allure sophistiquée | 
+| :---: | :---: | 
+| <img src='./medias/explore_20240405.png' width=100% height=100%></h4> | <img src='./medias/moi_20240405.png' width=100% height=100%></h4> |
 
 <hr>
   
@@ -100,12 +88,11 @@ Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres pr
 <br>
 <br>
 
-
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/RIOPELLE_sculpture_arbre_20240301.jpg' width=100% height=100%></h4> | <img src='./medias/RIOPELLE_allure_sophistiquer_20240301.jpg' width=100% height=100%></h4> |
+| <img src='./medias/multitaches_20240405.png' width=100% height=100%></h4> | <img src='./medias/multitache_2_20240405.png' width=100% height=100%></h4> |
 | Sous-sol | Moi devant le Studio des 7 Doigts | 
-| <img src='./medias/RIOPELLE_allure_sous-sol_20240301.jpg' width=80% height=80%></h4> | <img src='./medias/RIOPELLE_moi_20240301.jpg' width=100% height=100%></h4> |
+| <img src='./medias/mur_eau_20240405.png' width=80% height=80%></h4> | <img src='./medias/chic_20240405.png' width=100% height=100%></h4> |
 
 <hr>
 <strong>
