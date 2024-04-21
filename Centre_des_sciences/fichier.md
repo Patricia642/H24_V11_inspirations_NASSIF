@@ -11,6 +11,8 @@ Installation: <strong>Permanente</strong>
 
 
 <h1 align=center>Description de l'installation</h1>
+
+ <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
 L'installation "Mon Squelette" souligne que malgré les différences externes, les squelettes humains et animaux présentent souvent des similitudes surprenantes. Cette observation révèle une parenté fondamentale entre les espèces, en soulignant une base anatomique commune.L'installation nous encourage à considérer notre lien avec le règne animal et à prendre conscience de notre intégration dans un vaste réseau biologique.
 <h3 align=center>Affiche</h3>
 <h1 align=center>
@@ -18,7 +20,6 @@ L'installation "Mon Squelette" souligne que malgré les différences externes, l
 </h1>
  <hr>
 <h3 align=center>Mise en espace</h3>
- <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
 L'installation se trouve dans la section consacrée à l'expérience humaine, tout au fond à droite. Elle ressemble à un grand igloo noir solidement fermé, avec deux autres installations différentes sur les côtés. Sur l'une d'entre elles, une petite affiche donne un contexte, accompagnée d'une porte d'entrée et d'une porte de sortie. À l'intérieur, de chaque côté, des bancs noirs accueillent les spectateurs, car l'installation est conçue pour une seule personne à la fois. De plus, une zone délimitée en jaune guide clairement l'utilisateur pour se placer au bon endroit. Enfin, une projection sur une grande planche de bois au fond de la pièce montre une interface où des squelettes se transforment en fonction des choix de l'utilisateur.
 <br>
 <br>
