@@ -33,41 +33,41 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <h3 align=center>Composantes et techniques</h3>
 
 - Plans de l'installation
-- Plans du matériel requis obligatoirement
-- Six écrans
-- Six projecteurs
-- Six grands haut-parleurs
-- Six petits haut-parleurs
-- Une grande plateforme
-- Trois petites plateformes qui répliques des troncs d'arbre
-- Quelques oiseaux en papier
-- Plusieurs fausses plantes
-- Plusieurs branches de bois
-- Plusieurs chaises en bois
-- Grands rideaux noirs
-- Fils transparents assez forts pour soutenir les écrans
-- Caissons de basses-fréquences
+- Plans du matériel requis obligatoirement-
+- 1 Projecteur
+- 1 Kinect 
+- 1 sytème d'acrochage pour le projecteur
+- Multiprise
+- Extensions de fils électrique
+- 1 Grande planche de bois
+- Cartons noirs (pour finition de la planche)
+- 2 bancs noirs
+- 1 gros collant de couleur pour la zone de délimitation
+- 1 gros collant de couleurs pour la mise en contexte
+- 1 grande installation de plastique noir et blanche pour isolé
+- Interface de jeu automatisé
+
 
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Plans de l'installation
-- Plans du matériel requis obligatoirement
-- Six écrans
-- Six projecteurs
-- Six grands haut-parleurs
-- Six petits haut-parleurs
-- Une grande plateforme
-- Trois petites plateformes qui répliques des troncs d'arbre
-- Quelques oiseaux en papier
-- Plusieurs fausses plantes
-- Plusieurs branches de bois
-- Plusieurs chaises en bois
-- Grands rideaux noirs
-- Fils transparents assez forts pour soutenir les écrans
-- Caissons de basses-fréquences
+- Plans du matériel requis obligatoirement-
+- 1 Projecteur
+- 1 Kinect 
+- 1 sytème d'acrochage pour le projecteur
+- Multiprise
+- Extensions de fils électrique
+- 1 Grande planche de bois
+- Cartons noirs (pour finition de la planche)
+- 2 bancs noirs
+- 1 gros collant de couleur pour la zone de délimitation
+- 1 gros collant de couleurs pour la mise en contexte
+- 1 grande installation de plastique noir et blanche pour isolé
+  
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, 
+<strong>Le 5 avril 2024</strong>, je me suis rendu au Centre des science de Montréal. 
+En arrivant, un monsieur responsable de notre visite nous a conduit à l'étage supérieur où se trouvaient toutes les installations. La première section que nous avons visitée était celle dédiée à l'être humain, où j'ai choisi de découvrir celle sur les squelettes. Ensuite, nous avons exploré la section consacrée à l'air et à l'eau, pour finalement arriver à une partie plus créative. C'est à ce moment que notre guide a cessé de nous parler des installations et nous a laissé le reste du temps pour choisir notre installation préférée.
 <br>
 <br>
 <br>
@@ -79,11 +79,13 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
+Pour ma part, je proposerais de revoir complètement l'esthétique de l'interface pour la rendre plus dynamique et attrayante. Pour ceci, je propose une refonte inspirée des paysages naturels et des habitats des animaux. Des animations fluides évoquant le mouvement des éléments naturels et des couleurs vives rappelant la diversité des écosystèmes pourraient être intégrées. Cette approche visuelle captiverait les utilisateurs en leur offrant une expérience immersive, tout en évoquant un lien avec la nature et les animaux. En ajoutant des éléments interactifs et des options de personnalisation, nous assurerions une expérience utilisateur engageante et personnalisée.
 <h3 align=center>Interface</h3>
 <h3 align=center>
 <img src='./medias/interface_20240405.png' width=50% height=50%>
 </h3>
 <h3 align=center>Ce qui m'a plu</h3>
+J'ai été particulièrement séduit par le lien entre cette installation et l'œuvre "Kigo" présentée par une équipe du Collège Montmorency dans le cadre du projet Crescentia. Cette association a suscité en moi une agréable surprise en réalisant que, avec un peu d'aide et un travail d'équipe efficace, je pourrais potentiellement recréer une installation similaire. Cette idée m'a profondément inspiré et m'a ouvert de nouvelles perspectives quant à mes propres capacités créatives et à la force du travail collaboratif.
 
 <br>
 <br>
