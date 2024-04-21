@@ -28,12 +28,18 @@ Pour être en mesure d'accomplir toutes ces tâches, elle a fait:
 - Maîtrise en Muséologie
 <hr>
 <h2 align=center>Thème de sa conférence</h2>
-<strong>En premier lieux, elle nous a parlée de l'intéractivité avec un schéma.:</strong><br>
-<strong>Étude de cas #1:</strong><br>
-En deuxième lieux, elle nous à expliquée comment elle documente une exposition d'art numérique et sont utilité.
+<strong>En premier lieux, elle nous a parlée de l'intéractivité passive ou active:</strong><br>
+Dans l'ensemble, l'interactivité passive englobe des œuvres qui invitent les gens à observer, marcher et respirer, tandis que l'interactivité active implique l'utilisation de la parole et l'interaction avec des boutons, entre autres.
 
-<strong>Étude de cas #2:</strong>
+<strong>Étude de cas #1:</strong><br>
+Dans un second temps, elle nous a expliqué comment elle documente une exposition d'art numérique et son importance cruciale. La documentation joue un rôle essentiel pour l'équipe, car elle permet de connaître le contenu précis de chaque œuvre ainsi que leur emplacement dans les caisses, évitant ainsi des ouvertures inutiles et assurant le bon déroulement de l'exposition. De plus, cette documentation offre une protection contre les dommages et les pertes éventuelles, tout en facilitant les formalités douanières en justifiant le contenu des caisses. En outre, elle constitue une archive essentielle pour l'historique des œuvres, prévenant ainsi toute répétition des étapes et permettant de gagner du temps lors de la mise en place.
+
+<strong>Étude de cas #2:</strong><br>
+Ensuite, elle nous a parlé de la production de l'œuvre intitulée "Translation Stream" sur une île déserte, plus précisément sur l'île Lulu, située à Abou Dabi. Les défis liés à cet emplacement étaient nombreux. Tout d'abord, les problèmes de corrosion dus à l'humidité ont été une préoccupation majeure, aggravés par une pluie imprévue qui a endommagé considérablement le matériel, nécessitant l'utilisation de sacs poubelles comme solution temporaire. De plus, l'absence d'électricité sur l'île a contraint l'équipe à recourir à des dispositifs alimentés par l'énergie solaire et à explorer d'autres alternatives. Ils ont également dû faire face aux défis posés par le sable, qui a engendré de nouveaux problèmes techniques nécessitant des solutions improvisées sur place. Tout cela a été entrepris avec un souci constant de ne pas perturber l'écosystème fragile de l'île, habituellement dépourvue de présence humaine.
+
 <strong>Bonus:</strong>
+Pour finir, elle nous a mis au courant que le studio a un github qui est libre d'acces et même qu'il nous encourage à essayer de reproduire leur oeuvre.<br>
+Voici le lien: (lien)
 <hr>
 <h2 align=center>Mon appréciation de la conférence</h2>
 
