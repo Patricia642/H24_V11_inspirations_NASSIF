@@ -52,12 +52,13 @@ Voici le lien: (lien)
 
 Je dois avouer que j'ai été très impressionnée par cette conférence. Elle m'a vraiment surprise par la pertinence de son contenu, notamment en révélant l'étendue des responsabilités d'une registraire dans un projet d'une telle envergure. Les péripéties rencontrées lors de la réalisation du projet "Translation Stream" m'ont particulièrement marquée, et leur réussite finale malgré ces obstacles m'a véritablement impressionnée.
 
-| Allure projet | Arbre | 
+| Translation Stream dunes sable | Allure Translation Stream | 
 | :---: | :---: | 
-| <img src='./medias/Effet_Papillon_allure_essaie_20240220.png' width=50% height=20%></h4> | <img src='./medias/Effet_Papillon_arbre_02_20240220.jpg' width=50% height=20%></h4> |
+| <img src='./medias/dune_translation_stream_20240416.jpg' width=50% height=20%></h4> | <img src='./medias/translation_stream_20240416.jpg' width=50% height=20%></h4> |
 <h4 align=center>Moi<br><br>
 
 <img src='./medias/moi_20240416.png' width=30% height=30%> 
+
 <hr>
 <strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
