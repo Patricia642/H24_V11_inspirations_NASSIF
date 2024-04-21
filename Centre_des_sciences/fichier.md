@@ -68,31 +68,31 @@ Installation: <strong>Permanente</strong>
 - Caissons de basses-fréquences
 <hr>
 <h3 align=center>Expérience vécue</h3>
-<strong>Le 1er mars 2024</strong>, lors de ma visite de l'exposition "RIOPELLE Grandeur Nature" au Studio des 7 Doigts, j'ai eu du mal à trouver l'entrée en raison de sa petite taille et des affiches blanches peu discernables. Une fois franchit les portes, deux personnes m'ont accueilli et ont scanné mon billet. Cependant, par la suite, je me suis senti un peu désorienté car personne ne m'a guidé pour entamer ma visite et aucun cartel informatif n'était disponible. Malgré cette confusion, j'ai été captivé par la beauté des œuvres de Riopelle et l'ambiance chaleureuse créée par les lumières douces. Cela m'a conduit vers les escaliers où se trouvait l'une de mes œuvres préférées de l'exposition : le tableau représentant un dragon avec une ligne d'oiseaux suspendus au plafond. Ensuite, je me suis dirigé vers la salle vidéo qui explorait le parcours artistique de Riopelle. Diffusée en continu toutes les 30 minutes, elle se distinguait par son authenticité, évoquant les défis rencontrés au début de sa carrière artistique, tels que des problèmes monétaires, ainsi que de vrais croquis.
+<strong>Le 1er mars 2024</strong>, 
 <br>
 <br>
 <br>
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/explore_20240405.png' width=100% height=100%></h4> | <img src='./medias/moi_20240405.png' width=100% height=100%></h4> |
+| <img src='./medias/explore_20240405.png' width=50% height=100%></h4> | <img src='./medias/moi_20240405.png' width=50% height=50%></h4> |
 
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
-Afin d'optimiser l'expérience des visiteurs, je suggérerais quelques réorganisations. Tout d'abord, je rendrais l'entrée plus visible et accueillante pour faciliter son repérage dès l'arrivée des visiteurs, attirant ainsi leur attention de manière plus efficace. Ensuite, j'assignerais du personnel spécialement dédié à l'accueil et à l'orientation des visiteurs tout au long de l'exposition, surtout compte tenu de sa répartition sur deux étages distincts. Cette assistance personnalisée garantirait aux visiteurs une exploration fluide et agréable, tout en leur offrant des réponses à leurs interrogations éventuelles. En complément, je mettrais en place un cartel général de l'œuvre au début de l'exposition. Ce cartel fournirait une vue d'ensemble de l'exposition, donnant des informations sur le thème, le contexte et les objectifs artistiques. Cela permettrait aux visiteurs de mieux comprendre le contenu de l'exposition avant de débuter leur visite.
+
 
 <img src='./medias/interface_20240405.png' width=100% height=100%>
 
 <h3 align=center>Ce qui m'a plu</h3>
-Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres présentées, allant des sculptures aux tableaux, en passant par les vidéos à des espaces interactifs. Cette variété a contribué à maintenir un intérêt constant et à éviter toute sensation de répétition. De plus, j'ai adoré l'aspect sophistiqué de l'exposition, qui ajoutait une touche d'élégance à l'ensemble.
+
 <br>
 <br>
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/multitaches_20240405.png' width=100% height=100%></h4> | <img src='./medias/multitache_2_20240405.png' width=100% height=100%></h4> |
+| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4> |
 | Sous-sol | Moi devant le Studio des 7 Doigts | 
-| <img src='./medias/mur_eau_20240405.png' width=80% height=80%></h4> | <img src='./medias/chic_20240405.png' width=100% height=100%></h4> |
+| <img src='./medias/mur_eau_20240405.png' width=80% height=80%></h4> | <img src='./medias/chic_20240405.png' width=50% height=50%></h4> |
 
 <hr>
 <strong>
