@@ -3,7 +3,7 @@
 <h2 align=center>Présentée par Jade Séguela, en tant que registraire, au sein du Studio Antimodular dirigé par Rafael Lozano-Hemmer
 </h2>
 
-<img src='./medias/lumieres_20240416.PNG' width=100% height=50%> 
+<img src='./medias/lumieres_20240416.PNG' width=100% height=20%> 
 <p>
 Lieu de mise en exposition: <strong> Salle Claude Legault (B1346) du Collège Montmorency </strong><br>
 Adresse : <strong>475 Bd de l'Avenir, Laval, QC H7N 5H9</strong><br>
