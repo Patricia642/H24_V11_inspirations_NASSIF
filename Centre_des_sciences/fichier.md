@@ -1,13 +1,14 @@
-<h1 align=center>
+![image](https://github.com/Patricia642/H24_V11_inspirations_NASSIF/assets/143467934/ada58fff-116f-4b5d-b64d-d3cc02247947)<h1 align=center>
 Le Centre des sciences de Montréal<br>
 </h1>
 
 <p>
 Adresse : <strong>2 R. de la Commune O, Montréal, QC H2Y 4B2</strong><br>
 Durée : <strong>30 minutes</strong><br>
-Présenté: <strong>Le 5 avril 2024</strong>
+Présenté: <strong>Le 5 avril 2024</strong><br>
 Installation: <strong>Permanente</strong>
 </p>
+<img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=100% height=100%>
 
 <h1 align=center>Description de l'oeuvre</h1>
  <img src='./medias/RIOPELLE_affiche_20240301.PNG' width=100% height=100%> 
