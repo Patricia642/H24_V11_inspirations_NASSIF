@@ -2,7 +2,7 @@
 Le Centre des sciences de Montréal<br>
 </h1>
 
-<img src='./medias/batiment_20240405.JPG' width=100% height=50%>
+<img src='./medias/batiment_20240405.JPG' width=100% height=40%>
 <p>
 Adresse : <strong>2 R. de la Commune O, Montréal, QC H2Y 4B2</strong><br>
 Présenté: <strong>Le 5 avril 2024</strong><br>
