@@ -75,7 +75,7 @@ Installation: <strong>Permanente</strong>
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/explore_20240405.png' width=50% height=100%></h4> | <img src='./medias/moi_20240405.png' width=30% height=30%></h4> |
+| <img src='./medias/explore_20240405.png' width=80% height=100%></h4> | <img src='./medias/moi_20240405.png' width=30% height=30%></h4> |
 
 <hr>
   
