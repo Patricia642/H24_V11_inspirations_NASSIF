@@ -91,7 +91,7 @@ Installation: <strong>Permanente</strong>
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/multitaches_20240405.png' width=30% height=30%></h4> | <img src='./medias/mur_eau_20240405.png' width=50% height=50%></h4> |
+| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/mur_eau_20240405.png' width=30% height=30%></h4> |
 | Sous-sol | Moi devant le Studio des 7 Doigts | 
 | <img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4> | <img src='./medias/chic_20240405.png' width=70% height=70%></h4> |
 
