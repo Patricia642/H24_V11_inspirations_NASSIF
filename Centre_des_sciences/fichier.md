@@ -5,7 +5,6 @@ Le Centre des sciences de Montréal<br>
 <img src='./medias/batiment_20240405.JPG' width=100% height=50%>
 <p>
 Adresse : <strong>2 R. de la Commune O, Montréal, QC H2Y 4B2</strong><br>
-Durée : <strong>30 minutes</strong><br>
 Présenté: <strong>Le 5 avril 2024</strong><br>
 Installation: <strong>Permanente</strong>
 </p>
@@ -19,11 +18,11 @@ Installation: <strong>Permanente</strong>
  <hr>
 <h3 align=center>Mise en espace</h3>
  <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
-À l'entrée, les visiteurs sont accueillis par un bureau de réception situé sur la gauche, où un code QR est disponible, fournissant diverses informations sur l'exposition. Cette zone s'intègre harmonieusement avec l'exposition principale, où sont présentées les toiles, sculptures et interactions artistiques. Un escalier conduit également au sous-sol, abritant la section consacrée aux Inuits et une salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son à travers des haut-parleurs positionnés au plafond. L'absence apparente de fils électriques crée une atmosphère aérée et spacieuse. Au centre de la salle se trouve un podium orné d'oiseaux en papier et de branches, évoquant un nid. Des brins d'herbe artificiels bordent la salle sous les écrans, ajoutant une touche finale à l'ambiance générale.
+L'installation se trouve dans la section consacrée à l'expérience humaine, tout au fond à droite. Elle ressemble à un grand igloo noir solidement fermé, avec deux autres installations différentes sur les côtés. Sur l'une d'entre elles, une petite affiche donne un contexte, accompagnée d'une porte d'entrée et d'une porte de sortie. À l'intérieur, de chaque côté, des bancs noirs accueillent les spectateurs, car l'installation est conçue pour une seule personne à la fois. De plus, une zone délimitée en jaune guide clairement l'utilisateur pour se placer au bon endroit. Enfin, une projection sur une grande planche de bois au fond de la pièce montre une interface où des squelettes se transforment en fonction des choix de l'utilisateur.
 <br>
 <br>
 
-| Salle de projection | L'installation de la salle | 
+| Allure de l'installation | Zone délimitée | 
 | :---: | :---: | 
 | <img src='./medias/installation_20240405.png' width=50% height=100%></h4> | <img src='./medias/zone_pieds_20240405.png' width=50% height=50%></h4> |
 
