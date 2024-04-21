@@ -49,7 +49,7 @@ Voici le lien: (lien)
 
 Je dois avouer que j'ai été très impressionnée par cette conférence. Elle m'a vraiment surprise par la pertinence de son contenu, notamment en révélant l'étendue des responsabilités d'une registraire dans un projet d'une telle envergure. Les péripéties rencontrées lors de la réalisation du projet "Translation Stream" m'ont particulièrement marquée, et leur réussite finale malgré ces obstacles m'a véritablement impressionnée.
 
-<img src='./medias/moi_20240416.png' width=100% height=100%> 
+<img src='./medias/moi_20240416.png' width=30% height=30%> 
 <hr>
 <strong>
 Les informations sont obtenues à la fois de la conférence et de mes propres observations, ainsi que du lien suivant :
