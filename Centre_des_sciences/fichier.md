@@ -72,7 +72,7 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <br>
 <br>
 
-| Allure | Moi | 
+| Appel à l'action | Moi | 
 | :---: | :---: | 
 | <img src='./medias/explore_20240405.png' width=80% height=100%></h4> | <img src='./medias/moi_20240405.png' width=30% height=30%></h4> |
 
@@ -88,10 +88,10 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <br>
 <br>
 
-| Sculpture | Allure sophistiquée | 
+| Autre installation | Autre installation | 
 | :---: | :---: | 
 | <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4> |
-
+<h3 align=center>Allure sophistiquée</h3>
 <img src='./medias/chic_20240405.png' width=100% height=100%></h4>
 
 
