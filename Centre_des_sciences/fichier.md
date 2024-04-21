@@ -87,7 +87,8 @@ Pour ma part, je proposerais de revoir complètement l'esthétique de l'interfac
 </h3>
  <hr>
 <h3 align=center>Ce qui m'a plu</h3>
-J'ai été particulièrement séduit par le lien entre cette installation et l'œuvre "Kigo" présentée par une équipe du Collège Montmorency dans le cadre du projet Crescentia. Cette association a suscité en moi une agréable surprise en réalisant que, avec un peu d'aide et un travail d'équipe efficace, je pourrais potentiellement recréer une installation similaire. Cette idée m'a profondément inspiré et m'a ouvert de nouvelles perspectives quant à mes propres capacités créatives et à la force du travail collaboratif.
+J'ai particulièrement aimée le lien entre cette installation et l'œuvre "Kigo" présentée par une équipe du Collège Montmorency dans le cadre du projet Crescentia. Cette association a suscité en moi une agréable surprise en réalisant que, avec un peu d'aide et un travail d'équipe efficace, je pourrais potentiellement recréer une installation similaire. Cette idée m'a profondément inspirée et m'a ouvert de nouvelles perspectives quant à mes propres capacités créatives et à la force du travail collaboratif.
+De plus, j'ai été captivée par l'aspect multitâche de cette installation, car j'ai remarqué que deux autres installations avaient utilisé sa fondation pour être mises en place. Cette utilisation polyvalente des ressources a renforcé ma conviction dans le potentiel créatif et innovant de la collaboration, tout en démontrant l'efficacité de la réutilisation intelligente des idées et des matériaux.
 
 <br>
 <br>
