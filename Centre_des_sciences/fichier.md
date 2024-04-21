@@ -29,7 +29,7 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 | Banc 1 | Banc 2 | 
 | :---: | :---: | 
 | <img src='./medias/banc_20240405.png' width=50% height=50%></h4> | <img src='./medias/banc_20240405.png' width=50% height=50%></h4> |
-  
+ <hr>  
 <h3 align=center>Composantes et techniques</h3>
 
 - Plans de l'installation
@@ -47,7 +47,7 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 - 1 grande installation de plastique noir et blanche pour isolé
 - Interface de jeu automatisé
 
-
+ <hr>
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Plans de l'installation
@@ -84,6 +84,7 @@ Pour ma part, je proposerais de revoir complètement l'esthétique de l'interfac
 <h3 align=center>
 <img src='./medias/interface_20240405.png' width=50% height=50%>
 </h3>
+ <hr>
 <h3 align=center>Ce qui m'a plu</h3>
 J'ai été particulièrement séduit par le lien entre cette installation et l'œuvre "Kigo" présentée par une équipe du Collège Montmorency dans le cadre du projet Crescentia. Cette association a suscité en moi une agréable surprise en réalisant que, avec un peu d'aide et un travail d'équipe efficace, je pourrais potentiellement recréer une installation similaire. Cette idée m'a profondément inspiré et m'a ouvert de nouvelles perspectives quant à mes propres capacités créatives et à la force du travail collaboratif.
 
