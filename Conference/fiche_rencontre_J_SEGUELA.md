@@ -33,6 +33,7 @@ Pour être en mesure d'accomplir toutes ces tâches, elle a fait:
 <strong>En premier lieux, elle nous a parlée de l'intéractivité passive ou active:</strong><br>
 Dans l'ensemble, l'interactivité passive englobe des œuvres qui invitent les gens à observer, marcher et respirer, tandis que l'interactivité active implique l'utilisation de la parole et l'interaction avec des boutons, entre autres.
 <br>
+<br>
 <strong>Étude de cas #1:</strong><br>
 Dans un second temps, elle nous a expliqué comment elle documente une exposition d'art numérique et son importance cruciale. La documentation joue un rôle essentiel pour l'équipe, car elle permet de connaître le contenu précis de chaque œuvre ainsi que leur emplacement dans les caisses, évitant ainsi des ouvertures inutiles et assurant le bon déroulement de l'exposition. De plus, cette documentation offre une protection contre les dommages et les pertes éventuelles, tout en facilitant les formalités douanières en justifiant le contenu des caisses. En outre, elle constitue une archive essentielle pour l'historique des œuvres, prévenant ainsi toute répétition des étapes et permettant de gagner du temps lors de la mise en place.
 <br>
@@ -45,7 +46,7 @@ Voici le lien: (lien)
 <hr>
 <h2 align=center>Mon appréciation de la conférence</h2>
 
-
+Je dois avouer que j'ai été très impressionnée par cette conférence. Elle m'a vraiment surprise par la pertinence de son contenu, notamment en révélant l'étendue des responsabilités d'une registraire dans un projet d'une telle envergure. Les péripéties rencontrées lors de la réalisation du projet "Translation Stream" m'ont particulièrement marquée, et leur réussite finale malgré ces obstacles m'a véritablement impressionnée.
 
 <hr>
 <strong>
