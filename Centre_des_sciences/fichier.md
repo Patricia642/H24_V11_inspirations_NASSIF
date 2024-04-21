@@ -34,10 +34,11 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <h3 align=center>Composantes et techniques</h3>
 
 - Plans de l'installation
-- Plans du matériel requis obligatoirement-
+- Plans du matériel requis obligatoirement
 - 1 Projecteur
 - 1 Kinect 
 - 1 sytème d'acrochage pour le projecteur
+- Vis
 - Multiprise
 - Extensions de fils électrique
 - 1 Grande planche de bois
@@ -52,10 +53,11 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <h3 align=center>Éléments nécessaires à la mise en exposition</h3>
 
 - Plans de l'installation
-- Plans du matériel requis obligatoirement-
+- Plans du matériel requis obligatoirement
 - 1 Projecteur
 - 1 Kinect 
 - 1 sytème d'acrochage pour le projecteur
+- Vis
 - Multiprise
 - Extensions de fils électrique
 - 1 Grande planche de bois
