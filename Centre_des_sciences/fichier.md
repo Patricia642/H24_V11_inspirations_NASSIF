@@ -14,7 +14,7 @@ Installation: <strong>Permanente</strong>
 <h1 align=center>Description de l'installation</h1>
 <h3 align=center>L'exposition temporaire et immersive de Samuel Tétreault, "RIOPELLE Grandeur Nature", clôture de manière remarquable les célébrations du centenaire de Jean Paul Riopelle. En utilisant des technologies de pointe telles que la projection vidéo à 360° et la spatialisation sonore, elle transporte les visiteurs au cœur de l'œuvre de l'artiste et des paysages qui ont nourri son inspiration. De l'atelier de Riopelle aux paysages qui l'ont inspiré, en passant par ses œuvres les plus marquantes ainsi que celles moins connues, cette exposition offre une immersion totale dans l'univers créatif de Riopelle.</h3>
 
-<img src='./medias/mon_squelette_20240405.png' width=10% height=10%></h4>
+<img src='./medias/mon_squelette_20240405.png' width=50% height=50%></h4>
 
  <hr>
 <h3 align=center>Mise en espace</h3>
