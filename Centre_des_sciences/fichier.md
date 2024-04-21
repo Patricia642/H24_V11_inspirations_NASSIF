@@ -6,7 +6,7 @@ Le Centre des sciences de Montréal<br>
 <p>
 Adresse : <strong>2 R. de la Commune O, Montréal, QC H2Y 4B2</strong><br>
 Présenté: <strong>Le 5 avril 2024</strong><br>
-Installation: <strong>Permanente</strong>
+Installation: <strong>Permanente et intéractive</strong>
 </p>
 
 
