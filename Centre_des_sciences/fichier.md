@@ -81,9 +81,9 @@ Installation: <strong>Permanente</strong>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
 
-
-<img src='./medias/interface_20240405.png' width=100% height=100%>
-
+<h3 align=center>
+<img src='./medias/interface_20240405.png' width=50% height=50%>
+</h3>h3>
 <h3 align=center>Ce qui m'a plu</h3>
 
 <br>
@@ -91,8 +91,10 @@ Installation: <strong>Permanente</strong>
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/chic_20240405.png' width=100% height=100%></h4> |
-<img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4>
+| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4> |
+
+<img src='./medias/chic_20240405.png' width=100% height=100%></h4>
+
 
 <hr>
 <strong>
