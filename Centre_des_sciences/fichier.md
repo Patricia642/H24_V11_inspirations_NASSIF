@@ -81,6 +81,8 @@ Installation: <strong>Permanente</strong>
 <h3 align=center>Aspects que je ferais autrement</h3>
 Afin d'optimiser l'expérience des visiteurs, je suggérerais quelques réorganisations. Tout d'abord, je rendrais l'entrée plus visible et accueillante pour faciliter son repérage dès l'arrivée des visiteurs, attirant ainsi leur attention de manière plus efficace. Ensuite, j'assignerais du personnel spécialement dédié à l'accueil et à l'orientation des visiteurs tout au long de l'exposition, surtout compte tenu de sa répartition sur deux étages distincts. Cette assistance personnalisée garantirait aux visiteurs une exploration fluide et agréable, tout en leur offrant des réponses à leurs interrogations éventuelles. En complément, je mettrais en place un cartel général de l'œuvre au début de l'exposition. Ce cartel fournirait une vue d'ensemble de l'exposition, donnant des informations sur le thème, le contexte et les objectifs artistiques. Cela permettrait aux visiteurs de mieux comprendre le contenu de l'exposition avant de débuter leur visite.
 
+<img src='./medias/interface_20240405.png' width=100% height=100%>
+
 <h3 align=center>Ce qui m'a plu</h3>
 Ce qui m'a particulièrement plu, c'est la diversité remarquable des œuvres présentées, allant des sculptures aux tableaux, en passant par les vidéos à des espaces interactifs. Cette variété a contribué à maintenir un intérêt constant et à éviter toute sensation de répétition. De plus, j'ai adoré l'aspect sophistiqué de l'exposition, qui ajoutait une touche d'élégance à l'ensemble.
 <br>
