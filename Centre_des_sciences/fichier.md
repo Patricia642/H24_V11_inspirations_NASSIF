@@ -18,7 +18,7 @@ Installation: <strong>Permanente</strong>
 
  <hr>
 <h3 align=center>Mise en espace</h3>
- <img src='./medias/allure_installation_20240405.png' width=80% height=80%> 
+ <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
 À l'entrée, les visiteurs sont accueillis par un bureau de réception situé sur la gauche, où un code QR est disponible, fournissant diverses informations sur l'exposition. Cette zone s'intègre harmonieusement avec l'exposition principale, où sont présentées les toiles, sculptures et interactions artistiques. Un escalier conduit également au sous-sol, abritant la section consacrée aux Inuits et une salle de présentation vidéo sur la vie de Riopelle. Dans cette salle, six grands écrans sont disposés sur chaque mur rectangulaire, diffusant le son à travers des haut-parleurs positionnés au plafond. L'absence apparente de fils électriques crée une atmosphère aérée et spacieuse. Au centre de la salle se trouve un podium orné d'oiseaux en papier et de branches, évoquant un nid. Des brins d'herbe artificiels bordent la salle sous les écrans, ajoutant une touche finale à l'ambiance générale.
 <br>
 <br>
@@ -91,9 +91,8 @@ Installation: <strong>Permanente</strong>
 
 | Sculpture | Allure sophistiquée | 
 | :---: | :---: | 
-| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/mur_eau_20240405.png' width=25% height=25%></h4> |
-| Sous-sol | Moi devant le Studio des 7 Doigts | 
-| <img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4> | <img src='./medias/chic_20240405.png' width=100% height=100%></h4> |
+| <img src='./medias/multitaches_20240405.png' width=50% height=50%></h4> | <img src='./medias/chic_20240405.png' width=100% height=100%></h4> |
+<img src='./medias/multitache_2_20240405.png' width=50% height=50%></h4>
 
 <hr>
 <strong>
