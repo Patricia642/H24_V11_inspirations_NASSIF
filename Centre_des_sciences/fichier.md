@@ -13,7 +13,7 @@ Installation: <strong>Permanente et intéractive</strong>
 <h1 align=center>Description de l'installation</h1>
 
  <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
-L'installation "Mon Squelette" souligne que malgré les différences externes, les squelettes humains et animaux présentent souvent des similitudes surprenantes. Cette observation révèle une parenté fondamentale entre les espèces, en soulignant une base anatomique commune.L'installation nous encourage à considérer notre lien avec le règne animal et à prendre conscience de notre intégration dans un vaste réseau biologique.
+Le dispositif "Mon Squelette" souligne que malgré les différences externes, les squelettes humains et animaux présentent souvent des similitudes surprenantes. Cette observation révèle une parenté fondamentale entre les espèces, en soulignant une base anatomique commune.L'installation nous encourage à considérer notre lien avec le règne animal et à prendre conscience de notre intégration dans un vaste réseau biologique.
 <h3 align=center>Affiche</h3>
 <h1 align=center>
 <img src='./medias/mon_squelette_20240405.png' width=30% height=50%></h4>
