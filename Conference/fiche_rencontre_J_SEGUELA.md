@@ -24,6 +24,7 @@ Jade assume plusieurs responsabilités cruciales au sein du Studio Antimodular. 
 Pour être en mesure d'accomplir toutes ces tâches, elle a fait:
 <br>
 <br>
+
 - DEC Arts et Lettres
 - Bachelor of Fine Arts
 - Maîtrise en Muséologie
@@ -37,7 +38,7 @@ Dans un second temps, elle nous a expliqué comment elle documente une expositio
 <br>
 <strong>Étude de cas #2:</strong><br>
 Ensuite, elle nous a parlé de la production de l'œuvre intitulée "Translation Stream" sur une île déserte, plus précisément sur l'île Lulu, située à Abou Dabi. Les défis liés à cet emplacement étaient nombreux. Tout d'abord, les problèmes de corrosion dus à l'humidité ont été une préoccupation majeure, aggravés par une pluie imprévue qui a endommagé considérablement le matériel, nécessitant l'utilisation de sacs poubelles comme solution temporaire. De plus, l'absence d'électricité sur l'île a contraint l'équipe à recourir à des dispositifs alimentés par l'énergie solaire et à explorer d'autres alternatives. Ils ont également dû faire face aux défis posés par le sable, qui a engendré de nouveaux problèmes techniques nécessitant des solutions improvisées sur place. Tout cela a été entrepris avec un souci constant de ne pas perturber l'écosystème fragile de l'île, habituellement dépourvue de présence humaine.
-<br>
+<br><br>
 <strong>Bonus:</strong>
 Pour finir, elle nous a mis au courant que le studio a un github qui est libre d'acces et même qu'il nous encourage à essayer de reproduire leur oeuvre.<br>
 Voici le lien: (lien)
