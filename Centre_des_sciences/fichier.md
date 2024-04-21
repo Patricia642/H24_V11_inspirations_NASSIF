@@ -9,7 +9,7 @@ Durée : <strong>30 minutes</strong><br>
 Présenté: <strong>Le 5 avril 2024</strong><br>
 Installation: <strong>Permanente</strong>
 </p>
-<img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=50% height=50%>
+<img src='./medias/RIOPELLE_allure_salle_projection_20240301.jpg' width=10% height=10%>
 
 
 <h1 align=center>Description de l'installation</h1>
