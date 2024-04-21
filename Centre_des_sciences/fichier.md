@@ -100,13 +100,11 @@ J'ai été particulièrement séduit par le lien entre cette installation et l'�
 
 <hr>
 <strong>
-  Toutes les informations mentionnées ont été extraites du document accessible via le code QR à l'entrée, situé dans la section "Médias", ainsi que des fiches des œuvres, du site web de l'exposition, ou encore de mes propres observations personnelles.
+Toutes les informations mentionnées ont été extraites du site web de l'exposition, ou encore de mes propres observations personnelles.
 </strong>
 <br>
 <br>
-Pour obtenir plus d'informations, veuillez consulter les fiches des œuvres exposées disponibles dans la section "Médias", ou cliquez ici.
+Pour obtenir plus d'informations, veuillez cliquez ici:
 <br>
-<h4 align=center>(https://tohu.ca/fr/programmation/riopelle-grandeur-nature) <br>
-<h4 align=center>ou <br>
-<h4 align=center>(https://7doigts.com/spectacles/creations/riopelle-grandeur-nature-spectacle)
-<br>
+<h4 align=center>(https://www.centredessciencesdemontreal.com/)
+ <hr>
