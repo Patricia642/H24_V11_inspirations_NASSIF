@@ -11,8 +11,7 @@ Installation: <strong>Permanente</strong>
 
 
 <h1 align=center>Description de l'installation</h1>
-<h3 align=center>L'installation </h3>
-
+<h3 align=center>Affiche</h3>
 <h1 align=center>
 <img src='./medias/mon_squelette_20240405.png' width=20% height=20%></h4>
 </h1>
@@ -27,7 +26,7 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 | :---: | :---: | 
 | <img src='./medias/installation_20240405.png' width=50% height=100%></h4> | <img src='./medias/zone_pieds_20240405.png' width=50% height=50%></h4> |
 
-| Salle de projection | L'installation de la salle | 
+| Banc 1 | Banc 2 | 
 | :---: | :---: | 
 | <img src='./medias/banc_20240405.png' width=50% height=50%></h4> | <img src='./medias/banc_20240405.png' width=50% height=50%></h4> |
   
@@ -73,14 +72,14 @@ L'installation se trouve dans la section consacrée à l'expérience humaine, to
 <br>
 <br>
 
-| Sculpture | Allure sophistiquée | 
+| Allure | Moi | 
 | :---: | :---: | 
 | <img src='./medias/explore_20240405.png' width=80% height=100%></h4> | <img src='./medias/moi_20240405.png' width=30% height=30%></h4> |
 
 <hr>
   
 <h3 align=center>Aspects que je ferais autrement</h3>
-
+<h3 align=center>Interface</h3>
 <h3 align=center>
 <img src='./medias/interface_20240405.png' width=50% height=50%>
 </h3>
