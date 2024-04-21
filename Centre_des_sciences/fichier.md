@@ -13,8 +13,9 @@ Installation: <strong>Permanente</strong>
 <h1 align=center>Description de l'installation</h1>
 <h3 align=center>L'installation </h3>
 
+<h1 align=center>
 <img src='./medias/mon_squelette_20240405.png' width=20% height=20%></h4>
-
+</h1>
  <hr>
 <h3 align=center>Mise en espace</h3>
  <img src='./medias/allure_installation_20240405.png' width=100% height=80%> 
