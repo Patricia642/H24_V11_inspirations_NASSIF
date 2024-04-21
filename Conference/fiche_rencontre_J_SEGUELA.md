@@ -54,7 +54,7 @@ Je dois avouer que j'ai été très impressionnée par cette conférence. Elle m
 
 | Translation Stream dunes sable | Allure Translation Stream | 
 | :---: | :---: | 
-| <img src='./medias/dune_translation_stream_20240416.jpg' width=50% height=20%></h4> | <img src='./medias/translation_stream_20240416.jpg' width=50% height=20%></h4> |
+| <img src='./medias/dune_translation_stream_20240416.jpg' width=100% height=100%></h4> | <img src='./medias/translation_stream_20240416.jpg' width=100% height=100%></h4> |
 <h4 align=center>Moi<br><br>
 
 <img src='./medias/moi_20240416.png' width=30% height=30%> 
