@@ -46,7 +46,7 @@ Ensuite, elle nous a parlé de la production de l'œuvre intitulée "Translation
 <br><br>
 <strong>Bonus:</strong>
 Pour finir, elle nous a mis au courant que le studio a un github qui est libre d'acces et même qu'il nous encourage à essayer de reproduire leur oeuvre.<br>
-Voici le lien: (lien)
+<strong>Voici le lien:</strong> (https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
 <hr>
 <h2 align=center>Mon appréciation de la conférence</h2>
 
