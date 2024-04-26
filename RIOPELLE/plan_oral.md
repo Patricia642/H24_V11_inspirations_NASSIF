@@ -4,7 +4,7 @@
  <br>
  Petit résumé de mon expérience: Parler brièvement de mon expérience positive.
  <br>
- Aspects qui seront abordés: 
+ Aspects qui seront abordés: <br>
 
 - Contextualisation de l'œuvre.
 - Exposer de manière détaillée les éléments constitutifs de l'œuvre
