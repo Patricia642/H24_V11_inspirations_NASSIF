@@ -1,10 +1,10 @@
 <hr>
 <h1>Introduction</h1>
- L'objectif de ma communication: Partager en détail mon expérience de visite afin de donner une vision complète à ceux qui n'ont pas eu l'occasion d'y assister.
+ <h3>L'objectif de ma communication:</h3> Partager en détail mon expérience de visite afin de donner une vision complète à ceux qui n'ont pas eu l'occasion d'y assister.
  <br>
- Petit résumé de mon expérience: Parler brièvement de mon expérience positive.
+ <h3>Petit résumé de mon expérience:</h3> Parler brièvement de mon expérience positive.
  <br>
- Aspects qui seront abordés: <br>
+ <h3>Aspects qui seront abordés:</h3> <br><br>
 
 - Contextualisation de l'œuvre.
 - Exposer de manière détaillée les éléments constitutifs de l'œuvre
@@ -16,20 +16,20 @@
  <hr>
 
 <h1>Développement</h1>
-Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition: Mise en contexte de "RIOPELLE Grandeur Nature".
+<h3>Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition:</h3>  Mise en contexte de "RIOPELLE Grandeur Nature".
 <br>
-Présentation détaillée de l'oeuvre ou du dispositif multimédia:Développer davantage sur les descriptions de l'œuvre en incluant tous les éléments descriptifs pertinents.
+<h3>Présentation détaillée de l'oeuvre ou du dispositif multimédia:</h3> Développer davantage sur les descriptions de l'œuvre en incluant tous les éléments descriptifs pertinents.
 <br>
-Expérience vécue: Personnellement, j'ai trouvé l'expérience globalement agréable, bien qu'elle ait rencontré quelques petites perturbations au début.
+<h3>Expérience vécue:</h3> Personnellement, j'ai trouvé l'expérience globalement agréable, bien qu'elle ait rencontré quelques petites perturbations au début.
 <br>
-Appréciation critique et justifications: Parler de mon appréciation générale de manière détaillée tout en fournissant des justifications.
+<h3>Appréciation critique et justifications:</h3> Parler de mon appréciation générale de manière détaillée tout en fournissant des justifications.
 <br>
-Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session:
+<h3>Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session:</h3>
 <br>
 <hr>
 
 <h1>Conclusion</h1>
-Rappel des aspects présentés:
+<h3>Rappel des aspects présentés:</h3>
 <br>
-Ouverture :
+<h3>Ouverture :</h3>
 <hr>
